@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "grab": "deno run --allow-env --allow-net --allow-write=repos.json,README.md grab.ts && deno fmt"
+  }
+}

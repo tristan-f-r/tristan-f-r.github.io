@@ -13,11 +13,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      # setup deno
-      - uses: denoland/setup-deno@v1
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Setup deno
+        uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
-      # run deno action
       - name: Run deno grab action
         run: deno run --allow-env --allow-net --allow-write=repos.json,README.md grab.ts
       # auto-commit suggestions

@@ -1,0 +1,25 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # Run workflow when pushing on main
+  push:
+    branches: "main"
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # setup deno
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+      # run deno action
+      - name: Run deno grab action
+        run: deno task grab
+      # auto-commit suggestions
+      - uses: stefanzweifel/git-auto-commit-action@v4
+      

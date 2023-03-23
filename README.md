@@ -185,6 +185,7 @@ looking for my website? go to [https://leodog896.com](https://leodog896.com) ins
 - [gluesql (0)](https://github.com/LeoDog896/gluesql)  - GlueSQL is quite sticky. It attaches to anywhere.
 - [gluesql-js (0)](https://github.com/LeoDog896/gluesql-js)  - GlueSQL JavaScript Interface
 - [gluesql-term (0)](https://github.com/LeoDog896/gluesql-term)  - online gluesql terminal & playground
+- [godot-demo-projects (0)](https://github.com/LeoDog896/godot-demo-projects) ([homepage](https://godotengine.org)) - Demonstration and Template Projects
 - [godot-devcontainer-playground (0)](https://github.com/LeoDog896/godot-devcontainer-playground)  - No description provided.
 - [godot-triage-adjacent-merge-polygon2d (0)](https://github.com/LeoDog896/godot-triage-adjacent-merge-polygon2d)  - godot triage for adjacent shape merges
 - [grass (0)](https://github.com/LeoDog896/grass) ([homepage](https://connorskees.github.io/grassmeister/)) - A Sass compiler written purely in Rust

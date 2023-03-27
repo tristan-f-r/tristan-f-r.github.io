@@ -192,6 +192,7 @@ looking for my website? go to [https://leodog896.com](https://leodog896.com) ins
 - [h264cam (0)](https://github.com/LeoDog896/h264cam)  - No description provided.
 - [hantick-discord-bot (0)](https://github.com/LeoDog896/hantick-discord-bot) ([homepage](https://discord.gg/invite/srZ5BzJaRH)) - The official Discord bot for the Jantick Technologies Discord Server. - Use this source code for your own Discord Bot
 - [Harvey (0)](https://github.com/LeoDog896/Harvey)  - Community managment Discord bot for the Old Dominion University Computer Science community.
+- [headphone-sensor (0)](https://github.com/LeoDog896/headphone-sensor)  - No description provided.
 - [hello-world.rs (0)](https://github.com/LeoDog896/hello-world.rs)  - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
 - [Highlands-Development (0)](https://github.com/LeoDog896/Highlands-Development)  - Dev stuff
 - [Hill-Cipher (0)](https://github.com/LeoDog896/Hill-Cipher)  - JavaScript Implementation of the Hill Cipher

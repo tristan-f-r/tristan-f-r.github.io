@@ -69,6 +69,7 @@ looking for my website? go to [https://leodog896.com](https://leodog896.com) ins
 - [awesome-lint (0)](https://github.com/LeoDog896/awesome-lint)  - Linter for Awesome lists
 - [awesome-minecraft (0)](https://github.com/LeoDog896/awesome-minecraft)  - 📝 The curated list of awesome things related to Minecraft.
 - [awesome-readme (0)](https://github.com/LeoDog896/awesome-readme)  - A curated list of awesome READMEs
+- [awesome-remark (0)](https://github.com/LeoDog896/awesome-remark) ([homepage](https://remark.js.org)) - Curated list of awesome remark resources
 - [awesome-surreal (0)](https://github.com/LeoDog896/awesome-surreal) ([homepage](https://surrealdb.com)) - A curated list of SurrealDB resources, tools, utilities, and applications.
 - [awesome-surrealdb (0)](https://github.com/LeoDog896/awesome-surrealdb)  - A curated list of awesome SurrealDB resources, libraries, tools, and applications.
 - [babel (0)](https://github.com/LeoDog896/babel) ([homepage](https://babel.dev)) - 🐠 Babel is a compiler for writing next generation JavaScript.
@@ -120,6 +121,7 @@ looking for my website? go to [https://leodog896.com](https://leodog896.com) ins
 - [deno (0)](https://github.com/LeoDog896/deno) ([homepage](https://deno.land)) - A modern runtime for JavaScript and TypeScript.
 - [deno-cava (0)](https://github.com/LeoDog896/deno-cava)  - No description provided.
 - [deno-cliffy (0)](https://github.com/LeoDog896/deno-cliffy) ([homepage](https://cliffy.io)) - Command line framework for deno 🦕 Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...
+- [deno-codespace (0)](https://github.com/LeoDog896/deno-codespace)  - preconfigured deno codespace template (for deno playgrounds)
 - [deno-dom (0)](https://github.com/LeoDog896/deno-dom) ([homepage](https://deno.land/x/deno_dom)) - Browser DOM & HTML parser in Deno
 - [deno-gfm (0)](https://github.com/LeoDog896/deno-gfm) ([homepage](https://deno.land/x/gfm)) - Server-side GitHub Flavored Markdown rendering for Deno
 - [deno-playground (0)](https://github.com/LeoDog896/deno-playground)  - A deno playground with fresh and deno deploy

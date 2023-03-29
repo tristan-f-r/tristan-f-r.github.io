@@ -350,6 +350,7 @@ looking for my website? go to [https://leodog896.com](https://leodog896.com) ins
 - [servo (0)](https://github.com/LeoDog896/servo) ([homepage](https://servo.org/)) - The Servo Browser Engine
 - [shapeshift (0)](https://github.com/LeoDog896/shapeshift) ([homepage](https://www.sapphirejs.dev)) - Blazing fast input validation and transformation ⚡
 - [shields (0)](https://github.com/LeoDog896/shields) ([homepage](https://shields.io)) - Concise, consistent, and legible badges in SVG and raster format
+- [shiki (0)](https://github.com/LeoDog896/shiki) ([homepage](https://shiki.matsu.io)) - A beautiful Syntax Highlighter.
 - [Siege (0)](https://github.com/LeoDog896/Siege)  - Siege is the official repository of all code that makes up the Siege server
 - [siki (0)](https://github.com/LeoDog896/siki)  - simple wikipedia explanations (rust)
 - [SimpleWarp (0)](https://github.com/LeoDog896/SimpleWarp)  - Warp plugin for Minecraft

@@ -11,6 +11,7 @@ looking for my website? go to [https://leodog896.com](https://leodog896.com) ins
 - [ferret_api (3)](https://github.com/LeoDog896/ferret_api) ([homepage](https://leodog896.github.io/ferret_api)) - collection of ferret besties
 - [maxwell (3)](https://github.com/LeoDog896/maxwell) ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and maxwell fan website
 - [sttcv (3)](https://github.com/LeoDog896/sttcv)  - Svelte tailwind component vite template
+- [co-authored-by (2)](https://github.com/LeoDog896/co-authored-by)  - generate co-authored-by descriptions for authors, while (attempting to) respect email privacy
 - [conspirasea (2)](https://github.com/LeoDog896/conspirasea) ([homepage](https://leodog896.github.io/conspirasea)) - make simple yarn-based conspiracies
 - [ferret_images (2)](https://github.com/LeoDog896/ferret_images)  - collection of ferret images, in use with ferret_api
 - [gdt (2)](https://github.com/LeoDog896/gdt)  - gdscript tools for abstract manipulation of ASTs

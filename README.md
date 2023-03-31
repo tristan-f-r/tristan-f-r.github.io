@@ -6,7 +6,7 @@ looking for my website? go to [https://leodog896.com](https://leodog896.com) ins
 
 ## Repositories
 - [awesome-minestom (33)](https://github.com/LeoDog896/awesome-minestom)  - A curated list of awesome Minestom libraries, resources, projects, and servers.
-- [deno-outdated (17)](https://github.com/LeoDog896/deno-outdated)  - Find outdated dependencies in your deno project
+- [deno-outdated (18)](https://github.com/LeoDog896/deno-outdated)  - Find outdated dependencies in your deno project
 - [scannable (4)](https://github.com/LeoDog896/scannable) ([homepage](https://leodog896.github.io/scannable)) - QR code generator for the web
 - [ferret_api (3)](https://github.com/LeoDog896/ferret_api) ([homepage](https://leodog896.github.io/ferret_api)) - collection of ferret besties
 - [maxwell (3)](https://github.com/LeoDog896/maxwell) ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and maxwell fan website
@@ -100,6 +100,7 @@ looking for my website? go to [https://leodog896.com](https://leodog896.com) ins
 - [chessground-anim (0)](https://github.com/LeoDog896/chessground-anim)  - animate pgn with chessground
 - [chessground-triage-click-positioning (0)](https://github.com/LeoDog896/chessground-triage-click-positioning)  - triage for chessground for silly positioning issue
 - [classlink-2fa-vulnerability (0)](https://github.com/LeoDog896/classlink-2fa-vulnerability)  - a classlink 2fa vulnerability repo
+- [co-authored-by-deno (0)](https://github.com/LeoDog896/co-authored-by-deno)  - deno deploy function for co-authored-by
 - [code-and-crypt (0)](https://github.com/LeoDog896/code-and-crypt)  - visualize codes and cryptography methods
 - [code-notes (0)](https://github.com/LeoDog896/code-notes)  - simple code notes for syntax highlighted notes
 - [codemirror-lang-svelte (0)](https://github.com/LeoDog896/codemirror-lang-svelte)  - Svelte language support for CodeMirror 6

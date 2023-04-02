@@ -22,7 +22,7 @@ jobs:
         with:
           deno-version: v1.x
       - name: Run deno grab action
-        run: deno run --allow-env --allow-net --allow-write=repos.json,README.md grab.ts
+        run: deno task grab
       # auto-commit suggestions
       - uses: stefanzweifel/git-auto-commit-action@v4
       

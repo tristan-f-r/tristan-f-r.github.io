@@ -1,7 +1,18 @@
 import { z } from "https://deno.land/x/zod@v3.21.4/mod.ts";
 
+const repoSchema = z.object({
+  name: z.string(),
+  description: z.string().optional().nullable(),
+  html_url: z.string(),
+  stargazers_count: z.number(),
+  homepage: z.string().optional().nullable(),
+  fork: z.boolean(),
+});
+
+type Repo = z.infer<typeof repoSchema>;
+
 console.log("Fetching repos...");
-async function* getRepos(): AsyncGenerator<unknown[], void, void> {
+async function* getRepos(): AsyncGenerator<Repo, void, void> {
   let page = 1;
   while (true) {
     const res = await fetch(
@@ -16,43 +27,29 @@ async function* getRepos(): AsyncGenerator<unknown[], void, void> {
     if (data.length === 0) {
       break;
     }
-    yield data;
+    for (const repo of data) {
+      yield repoSchema.parse(repo);
+    }
     page++;
   }
 }
 
-let data: unknown[] = [];
+const data: Repo[] = [];
 
 for await (const page of getRepos()) {
-  console.log(`Fetched ${page.length} repos...`);
-  data = data.concat(page);
+  data.push(page);
 }
 
-console.log(`Writing ${data.length} repos to repos.json...`);
-
-await Deno.writeTextFile("repos.json", JSON.stringify(data, null, 2));
-
-const schema = z.array(z.object({
-  name: z.string(),
-  description: z.string().optional().nullable(),
-  html_url: z.string(),
-  stargazers_count: z.number(),
-  homepage: z.string().optional().nullable(),
-  fork: z.boolean(),
-}));
-
-const verifiedData = schema.parse(data);
-
-const projects = verifiedData.filter((repo) =>
+const projects = data.filter((repo) =>
   !repo.fork || repo.stargazers_count > 1
 );
-const forks = verifiedData.filter((repo) =>
+const forks = data.filter((repo) =>
   repo.fork && repo.stargazers_count <= 1
 );
 
 function sortRepos(
-  a: typeof verifiedData[number],
-  b: typeof verifiedData[number],
+  a: typeof data[number],
+  b: typeof data[number],
 ) {
   const aStars = a.stargazers_count;
   const bStars = b.stargazers_count;
@@ -72,7 +69,7 @@ looking for my website? go to [https://leodog896.com](https://leodog896.com) ins
 
 ## Projects (${projects.length})
 
-> **note**
+> **Note**
 > Forks with more than 1 star are included in this list
 > This is because a few forks are permenant forks of other projects.
 `;
@@ -88,7 +85,7 @@ for (const repo of projects) {
 markdown += `
 ## Forks (${forks.length})
 
-> **note**
+> **Note**
 > I have forked a lot of projects for OSS contributions.
 
 `;

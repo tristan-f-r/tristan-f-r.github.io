@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   # Run workflow when pushing on main
   push:
-    branches: "main"
+    branches: ["main"]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest

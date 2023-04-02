@@ -1,7 +1,7 @@
-import { z } from "https://deno.land/x/zod@v3.20.0/mod.ts";
+import { z } from "https://deno.land/x/zod@v3.21.4/mod.ts";
 
 console.log("Fetching repos...");
-const response = (async function* () {
+async function* getRepos(): AsyncGenerator<unknown[], void, void> {
   let page = 1;
   while (true) {
     const res = await fetch(
@@ -11,16 +11,16 @@ const response = (async function* () {
     if (data.length === 0) {
       break;
     }
-    yield { data };
+    yield data;
     page++;
   }
-})();
+}
 
 let data: unknown[] = [];
 
-for await (const page of response) {
-  console.log(`Fetched ${page.data.length} repos...`);
-  data = data.concat(page.data);
+for await (const page of getRepos()) {
+  console.log(`Fetched ${page.length} repos...`);
+  data = data.concat(page);
 }
 
 console.log(`Writing ${data.length} repos to repos.json...`);

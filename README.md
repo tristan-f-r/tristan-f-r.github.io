@@ -1,4 +1,4 @@
-# leodog896.github.io
+# [leodog896.github.io](https://github.com/LeoDog896/leodog896.github.io)
 
 these are auto-generated lists of repositories on my account, mainly for
 catalogue info.

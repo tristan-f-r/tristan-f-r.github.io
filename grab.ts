@@ -27,7 +27,8 @@ console.log(`Writing ${data.length} repos to repos.json...`);
 
 await Deno.writeTextFile("repos.json", JSON.stringify(data, null, 2));
 
-let markdown = `# leodog896.github.io
+let markdown =
+  `# [leodog896.github.io](https://github.com/LeoDog896/leodog896.github.io)
 
 these are auto-generated lists of repositories on my account, mainly for catalogue info.
 

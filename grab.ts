@@ -71,6 +71,10 @@ these are auto-generated lists of repositories on my account, mainly for catalog
 looking for my website? go to [https://leodog896.com](https://leodog896.com) instead.
 
 ## Projects (${projects.length})
+
+> **note**
+> Forks with more than 1 star are included in this list
+> This is because a few forks are permenant forks of other projects.
 `;
 
 for (const repo of projects) {
@@ -83,6 +87,10 @@ for (const repo of projects) {
 
 markdown += `
 ## Forks (${forks.length})
+
+> **note**
+> I have forked a lot of projects for OSS contributions.
+
 `;
 
 for (const repo of forks) {

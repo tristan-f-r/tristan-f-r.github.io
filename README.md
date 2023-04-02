@@ -8,6 +8,9 @@ instead.
 
 ## Projects (202)
 
+> **note** Forks with more than 1 star are included in this list This is because
+> a few forks are permenant forks of other projects.
+
 - [awesome-minestom (33)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (18)](https://github.com/LeoDog896/deno-outdated) - Find
@@ -399,6 +402,8 @@ instead.
 - [willuhm-js (0)](https://github.com/LeoDog896/willuhm-js) - My profile README!
 
 ## Forks (234)
+
+> **note** I have forked a lot of projects for OSS contributions.
 
 - [awesome-python](https://github.com/LeoDog896/awesome-python)
   ([homepage](https://awesome-python.com/)) - A curated list of awesome Python

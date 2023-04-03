@@ -36,6 +36,8 @@ instead.
   of ferret images, in use with ferret_api
 - [gdt (2)](https://github.com/LeoDog896/gdt) - gdscript tools for abstract
   manipulation of ASTs
+- [jsnow (2)](https://github.com/LeoDog896/jsnow)
+  ([homepage](https://now.js.org)) - no clutter. just js, now.
 - [kanban (2)](https://github.com/LeoDog896/kanban) - a kanban management system
 - [lichess-minecraft (2)](https://github.com/LeoDog896/lichess-minecraft) -
   lichess board implementation for minecraft.
@@ -84,8 +86,6 @@ instead.
   in godot
 - [jigsawable (1)](https://github.com/LeoDog896/jigsawable) - jigsaw game in
   godot, demonstrating the `godot-jigsaw` repository example
-- [jsnow (1)](https://github.com/LeoDog896/jsnow)
-  ([homepage](https://now.js.org)) - no clutter. just js, now.
 - [Logitech-Extreme-3d-Pro-Visualizer (1)](https://github.com/LeoDog896/Logitech-Extreme-3d-Pro-Visualizer)
   ([homepage](https://leodog896.github.io/Logitech-Extreme-3d-Pro-Visualizer/)) -
   Check out the data sent by your logitech controller!

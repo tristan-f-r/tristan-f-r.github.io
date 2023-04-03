@@ -13,7 +13,8 @@ type Repo = z.infer<typeof repoSchema>;
 
 console.log("Fetching repos...");
 async function* getRepos(): AsyncGenerator<Repo, void, void> {
-  let url: string | undefined = "https://api.github.com/users/LeoDog896/repos?per_page=100";
+  let url: string | undefined =
+    "https://api.github.com/user/26509014/repos?per_page=100";
 
   while (url) {
     console.log("Querying", url);
@@ -26,6 +27,13 @@ async function* getRepos(): AsyncGenerator<Repo, void, void> {
         },
       },
     );
+
+    if (!res.ok) {
+      throw new Error(
+        `Failed to fetch ${url}: ${res.status} ${res.statusText}`,
+      );
+    }
+
     const data = await res.json();
 
     const next = res.headers.get("Link")?.match(/<([^>]+)>; rel="next"/);

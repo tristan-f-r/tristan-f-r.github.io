@@ -13,10 +13,13 @@ type Repo = z.infer<typeof repoSchema>;
 
 console.log("Fetching repos...");
 async function* getRepos(): AsyncGenerator<Repo, void, void> {
-  let page = 1;
-  while (true) {
+  let url: string | undefined = "https://api.github.com/users/LeoDog896/repos?per_page=100";
+
+  while (url) {
+    console.log("Querying", url);
+
     const res = await fetch(
-      `https://api.github.com/users/LeoDog896/repos?page=${page}&per_page=100`,
+      url,
       {
         headers: {
           "X-GitHub-Api-Version": "2022-11-28",
@@ -24,13 +27,13 @@ async function* getRepos(): AsyncGenerator<Repo, void, void> {
       },
     );
     const data = await res.json();
-    if (data.length === 0) {
-      break;
-    }
+
+    const next = res.headers.get("Link")?.match(/<([^>]+)>; rel="next"/);
+    url = next?.[1];
+
     for (const repo of data) {
       yield repoSchema.parse(repo);
     }
-    page++;
   }
 }
 

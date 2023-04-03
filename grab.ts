@@ -40,12 +40,8 @@ for await (const page of getRepos()) {
   data.push(page);
 }
 
-const projects = data.filter((repo) =>
-  !repo.fork || repo.stargazers_count > 1
-);
-const forks = data.filter((repo) =>
-  repo.fork && repo.stargazers_count <= 1
-);
+const projects = data.filter((repo) => !repo.fork || repo.stargazers_count > 1);
+const forks = data.filter((repo) => repo.fork && repo.stargazers_count <= 1);
 
 function sortRepos(
   a: typeof data[number],

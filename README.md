@@ -8,7 +8,7 @@ instead.
 
 ## Projects (202)
 
-> **note** Forks with more than 1 star are included in this list This is because
+> **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
 
 - [awesome-minestom (33)](https://github.com/LeoDog896/awesome-minestom) - A
@@ -403,7 +403,7 @@ instead.
 
 ## Forks (234)
 
-> **note** I have forked a lot of projects for OSS contributions.
+> **Note** I have forked a lot of projects for OSS contributions.
 
 - [awesome-python](https://github.com/LeoDog896/awesome-python)
   ([homepage](https://awesome-python.com/)) - A curated list of awesome Python

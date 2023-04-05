@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (202)
+## Projects (203)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
@@ -364,6 +364,8 @@ instead.
   MathQuill wrapper for svelte
 - [svelte-stopwatch (0)](https://github.com/LeoDog896/svelte-stopwatch) - time
   tracker for svelte
+- [text-gradient (0)](https://github.com/LeoDog896/text-gradient) - copy silly
+  little text gradients to your favorite WYSWIG editors
 - [thequeen (0)](https://github.com/LeoDog896/thequeen) - the queen was cool
 - [tokiponasona.github.io (0)](https://github.com/LeoDog896/tokiponasona.github.io) -
   No description provided.

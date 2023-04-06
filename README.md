@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (203)
+## Projects (204)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
@@ -70,6 +70,8 @@ instead.
   Edit bookmarklets simply
 - [build-themes (1)](https://github.com/LeoDog896/build-themes) - a repo of
   hypixel build themes (easily sortable)
+- [co-authored-by-deno (1)](https://github.com/LeoDog896/co-authored-by-deno) -
+  deno deploy function for co-authored-by
 - [dite (1)](https://github.com/LeoDog896/dite) - a little bit of a framework
 - [doke (1)](https://github.com/LeoDog896/doke)
   ([homepage](https://leodog896.github.io/doke)) - code decoder
@@ -138,8 +140,6 @@ instead.
   triage for chessground for silly positioning issue
 - [classlink-2fa-vulnerability (0)](https://github.com/LeoDog896/classlink-2fa-vulnerability) -
   a classlink 2fa vulnerability repo
-- [co-authored-by-deno (0)](https://github.com/LeoDog896/co-authored-by-deno) -
-  deno deploy function for co-authored-by
 - [code-and-crypt (0)](https://github.com/LeoDog896/code-and-crypt) - visualize
   codes and cryptography methods
 - [code-notes (0)](https://github.com/LeoDog896/code-notes) - simple code notes
@@ -151,6 +151,8 @@ instead.
 - [curvegroove (0)](https://github.com/LeoDog896/curvegroove) - make fancy
   animations with a simple UI
 - [dangle (0)](https://github.com/LeoDog896/dangle) - hangman in rust
+- [deep-email-scan (0)](https://github.com/LeoDog896/deep-email-scan) - scan for
+  exposed emails in a github profile.
 - [deno-cava (0)](https://github.com/LeoDog896/deno-cava) - No description
   provided.
 - [deno-codespace (0)](https://github.com/LeoDog896/deno-codespace) -

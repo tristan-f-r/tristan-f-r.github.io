@@ -405,7 +405,7 @@ instead.
   competition)
 - [willuhm-js (0)](https://github.com/LeoDog896/willuhm-js) - My profile README!
 
-## Forks (234)
+## Forks (235)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -475,6 +475,7 @@ instead.
   library. Lightweight (1.79 kb).
 - [cash](https://github.com/LeoDog896/cash) - An absurdly small jQuery
   alternative for modern browsers.
+- [cava](https://github.com/LeoDog896/cava) - Cross-platform Audio Visualizer
 - [Cheesgle](https://github.com/LeoDog896/Cheesgle) - The world's best worst
   search engine, based on cheese.
 - [chessground](https://github.com/LeoDog896/chessground)

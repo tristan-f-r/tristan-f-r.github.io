@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (204)
+## Projects (207)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
@@ -70,8 +70,9 @@ instead.
   Edit bookmarklets simply
 - [build-themes (1)](https://github.com/LeoDog896/build-themes) - a repo of
   hypixel build themes (easily sortable)
-- [co-authored-by-deno (1)](https://github.com/LeoDog896/co-authored-by-deno) -
-  deno deploy function for co-authored-by
+- [co-authored-by-deno (1)](https://github.com/LeoDog896/co-authored-by-deno)
+  ([homepage](https://co-authored-by.deno.dev)) - deno deploy function for
+  co-authored-by
 - [dite (1)](https://github.com/LeoDog896/dite) - a little bit of a framework
 - [doke (1)](https://github.com/LeoDog896/doke)
   ([homepage](https://leodog896.github.io/doke)) - code decoder
@@ -258,6 +259,9 @@ instead.
   mathquill
 - [md4-hash (0)](https://github.com/LeoDog896/md4-hash) - pure typescript
   implementation of the md4 hashing algorithm
+- [mdsite (0)](https://github.com/LeoDog896/mdsite)
+  ([homepage](https://mdsite.deno.dev/)) - deno deploy for converting sites into
+  markdown w/ readability
 - [mimic (0)](https://github.com/LeoDog896/mimic) - WebRTC video mimicking on
   the server
 - [minestom-extensions (0)](https://github.com/LeoDog896/minestom-extensions) -
@@ -298,6 +302,8 @@ instead.
 - [parcel-triage-mstile (0)](https://github.com/LeoDog896/parcel-triage-mstile) -
   triage for mstile asset duplication in parcel
 - [pata (0)](https://github.com/LeoDog896/pata) - p2p chat app
+- [piano-visualizer (0)](https://github.com/LeoDog896/piano-visualizer) -
+  visualize midi music
 - [placement-scramble (0)](https://github.com/LeoDog896/placement-scramble) -
   auto scramble your text with the first and last characters remaining in the
   same place
@@ -337,6 +343,8 @@ instead.
   (rust)
 - [Skript-Editor (0)](https://github.com/LeoDog896/Skript-Editor) - An editor
   for skript
+- [snakes-ladders-sim (0)](https://github.com/LeoDog896/snakes-ladders-sim) -
+  snakes and ladders simulator
 - [SpanishConjunctions (0)](https://github.com/LeoDog896/SpanishConjunctions) -
   Spanish Conjuctions!
 - [spin (0)](https://github.com/LeoDog896/spin) - spinny text
@@ -405,7 +413,7 @@ instead.
   competition)
 - [willuhm-js (0)](https://github.com/LeoDog896/willuhm-js) - My profile README!
 
-## Forks (235)
+## Forks (238)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -705,6 +713,8 @@ instead.
   easily as writing!
 - [matter-js](https://github.com/LeoDog896/matter-js) - a 2D rigid body physics
   engine for the web ▲● ■
+- [MDsveX](https://github.com/LeoDog896/MDsveX)
+  ([homepage](https://mdsvex.pngwn.io)) - A markdown preprocessor for Svelte.
 - [mermaid](https://github.com/LeoDog896/mermaid)
   ([homepage](http://mermaid.js.org)) - Generation of diagrams like flowcharts
   or sequence diagrams from text in a similar manner as markdown
@@ -946,6 +956,9 @@ instead.
 - [wasm-pack](https://github.com/LeoDog896/wasm-pack)
   ([homepage](https://rustwasm.github.io/wasm-pack/)) - 📦✨ your favorite rust
   -> wasm workflow tool!
+- [webpage-1](https://github.com/LeoDog896/webpage-1)
+  ([homepage](https://willuhmjs.com/)) - A personal website that does not
+  reflect my skill whatsoever. Now with themes!
 - [webrtc-streamer](https://github.com/LeoDog896/webrtc-streamer)
   ([homepage](https://webrtcstreamer.agreeabletree-365b9a90.canadacentral.azurecontainerapps.io?layout=2x2)) -
   WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture
@@ -953,6 +966,8 @@ instead.
   ([homepage](https://parceljs.org)) - 🌎 Parcel website
 - [wheatleycrab](https://github.com/LeoDog896/wheatleycrab) - A discord music
   bot written in Go
+- [willuhmjs.github.io](https://github.com/LeoDog896/willuhmjs.github.io) - my
+  repos
 - [Wormhole-X-Treme](https://github.com/LeoDog896/Wormhole-X-Treme)
   ([homepage](http://jira.luricos.de/browse/Wormhole)) - WormholeXTreme is a
   Stargate plugin for CraftBukkit

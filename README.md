@@ -29,6 +29,9 @@ instead.
 - [co-authored-by (2)](https://github.com/LeoDog896/co-authored-by)
   ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
   co-authored-by descriptions & emails for authors
+- [co-authored-by-deno (2)](https://github.com/LeoDog896/co-authored-by-deno)
+  ([homepage](https://co-authored-by.deno.dev)) - deno deploy function for
+  co-authored-by
 - [conspirasea (2)](https://github.com/LeoDog896/conspirasea)
   ([homepage](https://leodog896.github.io/conspirasea)) - make simple yarn-based
   conspiracies
@@ -70,9 +73,6 @@ instead.
   Edit bookmarklets simply
 - [build-themes (1)](https://github.com/LeoDog896/build-themes) - a repo of
   hypixel build themes (easily sortable)
-- [co-authored-by-deno (1)](https://github.com/LeoDog896/co-authored-by-deno)
-  ([homepage](https://co-authored-by.deno.dev)) - deno deploy function for
-  co-authored-by
 - [dite (1)](https://github.com/LeoDog896/dite) - a little bit of a framework
 - [doke (1)](https://github.com/LeoDog896/doke)
   ([homepage](https://leodog896.github.io/doke)) - code decoder
@@ -260,8 +260,8 @@ instead.
 - [md4-hash (0)](https://github.com/LeoDog896/md4-hash) - pure typescript
   implementation of the md4 hashing algorithm
 - [mdsite (0)](https://github.com/LeoDog896/mdsite)
-  ([homepage](https://mdsite.deno.dev/)) - deno deploy for converting sites into
-  markdown w/ readability
+  ([homepage](https://mdsite.deno.dev/)) - serverless app for converting sites
+  into markdown w/ readability
 - [mimic (0)](https://github.com/LeoDog896/mimic) - WebRTC video mimicking on
   the server
 - [minestom-extensions (0)](https://github.com/LeoDog896/minestom-extensions) -
@@ -302,8 +302,9 @@ instead.
 - [parcel-triage-mstile (0)](https://github.com/LeoDog896/parcel-triage-mstile) -
   triage for mstile asset duplication in parcel
 - [pata (0)](https://github.com/LeoDog896/pata) - p2p chat app
-- [piano-visualizer (0)](https://github.com/LeoDog896/piano-visualizer) -
-  visualize midi music
+- [piano-visualizer (0)](https://github.com/LeoDog896/piano-visualizer)
+  ([homepage](https://leodog896.github.io/piano-visualizer/)) - visualize midi
+  music
 - [placement-scramble (0)](https://github.com/LeoDog896/placement-scramble) -
   auto scramble your text with the first and last characters remaining in the
   same place

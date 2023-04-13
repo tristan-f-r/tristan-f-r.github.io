@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (207)
+## Projects (208)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
@@ -134,6 +134,9 @@ instead.
   breathing exercise, for as long as you need.
 - [caesar_cipher (0)](https://github.com/LeoDog896/caesar_cipher) - caesar
   cipher implementation in deno.
+- [canvas-coordinates (0)](https://github.com/LeoDog896/canvas-coordinates)
+  ([homepage](https://leodog896.github.io/canvas-coordinates/)) - visual canvas
+  coordinates demo
 - [Chat (0)](https://github.com/LeoDog896/Chat) - Just another Chat plugin
 - [chessground-anim (0)](https://github.com/LeoDog896/chessground-anim) -
   animate pgn with chessground

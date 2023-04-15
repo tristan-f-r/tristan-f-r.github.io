@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (208)
+## Projects (210)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
@@ -41,7 +41,6 @@ instead.
   manipulation of ASTs
 - [jsnow (2)](https://github.com/LeoDog896/jsnow)
   ([homepage](https://now.js.org)) - no clutter. just js, now.
-- [kanban (2)](https://github.com/LeoDog896/kanban) - a kanban management system
 - [lichess-minecraft (2)](https://github.com/LeoDog896/lichess-minecraft) -
   lichess board implementation for minecraft.
 - [lyricly (2)](https://github.com/LeoDog896/lyricly) - song lyrics in the cli
@@ -89,6 +88,7 @@ instead.
   in godot
 - [jigsawable (1)](https://github.com/LeoDog896/jigsawable) - jigsaw game in
   godot, demonstrating the `godot-jigsaw` repository example
+- [kanban (1)](https://github.com/LeoDog896/kanban) - a kanban management system
 - [Logitech-Extreme-3d-Pro-Visualizer (1)](https://github.com/LeoDog896/Logitech-Extreme-3d-Pro-Visualizer)
   ([homepage](https://leodog896.github.io/Logitech-Extreme-3d-Pro-Visualizer/)) -
   Check out the data sent by your logitech controller!
@@ -163,6 +163,9 @@ instead.
   preconfigured deno codespace template (for deno playgrounds)
 - [deno-playground (0)](https://github.com/LeoDog896/deno-playground) - A deno
   playground with fresh and deno deploy
+- [deno_op (0)](https://github.com/LeoDog896/deno_op)
+  ([homepage](https://leodog896.github.io/deno_op/)) - list of all deno internal
+  ops
 - [direction-test (0)](https://github.com/LeoDog896/direction-test)
   ([homepage](https://leodog896.github.io/direction-test)) - a simple test for
   direction
@@ -324,6 +327,8 @@ instead.
   githubrawcontent URLs straight in github
 - [reaction (0)](https://github.com/LeoDog896/reaction) - reaction speed
   calculator based on traffic lights
+- [red_deno (0)](https://github.com/LeoDog896/red_deno) - red deno permissions
+  that you should not use
 - [replit-database-transfer (0)](https://github.com/LeoDog896/replit-database-transfer) -
   Simple database downloading and uploading from/to JSON
 - [replit.db (0)](https://github.com/LeoDog896/replit.db) - replit db mock
@@ -417,7 +422,7 @@ instead.
   competition)
 - [willuhm-js (0)](https://github.com/LeoDog896/willuhm-js) - My profile README!
 
-## Forks (239)
+## Forks (240)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -851,6 +856,9 @@ instead.
   SVG and raster format
 - [shiki](https://github.com/LeoDog896/shiki)
   ([homepage](https://shiki.matsu.io)) - A beautiful Syntax Highlighter.
+- [showcase_todo](https://github.com/LeoDog896/showcase_todo)
+  ([homepage](https://showcase-todo.deno.dev/)) - Collaborative todo-list app
+  built with Deno and Fresh
 - [Siege](https://github.com/LeoDog896/Siege) - Siege is the official repository
   of all code that makes up the Siege server
 - [SimpleWarp](https://github.com/LeoDog896/SimpleWarp) - Warp plugin for

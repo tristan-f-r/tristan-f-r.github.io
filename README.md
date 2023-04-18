@@ -13,7 +13,7 @@ instead.
 
 - [awesome-minestom (34)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
-- [deno-outdated (18)](https://github.com/LeoDog896/deno-outdated) - Find
+- [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
 - [scannable (4)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable)) - QR code generator for

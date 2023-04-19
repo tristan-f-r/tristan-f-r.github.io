@@ -239,8 +239,9 @@ instead.
   files!
 - [LeoDog896 (0)](https://github.com/LeoDog896/LeoDog896) - No description
   provided.
-- [leodog896.github.io (0)](https://github.com/LeoDog896/leodog896.github.io) -
-  auto-generated list of repositories on my account, mainly for catalogue info
+- [leodog896.github.io (0)](https://github.com/LeoDog896/leodog896.github.io)
+  ([homepage](https://leodog896.github.io/)) - auto-generated list of
+  repositories on my account, mainly for catalogue info
 - [less-rs (0)](https://github.com/LeoDog896/less-rs) - less in rust
 - [lets-hackmud (0)](https://github.com/LeoDog896/lets-hackmud) - a little (for
   self, maybe for others?) guide and tips for hackmud

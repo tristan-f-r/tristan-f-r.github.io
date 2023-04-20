@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (210)
+## Projects (212)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
@@ -15,12 +15,12 @@ instead.
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
+- [ferret_api (4)](https://github.com/LeoDog896/ferret_api)
+  ([homepage](https://leodog896.github.io/ferret_api)) - collection of ferret
+  besties
 - [scannable (4)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable)) - QR code generator for
   the web
-- [ferret_api (3)](https://github.com/LeoDog896/ferret_api)
-  ([homepage](https://leodog896.github.io/ferret_api)) - collection of ferret
-  besties
 - [maxwell (3)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
@@ -70,6 +70,8 @@ instead.
   provided.
 - [bookmarklet-editor (1)](https://github.com/LeoDog896/bookmarklet-editor) -
   Edit bookmarklets simply
+- [boolean-logic (1)](https://github.com/LeoDog896/boolean-logic) -
+  programatically analyze boolean logic
 - [build-themes (1)](https://github.com/LeoDog896/build-themes) - a repo of
   hypixel build themes (easily sortable)
 - [dite (1)](https://github.com/LeoDog896/dite) - a little bit of a framework
@@ -328,6 +330,7 @@ instead.
   githubrawcontent URLs straight in github
 - [reaction (0)](https://github.com/LeoDog896/reaction) - reaction speed
   calculator based on traffic lights
+- [redos (0)](https://github.com/LeoDog896/redos) - No description provided.
 - [red_deno (0)](https://github.com/LeoDog896/red_deno) - red deno permissions
   that you should not use
 - [replit-database-transfer (0)](https://github.com/LeoDog896/replit-database-transfer) -
@@ -423,7 +426,7 @@ instead.
   competition)
 - [willuhm-js (0)](https://github.com/LeoDog896/willuhm-js) - My profile README!
 
-## Forks (241)
+## Forks (242)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -553,6 +556,7 @@ instead.
 - [deno_lint](https://github.com/LeoDog896/deno_lint)
   ([homepage](https://lint.deno.land/)) - Blazing fast linter for JavaScript and
   TypeScript written in Rust
+- [deno_swc](https://github.com/LeoDog896/deno_swc) - The SWC compiler for Deno.
 - [deno_task_shell](https://github.com/LeoDog896/deno_task_shell)
   ([homepage](https://crates.io/crates/deno_task_shell)) - Cross platform shell
   for deno task.

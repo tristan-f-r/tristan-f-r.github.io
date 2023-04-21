@@ -50,6 +50,7 @@ instead.
 - [npm-rank (2)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
+- [redos (2)](https://github.com/LeoDog896/redos) - No description provided.
 - [reliable-validity-demonstration (2)](https://github.com/LeoDog896/reliable-validity-demonstration) -
   demonstration via an arrow board of reliability vs validity with a gizmo
 - [svelte-deferred (2)](https://github.com/LeoDog896/svelte-deferred) - make
@@ -330,7 +331,6 @@ instead.
   githubrawcontent URLs straight in github
 - [reaction (0)](https://github.com/LeoDog896/reaction) - reaction speed
   calculator based on traffic lights
-- [redos (0)](https://github.com/LeoDog896/redos) - No description provided.
 - [red_deno (0)](https://github.com/LeoDog896/red_deno) - red deno permissions
   that you should not use
 - [replit-database-transfer (0)](https://github.com/LeoDog896/replit-database-transfer) -

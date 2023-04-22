@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (213)
+## Projects (214)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
@@ -129,6 +129,8 @@ instead.
   curated list of awesome SurrealDB resources, libraries, tools, and
   applications.
 - [base64id (0)](https://github.com/LeoDog896/base64id) - base64id port to deno
+- [bddy.lol (0)](https://github.com/LeoDog896/bddy.lol)
+  ([homepage](https://bddy.lol)) - Personal Website for bddy
 - [best-browser (0)](https://github.com/LeoDog896/best-browser) - use the best
   browser
 - [big-type (0)](https://github.com/LeoDog896/big-type) - big text, simple area.
@@ -430,7 +432,7 @@ instead.
   competition)
 - [willuhm-js (0)](https://github.com/LeoDog896/willuhm-js) - My profile README!
 
-## Forks (243)
+## Forks (242)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -477,8 +479,6 @@ instead.
 - [babel-handbook](https://github.com/LeoDog896/babel-handbook)
   ([homepage](https://git.io/babel-handbook)) - :blue_book: A guided handbook on
   how to use Babel and how to create plugins for Babel.
-- [bddy.lol](https://github.com/LeoDog896/bddy.lol)
-  ([homepage](https://bddy.lol)) - Personal Website for bddy
 - [BileTools](https://github.com/LeoDog896/BileTools) - Tools for making garbage
 - [Blog](https://github.com/LeoDog896/Blog) - A modern, light-theme blog that
   uses MongoDB and Bootstrap styling.

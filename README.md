@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (212)
+## Projects (213)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
@@ -50,7 +50,8 @@ instead.
 - [npm-rank (2)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
-- [redos (2)](https://github.com/LeoDog896/redos) - No description provided.
+- [redos (2)](https://github.com/LeoDog896/redos) - check for ReDoS
+  vulnerabilities in code.
 - [reliable-validity-demonstration (2)](https://github.com/LeoDog896/reliable-validity-demonstration) -
   demonstration via an arrow board of reliability vs validity with a gizmo
 - [svelte-deferred (2)](https://github.com/LeoDog896/svelte-deferred) - make
@@ -104,6 +105,9 @@ instead.
   for CTF
 - [sonatokipona.github.io (1)](https://github.com/LeoDog896/sonatokipona.github.io) -
   Toki Pona Sona
+- [sphere-coordinates-ts (1)](https://github.com/LeoDog896/sphere-coordinates-ts) -
+  implementation of Jonathan Kogan's method for sphere coordinates in
+  TypeScript - Deno / Node
 - [stun-only-rtc (1)](https://github.com/LeoDog896/stun-only-rtc)
   ([homepage](https://leodog896.github.io/stun-only-rtc/)) - WebRTC server demo
   with only a stun server
@@ -426,7 +430,7 @@ instead.
   competition)
 - [willuhm-js (0)](https://github.com/LeoDog896/willuhm-js) - My profile README!
 
-## Forks (242)
+## Forks (243)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -712,6 +716,8 @@ instead.
 - [logo.js](https://github.com/LeoDog896/logo.js)
   ([homepage](https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png)) -
   A community logo for JS
+- [lume.land](https://github.com/LeoDog896/lume.land)
+  ([homepage](https://lume.land)) - The website of lume.land
 - [manual](https://github.com/LeoDog896/manual)
   ([homepage](https://deno.land/manual)) - Deno's documentation
 - [MarathonRust](https://github.com/LeoDog896/MarathonRust) - No description

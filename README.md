@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (214)
+## Projects (213)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
@@ -18,6 +18,8 @@ instead.
 - [ferret_api (4)](https://github.com/LeoDog896/ferret_api)
   ([homepage](https://leodog896.github.io/ferret_api)) - collection of ferret
   besties
+- [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
+  lichess board implementation for minecraft.
 - [scannable (4)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable)) - QR code generator for
   the web
@@ -41,8 +43,6 @@ instead.
   manipulation of ASTs
 - [jsnow (2)](https://github.com/LeoDog896/jsnow)
   ([homepage](https://now.js.org)) - no clutter. just js, now.
-- [lichess-minecraft (2)](https://github.com/LeoDog896/lichess-minecraft) -
-  lichess board implementation for minecraft.
 - [lyricly (2)](https://github.com/LeoDog896/lyricly) - song lyrics in the cli
 - [math (2)](https://github.com/LeoDog896/math) - No description provided.
 - [MCInstall (2)](https://github.com/LeoDog896/MCInstall) - MultiMC installation
@@ -430,7 +430,6 @@ instead.
   utility for handling v4l2 and rstp devices
 - [WidgetMake (0)](https://github.com/LeoDog896/WidgetMake) - Widget maker (GCC
   competition)
-- [willuhm-js (0)](https://github.com/LeoDog896/willuhm-js) - My profile README!
 
 ## Forks (242)
 

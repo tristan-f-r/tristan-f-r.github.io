@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (213)
+## Projects (215)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
@@ -15,11 +15,11 @@ instead.
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
+- [lichess-minecraft (5)](https://github.com/LeoDog896/lichess-minecraft) -
+  lichess board implementation for minecraft.
 - [ferret_api (4)](https://github.com/LeoDog896/ferret_api)
   ([homepage](https://leodog896.github.io/ferret_api)) - collection of ferret
   besties
-- [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
-  lichess board implementation for minecraft.
 - [scannable (4)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable)) - QR code generator for
   the web
@@ -163,6 +163,8 @@ instead.
 - [Curb (0)](https://github.com/LeoDog896/Curb) - A website addiction blocker
 - [curvegroove (0)](https://github.com/LeoDog896/curvegroove) - make fancy
   animations with a simple UI
+- [curve_collapse (0)](https://github.com/LeoDog896/curve_collapse) - No
+  description provided.
 - [dangle (0)](https://github.com/LeoDog896/dangle) - hangman in rust
 - [deep-email-scan (0)](https://github.com/LeoDog896/deep-email-scan) - scan for
   exposed emails in a github profile.
@@ -256,6 +258,8 @@ instead.
   self, maybe for others?) guide and tips for hackmud
 - [lib-ngrok (0)](https://github.com/LeoDog896/lib-ngrok) - simple ngrok
   downloader and runner
+- [lichess-board (0)](https://github.com/LeoDog896/lichess-board) - deeply
+  integrated lichess boad API in rust
 - [lightsout (0)](https://github.com/LeoDog896/lightsout)
   ([homepage](https://leodog896.github.io/lightsout/)) - lights out game
 - [lila-devcontainer (0)](https://github.com/LeoDog896/lila-devcontainer) -

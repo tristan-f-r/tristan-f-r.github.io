@@ -11,7 +11,7 @@ instead.
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
 
-- [awesome-minestom (34)](https://github.com/LeoDog896/awesome-minestom) - A
+- [awesome-minestom (33)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
@@ -415,7 +415,8 @@ instead.
 - [twitter-clone (0)](https://github.com/LeoDog896/twitter-clone)
   ([homepage](https://leodog896.github.io/twitter-clone)) - twitter without all
   the bad things
-- [type (0)](https://github.com/LeoDog896/type) - ridiculously simple typer
+- [type (0)](https://github.com/LeoDog896/type)
+  ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
 - [typegolf (0)](https://github.com/LeoDog896/typegolf) - typescript type golfer
   (automatic shortener for uncompressed code)
 - [typescribble (0)](https://github.com/LeoDog896/typescribble) - imagine a

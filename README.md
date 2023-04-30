@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (215)
+## Projects (217)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
@@ -137,6 +137,8 @@ instead.
 - [bingo (0)](https://github.com/LeoDog896/bingo) - bingo simulator
 - [bird (0)](https://github.com/LeoDog896/bird) - flyd for deno -- low-level
   reactive stores
+- [Blog (0)](https://github.com/LeoDog896/Blog) - A modern, light-theme blog
+  that uses MongoDB and Bootstrap styling.
 - [BMI (0)](https://github.com/LeoDog896/BMI) - Simple BMI calculator
 - [breathe (0)](https://github.com/LeoDog896/breathe)
   ([homepage](https://leodog896.github.io/breathe/)) - a simple and short
@@ -163,8 +165,9 @@ instead.
 - [Curb (0)](https://github.com/LeoDog896/Curb) - A website addiction blocker
 - [curvegroove (0)](https://github.com/LeoDog896/curvegroove) - make fancy
   animations with a simple UI
-- [curve_collapse (0)](https://github.com/LeoDog896/curve_collapse) - No
-  description provided.
+- [curve_collapse (0)](https://github.com/LeoDog896/curve_collapse) - a function
+  to turn any arbitrary function into equidistant points from [a, b] with n
+  points.
 - [dangle (0)](https://github.com/LeoDog896/dangle) - hangman in rust
 - [deep-email-scan (0)](https://github.com/LeoDog896/deep-email-scan) - scan for
   exposed emails in a github profile.
@@ -328,6 +331,9 @@ instead.
 - [placement-scramble (0)](https://github.com/LeoDog896/placement-scramble) -
   auto scramble your text with the first and last characters remaining in the
   same place
+- [point-visualizer (0)](https://github.com/LeoDog896/point-visualizer)
+  ([homepage](https://leodog896.github.io/point-visualizer/)) - webpage for
+  serializable visualization of points in 3D space
 - [pona (0)](https://github.com/LeoDog896/pona) - Check if your repositories are
   OK! (tree-shakeable, ES6 module, TypeScript-ready, and more)
 - [puct (0)](https://github.com/LeoDog896/puct) - No description provided.
@@ -436,7 +442,7 @@ instead.
 - [WidgetMake (0)](https://github.com/LeoDog896/WidgetMake) - Widget maker (GCC
   competition)
 
-## Forks (242)
+## Forks (241)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -484,8 +490,6 @@ instead.
   ([homepage](https://git.io/babel-handbook)) - :blue_book: A guided handbook on
   how to use Babel and how to create plugins for Babel.
 - [BileTools](https://github.com/LeoDog896/BileTools) - Tools for making garbage
-- [Blog](https://github.com/LeoDog896/Blog) - A modern, light-theme blog that
-  uses MongoDB and Bootstrap styling.
 - [BloomDocs](https://github.com/LeoDog896/BloomDocs) - No description provided.
 - [boa](https://github.com/LeoDog896/boa) - Boa is an embeddable and
   experimental Javascript engine written in Rust. Currently, it has support for

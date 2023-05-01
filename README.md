@@ -39,8 +39,6 @@ instead.
   conspiracies
 - [ferret_images (2)](https://github.com/LeoDog896/ferret_images) - collection
   of ferret images, in use with ferret_api
-- [gdt (2)](https://github.com/LeoDog896/gdt) - gdscript tools for abstract
-  manipulation of ASTs
 - [jsnow (2)](https://github.com/LeoDog896/jsnow)
   ([homepage](https://now.js.org)) - no clutter. just js, now.
 - [lyricly (2)](https://github.com/LeoDog896/lyricly) - song lyrics in the cli
@@ -52,10 +50,6 @@ instead.
   npm packages
 - [redos (2)](https://github.com/LeoDog896/redos) - check for ReDoS
   vulnerabilities in code.
-- [reliable-validity-demonstration (2)](https://github.com/LeoDog896/reliable-validity-demonstration) -
-  demonstration via an arrow board of reliability vs validity with a gizmo
-- [svelte-deferred (2)](https://github.com/LeoDog896/svelte-deferred) - make
-  deferred calls to various libraries
 - [svelte-persistent (2)](https://github.com/LeoDog896/svelte-persistent)
   ([homepage](https://leodog896.github.io/svelte-persistent)) - Svelte writables
   for local & session storage
@@ -84,6 +78,8 @@ instead.
   Plugin to resolve deno import maps and URLs
 - [file_hash (1)](https://github.com/LeoDog896/file_hash) - simple file registry
   in deno
+- [gdt (1)](https://github.com/LeoDog896/gdt) - gdscript tools for abstract
+  manipulation of ASTs
 - [git-cli-viewer (1)](https://github.com/LeoDog896/git-cli-viewer) - open git
   repos for browsing
 - [gitpod-deno (1)](https://github.com/LeoDog896/gitpod-deno) - A simple script
@@ -101,6 +97,8 @@ instead.
   simple emoji favicons in parcel
 - [qrupcode (1)](https://github.com/LeoDog896/qrupcode) - Data-driven QR code
   generator
+- [reliable-validity-demonstration (1)](https://github.com/LeoDog896/reliable-validity-demonstration) -
+  demonstration via an arrow board of reliability vs validity with a gizmo
 - [shine (1)](https://github.com/LeoDog896/shine) - shadow file cracker mainly
   for CTF
 - [sonatokipona.github.io (1)](https://github.com/LeoDog896/sonatokipona.github.io) -
@@ -111,6 +109,8 @@ instead.
 - [stun-only-rtc (1)](https://github.com/LeoDog896/stun-only-rtc)
   ([homepage](https://leodog896.github.io/stun-only-rtc/)) - WebRTC server demo
   with only a stun server
+- [svelte-deferred (1)](https://github.com/LeoDog896/svelte-deferred) - make
+  deferred calls to various libraries
 - [svelte-styling (1)](https://github.com/LeoDog896/svelte-styling) - organized
   & dynamic styles! use:style={{ color: "brown", size: 5 }}
 - [svelte-tailwind-barebones (1)](https://github.com/LeoDog896/svelte-tailwind-barebones) -

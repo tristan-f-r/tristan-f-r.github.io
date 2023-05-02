@@ -18,8 +18,8 @@ instead.
 - [lichess-minecraft (5)](https://github.com/LeoDog896/lichess-minecraft) -
   lichess board implementation for minecraft.
 - [ferret_api (4)](https://github.com/LeoDog896/ferret_api)
-  ([homepage](https://leodog896.github.io/ferret_api)) - collection of ferret
-  besties
+  ([homepage](https://leodog896.github.io/ferret_api/)) - collection of ferret
+  images
 - [scannable (4)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable)) - QR code generator for
   the web
@@ -95,6 +95,9 @@ instead.
 - [opennow (1)](https://github.com/LeoDog896/opennow) - No description provided.
 - [parcel-resolver-svgmoji (1)](https://github.com/LeoDog896/parcel-resolver-svgmoji) -
   simple emoji favicons in parcel
+- [point-visualizer (1)](https://github.com/LeoDog896/point-visualizer)
+  ([homepage](https://leodog896.github.io/point-visualizer/)) - webpage for
+  serializable visualization of points in 3D space
 - [qrupcode (1)](https://github.com/LeoDog896/qrupcode) - Data-driven QR code
   generator
 - [reliable-validity-demonstration (1)](https://github.com/LeoDog896/reliable-validity-demonstration) -
@@ -331,9 +334,6 @@ instead.
 - [placement-scramble (0)](https://github.com/LeoDog896/placement-scramble) -
   auto scramble your text with the first and last characters remaining in the
   same place
-- [point-visualizer (0)](https://github.com/LeoDog896/point-visualizer)
-  ([homepage](https://leodog896.github.io/point-visualizer/)) - webpage for
-  serializable visualization of points in 3D space
 - [pona (0)](https://github.com/LeoDog896/pona) - Check if your repositories are
   OK! (tree-shakeable, ES6 module, TypeScript-ready, and more)
 - [puct (0)](https://github.com/LeoDog896/puct) - No description provided.

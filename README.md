@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (218)
+## Projects (219)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
@@ -58,6 +58,8 @@ instead.
   svelte
 - [taxevasion.tk (2)](https://github.com/LeoDog896/taxevasion.tk)
   ([homepage](http://taxevasion.tk)) - how to commit tax evasion
+- [type (2)](https://github.com/LeoDog896/type)
+  ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
 - [webpage (2)](https://github.com/LeoDog896/webpage)
   ([homepage](https://leodog896.com)) - My personal site
 - [allergitaves (1)](https://github.com/LeoDog896/allergitaves) - list of common
@@ -123,8 +125,6 @@ instead.
   off of the things they carried, for a school project.
 - [treblecross-solver (1)](https://github.com/LeoDog896/treblecross-solver) - A
   treblecross solver written in Deno
-- [type (1)](https://github.com/LeoDog896/type)
-  ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
 - [ansi-editor (0)](https://github.com/LeoDog896/ansi-editor) - web-based ANSI
   text code editor
 - [arrowtype (0)](https://github.com/LeoDog896/arrowtype) - arrow typing program
@@ -425,6 +425,8 @@ instead.
 - [twitter-clone (0)](https://github.com/LeoDog896/twitter-clone)
   ([homepage](https://leodog896.github.io/twitter-clone)) - twitter without all
   the bad things
+- [type-minify (0)](https://github.com/LeoDog896/type-minify) - typescript type
+  minifier (for code golfing)
 - [typegolf (0)](https://github.com/LeoDog896/typegolf) - typescript type golfer
   (automatic shortener for uncompressed code)
 - [typescribble (0)](https://github.com/LeoDog896/typescribble) - imagine a

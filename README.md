@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (219)
+## Projects (220)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
@@ -240,6 +240,8 @@ instead.
 - [http-status (0)](https://github.com/LeoDog896/http-status) - http-status CLI
 - [ideas (0)](https://github.com/LeoDog896/ideas) - write down short little
   things you want to keep
+- [infinite-tetris (0)](https://github.com/LeoDog896/infinite-tetris) - silly
+  procedural infinite tetris animation in a mimic of a real tetris game
 - [instant-ngp-playground (0)](https://github.com/LeoDog896/instant-ngp-playground) -
   simple ngp playground to spin up in a codespace
 - [javak (0)](https://github.com/LeoDog896/javak) - incremental wrapper around

@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (220)
+## Projects (221)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
@@ -23,6 +23,8 @@ instead.
 - [scannable (4)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable)) - QR code generator for
   the web
+- [type (4)](https://github.com/LeoDog896/type)
+  ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
 - [maxwell (3)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
@@ -58,8 +60,6 @@ instead.
   svelte
 - [taxevasion.tk (2)](https://github.com/LeoDog896/taxevasion.tk)
   ([homepage](http://taxevasion.tk)) - how to commit tax evasion
-- [type (2)](https://github.com/LeoDog896/type)
-  ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
 - [webpage (2)](https://github.com/LeoDog896/webpage)
   ([homepage](https://leodog896.com)) - My personal site
 - [allergitaves (1)](https://github.com/LeoDog896/allergitaves) - list of common
@@ -123,6 +123,8 @@ instead.
 - [the-things-we-carry (1)](https://github.com/LeoDog896/the-things-we-carry)
   ([homepage](https://leodog896.github.io/the-things-we-carry)) - A game based
   off of the things they carried, for a school project.
+- [tiptap-mathquill (1)](https://github.com/LeoDog896/tiptap-mathquill) - tiptap
+  extension for editing math in MathQuill
 - [treblecross-solver (1)](https://github.com/LeoDog896/treblecross-solver) - A
   treblecross solver written in Deno
 - [ansi-editor (0)](https://github.com/LeoDog896/ansi-editor) - web-based ANSI
@@ -405,8 +407,9 @@ instead.
   system and drawer for svelte
 - [svelte-inventory (0)](https://github.com/LeoDog896/svelte-inventory) -
   flexible DOM-based svelte inventory and management system
-- [svelte-mathquill (0)](https://github.com/LeoDog896/svelte-mathquill) -
-  MathQuill wrapper for svelte
+- [svelte-mathquill (0)](https://github.com/LeoDog896/svelte-mathquill)
+  ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
+  wrapper for svelte
 - [svelte-stopwatch (0)](https://github.com/LeoDog896/svelte-stopwatch) - time
   tracker for svelte
 - [text-gradient (0)](https://github.com/LeoDog896/text-gradient) - copy silly

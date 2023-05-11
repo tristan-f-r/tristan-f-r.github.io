@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (221)
+## Projects (223)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
@@ -30,6 +30,9 @@ instead.
   maxwell fan website
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
   vite template
+- [svelte-mathquill (3)](https://github.com/LeoDog896/svelte-mathquill)
+  ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
+  wrapper for svelte
 - [co-authored-by (2)](https://github.com/LeoDog896/co-authored-by)
   ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
   co-authored-by descriptions & emails for authors
@@ -95,6 +98,8 @@ instead.
   ([homepage](https://leodog896.github.io/Logitech-Extreme-3d-Pro-Visualizer/)) -
   Check out the data sent by your logitech controller!
 - [opennow (1)](https://github.com/LeoDog896/opennow) - No description provided.
+- [paint (1)](https://github.com/LeoDog896/paint) - simple drawing website (for
+  learning!)
 - [parcel-resolver-svgmoji (1)](https://github.com/LeoDog896/parcel-resolver-svgmoji) -
   simple emoji favicons in parcel
 - [point-visualizer (1)](https://github.com/LeoDog896/point-visualizer)
@@ -116,9 +121,6 @@ instead.
   with only a stun server
 - [svelte-deferred (1)](https://github.com/LeoDog896/svelte-deferred) - make
   deferred calls to various libraries
-- [svelte-mathquill (1)](https://github.com/LeoDog896/svelte-mathquill)
-  ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
-  wrapper for svelte
 - [svelte-styling (1)](https://github.com/LeoDog896/svelte-styling) - organized
   & dynamic styles! use:style={{ color: "brown", size: 5 }}
 - [svelte-tailwind-barebones (1)](https://github.com/LeoDog896/svelte-tailwind-barebones) -
@@ -178,6 +180,8 @@ instead.
 - [curve_collapse (0)](https://github.com/LeoDog896/curve_collapse) - a function
   to turn any arbitrary function into equidistant points from [a, b] with n
   points.
+- [cvss-calc (0)](https://github.com/LeoDog896/cvss-calc) - a simple CVSS string
+  calculator & parser in Deno/Node
 - [dangle (0)](https://github.com/LeoDog896/dangle) - hangman in rust
 - [deep-email-scan (0)](https://github.com/LeoDog896/deep-email-scan) - scan for
   exposed emails in a github profile.

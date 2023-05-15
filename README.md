@@ -6,12 +6,12 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (223)
+## Projects (225)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
 
-- [awesome-minestom (33)](https://github.com/LeoDog896/awesome-minestom) - A
+- [awesome-minestom (34)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
@@ -105,6 +105,8 @@ instead.
 - [point-visualizer (1)](https://github.com/LeoDog896/point-visualizer)
   ([homepage](https://leodog896.github.io/point-visualizer/)) - webpage for
   serializable visualization of points in 3D space
+- [ProxyPane (1)](https://github.com/LeoDog896/ProxyPane) - Browse the web on
+  another machine.
 - [qrupcode (1)](https://github.com/LeoDog896/qrupcode) - Data-driven QR code
   generator
 - [reliable-validity-demonstration (1)](https://github.com/LeoDog896/reliable-validity-demonstration) -
@@ -205,6 +207,8 @@ instead.
 - [dots-lines-boxes (0)](https://github.com/LeoDog896/dots-lines-boxes) - dots,
   lines, & boxes. remake of a lil unity game for my game design class, in the
   web! (godot >> unity)
+- [dprint-plugin-python (0)](https://github.com/LeoDog896/dprint-plugin-python) -
+  Python formatter for dprint (ruff wrapper)
 - [DropperHelper (0)](https://github.com/LeoDog896/DropperHelper) - Simple
   dropper utilities for Fabric
 - [emoji-swamp (0)](https://github.com/LeoDog896/emoji-swamp) - a 'sea' of
@@ -455,7 +459,7 @@ instead.
 - [WidgetMake (0)](https://github.com/LeoDog896/WidgetMake) - Widget maker (GCC
   competition)
 
-## Forks (241)
+## Forks (242)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -600,6 +604,9 @@ instead.
   common GH related files
 - [dotland](https://github.com/LeoDog896/dotland)
   ([homepage](https://deno.land)) - deno.land website
+- [dprint](https://github.com/LeoDog896/dprint)
+  ([homepage](https://dprint.dev)) - Pluggable and configurable code formatting
+  platform written in Rust.
 - [Draconic-Evolution](https://github.com/LeoDog896/Draconic-Evolution) - No
   description provided.
 - [druid-todo](https://github.com/LeoDog896/druid-todo) - No description

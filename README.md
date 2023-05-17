@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (225)
+## Projects (224)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
@@ -28,6 +28,9 @@ instead.
 - [maxwell (3)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
+- [npm-rank (3)](https://github.com/LeoDog896/npm-rank)
+  ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
+  npm packages
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
   vite template
 - [svelte-mathquill (3)](https://github.com/LeoDog896/svelte-mathquill)
@@ -50,9 +53,6 @@ instead.
 - [math (2)](https://github.com/LeoDog896/math) - No description provided.
 - [MCInstall (2)](https://github.com/LeoDog896/MCInstall) - MultiMC installation
   script for linux.
-- [npm-rank (2)](https://github.com/LeoDog896/npm-rank)
-  ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
-  npm packages
 - [redos (2)](https://github.com/LeoDog896/redos) - check for ReDoS
   vulnerabilities in code.
 - [svelte-persistent (2)](https://github.com/LeoDog896/svelte-persistent)
@@ -78,7 +78,9 @@ instead.
 - [dite (1)](https://github.com/LeoDog896/dite) - a little bit of a framework
 - [doke (1)](https://github.com/LeoDog896/doke)
   ([homepage](https://leodog896.github.io/doke)) - code decoder
-- [duckshow (1)](https://github.com/LeoDog896/duckshow) - a slideshow but ducks
+- [duckshow (1)](https://github.com/LeoDog896/duckshow)
+  ([homepage](https://leodog896.github.io/duckshow/)) - a slideshow for many
+  animals
 - [esbuild-plugin-deno-resolve (1)](https://github.com/LeoDog896/esbuild-plugin-deno-resolve) -
   Plugin to resolve deno import maps and URLs
 - [file_hash (1)](https://github.com/LeoDog896/file_hash) - simple file registry
@@ -167,8 +169,6 @@ instead.
   animate pgn with chessground
 - [chessground-triage-click-positioning (0)](https://github.com/LeoDog896/chessground-triage-click-positioning) -
   triage for chessground for silly positioning issue
-- [classlink-2fa-vulnerability (0)](https://github.com/LeoDog896/classlink-2fa-vulnerability) -
-  a classlink 2fa vulnerability repo
 - [code-and-crypt (0)](https://github.com/LeoDog896/code-and-crypt) - visualize
   codes and cryptography methods
 - [code-notes (0)](https://github.com/LeoDog896/code-notes) - simple code notes
@@ -176,7 +176,6 @@ instead.
 - [countdown (0)](https://github.com/LeoDog896/countdown) - simple countdown
   project
 - [Crews (0)](https://github.com/LeoDog896/Crews) - Crews extension for Cepi
-- [Curb (0)](https://github.com/LeoDog896/Curb) - A website addiction blocker
 - [curvegroove (0)](https://github.com/LeoDog896/curvegroove) - make fancy
   animations with a simple UI
 - [curve_collapse (0)](https://github.com/LeoDog896/curve_collapse) - a function
@@ -201,8 +200,6 @@ instead.
   direction
 - [discord-chat-webhook (0)](https://github.com/LeoDog896/discord-chat-webhook) -
   an application that allows you to chat as a webhook
-- [docusaurus-reader (0)](https://github.com/LeoDog896/docusaurus-reader) - read
-  docusaurus pages in the comfort of the CLI
 - [dog-club (0)](https://github.com/LeoDog896/dog-club) - dog club!
 - [dots-lines-boxes (0)](https://github.com/LeoDog896/dots-lines-boxes) - dots,
   lines, & boxes. remake of a lil unity game for my game design class, in the
@@ -353,6 +350,8 @@ instead.
 - [placement-scramble (0)](https://github.com/LeoDog896/placement-scramble) -
   auto scramble your text with the first and last characters remaining in the
   same place
+- [point-sphere (0)](https://github.com/LeoDog896/point-sphere) - a visual
+  demonstration of various ways to construct a sphere
 - [pona (0)](https://github.com/LeoDog896/pona) - Check if your repositories are
   OK! (tree-shakeable, ES6 module, TypeScript-ready, and more)
 - [puct (0)](https://github.com/LeoDog896/puct) - No description provided.
@@ -383,6 +382,8 @@ instead.
 - [rotator (0)](https://github.com/LeoDog896/rotator)
   ([homepage](https://leodog896.github.io/rotator/)) - reupload of source code
   from https://gitlab.com/jonot-cyber/rotate-game
+- [rural (0)](https://github.com/LeoDog896/rural) - read pages as markdown files
+  in your CLI
 - [rust-out (0)](https://github.com/LeoDog896/rust-out) - No description
   provided.
 - [rustun-cli (0)](https://github.com/LeoDog896/rustun-cli) - A Rust CLI for

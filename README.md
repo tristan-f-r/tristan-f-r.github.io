@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (224)
+## Projects (225)
 
 > **Note** Forks with more than 1 star are included in this list This is because
 > a few forks are permenant forks of other projects.
@@ -45,8 +45,9 @@ instead.
 - [conspirasea (2)](https://github.com/LeoDog896/conspirasea)
   ([homepage](https://leodog896.github.io/conspirasea)) - make simple yarn-based
   conspiracies
-- [ferret_images (2)](https://github.com/LeoDog896/ferret_images) - collection
-  of ferret images, in use with ferret_api
+- [ferret_images (2)](https://github.com/LeoDog896/ferret_images)
+  ([homepage](https://leodog896.github.io/ferret_api/business)) - collection of
+  ferret images, in use with ferret_api
 - [jsnow (2)](https://github.com/LeoDog896/jsnow)
   ([homepage](https://now.js.org)) - no clutter. just js, now.
 - [lyricly (2)](https://github.com/LeoDog896/lyricly) - song lyrics in the cli
@@ -268,6 +269,8 @@ instead.
   the cups are like kettle.
 - [knockout (0)](https://github.com/LeoDog896/knockout) - Punch random image
   files!
+- [leafchat (0)](https://github.com/LeoDog896/leafchat) - simple, anonymous,
+  deployable chat service over deno deploy
 - [length (0)](https://github.com/LeoDog896/length)
   ([homepage](https://leodog896.github.io/length/)) - get the length of a string
 - [LeoDog896 (0)](https://github.com/LeoDog896/LeoDog896) - No description
@@ -350,7 +353,8 @@ instead.
 - [placement-scramble (0)](https://github.com/LeoDog896/placement-scramble) -
   auto scramble your text with the first and last characters remaining in the
   same place
-- [point-sphere (0)](https://github.com/LeoDog896/point-sphere) - a visual
+- [point-sphere (0)](https://github.com/LeoDog896/point-sphere)
+  ([homepage](https://leodog896.github.io/point-sphere/)) - a visual
   demonstration of various ways to construct a sphere
 - [pona (0)](https://github.com/LeoDog896/pona) - Check if your repositories are
   OK! (tree-shakeable, ES6 module, TypeScript-ready, and more)

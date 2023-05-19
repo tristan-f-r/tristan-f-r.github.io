@@ -6,10 +6,10 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (225)
+## Projects (219)
 
-> **Note** Forks with more than 1 star are included in this list This is because
-> a few forks are permenant forks of other projects.
+> **Note** Forks with more than 1 star are included in this list. This is
+> because a few forks are permenant forks of other projects.
 
 - [awesome-minestom (34)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
@@ -56,9 +56,6 @@ instead.
   script for linux.
 - [redos (2)](https://github.com/LeoDog896/redos) - check for ReDoS
   vulnerabilities in code.
-- [svelte-persistent (2)](https://github.com/LeoDog896/svelte-persistent)
-  ([homepage](https://leodog896.github.io/svelte-persistent)) - Svelte writables
-  for local & session storage
 - [svelte-tilt (2)](https://github.com/LeoDog896/svelte-tilt)
   ([homepage](https://leodog896.github.io/svelte-tilt/)) - Tilt library for
   svelte
@@ -84,8 +81,6 @@ instead.
   animals
 - [esbuild-plugin-deno-resolve (1)](https://github.com/LeoDog896/esbuild-plugin-deno-resolve) -
   Plugin to resolve deno import maps and URLs
-- [file_hash (1)](https://github.com/LeoDog896/file_hash) - simple file registry
-  in deno
 - [gdt (1)](https://github.com/LeoDog896/gdt) - gdscript tools for abstract
   manipulation of ASTs
 - [git-cli-viewer (1)](https://github.com/LeoDog896/git-cli-viewer) - open git
@@ -128,8 +123,6 @@ instead.
   deferred calls to various libraries
 - [svelte-styling (1)](https://github.com/LeoDog896/svelte-styling) - organized
   & dynamic styles! use:style={{ color: "brown", size: 5 }}
-- [svelte-tailwind-barebones (1)](https://github.com/LeoDog896/svelte-tailwind-barebones) -
-  Simple barebones tailwind template
 - [the-things-we-carry (1)](https://github.com/LeoDog896/the-things-we-carry)
   ([homepage](https://leodog896.github.io/the-things-we-carry)) - A game based
   off of the things they carried, for a school project.
@@ -142,9 +135,6 @@ instead.
 - [arrowtype (0)](https://github.com/LeoDog896/arrowtype) - arrow typing program
 - [asciipinski (0)](https://github.com/LeoDog896/asciipinski) - Make ascii
   sierpiński triangles
-- [awesome-surrealdb (0)](https://github.com/LeoDog896/awesome-surrealdb) - A
-  curated list of awesome SurrealDB resources, libraries, tools, and
-  applications.
 - [base64id (0)](https://github.com/LeoDog896/base64id) - base64id port to deno
 - [bddy.lol (0)](https://github.com/LeoDog896/bddy.lol)
   ([homepage](https://bddy.lol)) - Personal Website for bddy
@@ -205,8 +195,6 @@ instead.
 - [dots-lines-boxes (0)](https://github.com/LeoDog896/dots-lines-boxes) - dots,
   lines, & boxes. remake of a lil unity game for my game design class, in the
   web! (godot >> unity)
-- [dprint-plugin-python (0)](https://github.com/LeoDog896/dprint-plugin-python) -
-  Python formatter for dprint (ruff wrapper)
 - [DropperHelper (0)](https://github.com/LeoDog896/DropperHelper) - Simple
   dropper utilities for Fabric
 - [emoji-swamp (0)](https://github.com/LeoDog896/emoji-swamp) - a 'sea' of
@@ -315,8 +303,6 @@ instead.
   A logo generator for Minestom made in svelte
 - [MinestomDataGenerator (0)](https://github.com/LeoDog896/MinestomDataGenerator) -
   DataGenerator for Minestom (not in use)
-- [minification-playground (0)](https://github.com/LeoDog896/minification-playground) -
-  a playground showcasing various JS minifiers for a blog post and for you
 - [minify_toml (0)](https://github.com/LeoDog896/minify_toml) - toml minifier
 - [mirror (0)](https://github.com/LeoDog896/mirror)
   ([homepage](https://leodog896.github.io/mirror)) - webcam mirroring
@@ -1035,3 +1021,23 @@ instead.
   Stargate plugin for CraftBukkit
 - [yarn](https://github.com/LeoDog896/yarn) - Libre Minecraft mappings, free to
   use for everyone. No exceptions.
+
+## Archived (6)
+
+> These projects consist of ideas that were duplicates, silly, or things that
+> have clear better alternatives.
+
+- [svelte-persistent (2)](https://github.com/LeoDog896/svelte-persistent)
+  ([homepage](https://leodog896.github.io/svelte-persistent)) - Svelte writables
+  for local & session storage
+- [file_hash (1)](https://github.com/LeoDog896/file_hash) - simple file registry
+  in deno
+- [svelte-tailwind-barebones (1)](https://github.com/LeoDog896/svelte-tailwind-barebones) -
+  Simple barebones tailwind template
+- [awesome-surrealdb (0)](https://github.com/LeoDog896/awesome-surrealdb) - A
+  curated list of awesome SurrealDB resources, libraries, tools, and
+  applications.
+- [dprint-plugin-python (0)](https://github.com/LeoDog896/dprint-plugin-python) -
+  Python formatter for dprint (ruff wrapper)
+- [minification-playground (0)](https://github.com/LeoDog896/minification-playground) -
+  a playground showcasing various JS minifiers for a blog post and for you

@@ -7,6 +7,7 @@ const repoSchema = z.object({
   stargazers_count: z.number(),
   homepage: z.string().optional().nullable(),
   fork: z.boolean(),
+  archived: z.boolean(),
 });
 
 type Repo = z.infer<typeof repoSchema>;
@@ -51,8 +52,13 @@ for await (const page of getRepos()) {
   data.push(page);
 }
 
-const projects = data.filter((repo) => !repo.fork || repo.stargazers_count > 1);
-const forks = data.filter((repo) => repo.fork && repo.stargazers_count <= 1);
+const archived = data.filter((repo) => repo.archived);
+const projects = data.filter((repo) =>
+  !repo.archived && (!repo.fork || repo.stargazers_count > 1)
+);
+const forks = data.filter((repo) =>
+  !repo.archived && repo.fork && repo.stargazers_count <= 1
+);
 
 function sortRepos(
   a: typeof data[number],
@@ -64,8 +70,25 @@ function sortRepos(
 }
 
 // sort data by stargazers_count
+archived.sort(sortRepos);
 projects.sort(sortRepos);
 forks.sort(sortRepos);
+
+function printData(data: Repo[], showStars: boolean): string {
+  let str = "";
+
+  for (const repo of data) {
+    const { name, description, html_url, stargazers_count, homepage } = repo;
+
+    const header = showStars ? `${name} (${stargazers_count})` : name;
+
+    str += `- [${header}](${html_url}) ${
+      homepage ? `([homepage](${homepage}))` : ``
+    } - ${description || "No description provided."}\n`;
+  }
+
+  return str;
+}
 
 let markdown =
   `# [leodog896.github.io](https://github.com/LeoDog896/leodog896.github.io)
@@ -77,33 +100,24 @@ looking for my website? go to [https://leodog896.com](https://leodog896.com) ins
 ## Projects (${projects.length})
 
 > **Note**
-> Forks with more than 1 star are included in this list
+> Forks with more than 1 star are included in this list.
 > This is because a few forks are permenant forks of other projects.
-`;
 
-for (const repo of projects) {
-  const { name, description, html_url, stargazers_count, homepage } = repo;
+${printData(projects, true)}
 
-  markdown += `- [${name} (${stargazers_count})](${html_url}) ${
-    homepage ? `([homepage](${homepage}))` : ``
-  } - ${description || "No description provided."}\n`;
-}
-
-markdown += `
 ## Forks (${forks.length})
 
 > **Note**
 > I have forked a lot of projects for OSS contributions.
 
+${printData(forks, false)}
+
+## Archived (${archived.length})
+
+> These projects consist of ideas that were duplicates, silly, or things that have clear better alternatives.
+
+${printData(archived, true)}
 `;
-
-for (const repo of forks) {
-  const { name, description, html_url, homepage } = repo;
-
-  markdown += `- [${name}](${html_url}) ${
-    homepage ? `([homepage](${homepage}))` : ``
-  } - ${description || "No description provided."}\n`;
-}
 
 console.log(`Writing ${data.length} repos to README.md...`);
 await Deno.writeTextFile("README.md", markdown);

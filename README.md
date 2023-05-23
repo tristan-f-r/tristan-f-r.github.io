@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (219)
+## Projects (221)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -227,6 +227,8 @@ instead.
   extension development.
 - [gluesql-term (0)](https://github.com/LeoDog896/gluesql-term) - online gluesql
   terminal & playground
+- [gnome-explosion (0)](https://github.com/LeoDog896/gnome-explosion) - display
+  explosions and other images on your screen with a click
 - [godot-devcontainer-playground (0)](https://github.com/LeoDog896/godot-devcontainer-playground) -
   No description provided.
 - [godot-triage-adjacent-merge-polygon2d (0)](https://github.com/LeoDog896/godot-triage-adjacent-merge-polygon2d) -
@@ -399,6 +401,8 @@ instead.
   framework for minestom
 - [stream-frame (0)](https://github.com/LeoDog896/stream-frame) - Web editor
   made with sapper
+- [sudoku-board (0)](https://github.com/LeoDog896/sudoku-board) - solve, check,
+  and generate sudoku boards
 - [svelte-blob (0)](https://github.com/LeoDog896/svelte-blob) - Create simple
   stylish blobs with ease!
 - [svelte-click-context (0)](https://github.com/LeoDog896/svelte-click-context) -

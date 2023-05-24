@@ -205,7 +205,9 @@ instead.
   example plugin with example plugin features.
 - [express-pipes (0)](https://github.com/LeoDog896/express-pipes) -
   TypeScript-focused express.js middleware transformation
-- [eyeball (0)](https://github.com/LeoDog896/eyeball) - eyeball (moving)
+- [eyeball (0)](https://github.com/LeoDog896/eyeball)
+  ([homepage](https://leodog896.github.io/eyeball/)) - moving eyeball that
+  follows the cursor
 - [factorr (0)](https://github.com/LeoDog896/factorr) - factor in rust
 - [FBLACompetition2022 (0)](https://github.com/LeoDog896/FBLACompetition2022) -
   Quick test site
@@ -454,7 +456,7 @@ instead.
 - [WidgetMake (0)](https://github.com/LeoDog896/WidgetMake) - Widget maker (GCC
   competition)
 
-## Forks (242)
+## Forks (243)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -929,6 +931,8 @@ instead.
   Minecraft Clone developed live on stream at twitch.tv/gameswthgabe
 - [sttv](https://github.com/LeoDog896/sttv) - A starter template for Svelte,
   Tailwind, Typescript, and Vite
+- [sudoku-solver](https://github.com/LeoDog896/sudoku-solver) - A fast bitboard
+  sudoku solver utilizing rust's 128 bit integer types.
 - [svelecte](https://github.com/LeoDog896/svelecte)
   ([homepage](https://mskocik.github.io/svelecte/)) - Selectize-like component
   written in Svelte, also usable as custom-element 💪⚡

@@ -422,8 +422,8 @@ instead.
 - [thequeen (0)](https://github.com/LeoDog896/thequeen) - the queen was cool
 - [tokiponasona.github.io (0)](https://github.com/LeoDog896/tokiponasona.github.io) -
   No description provided.
-- [tool-swing (0)](https://github.com/LeoDog896/tool-swing) - No description
-  provided.
+- [tool-swing (0)](https://github.com/LeoDog896/tool-swing) - Swing around silly
+  little tools
 - [touch-grass (0)](https://github.com/LeoDog896/touch-grass) - No description
   provided.
 - [treblecross-rs (0)](https://github.com/LeoDog896/treblecross-rs) - solve
@@ -456,7 +456,7 @@ instead.
 - [WidgetMake (0)](https://github.com/LeoDog896/WidgetMake) - Widget maker (GCC
   competition)
 
-## Forks (243)
+## Forks (244)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -527,6 +527,9 @@ instead.
   search engine, based on cheese.
 - [chessground](https://github.com/LeoDog896/chessground)
   ([homepage](https://lichess.org)) - Mobile/Web chess UI for lichess.org
+- [chromebrew.github.io](https://github.com/LeoDog896/chromebrew.github.io)
+  ([homepage](https://chromebrew.github.io)) - Chromebrew's homepage, hosted on
+  GitHub Pages
 - [codemirror-lang-svelte](https://github.com/LeoDog896/codemirror-lang-svelte) -
   Svelte language support for CodeMirror 6
 - [codemonkey](https://github.com/LeoDog896/codemonkey) - No description

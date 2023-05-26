@@ -6,25 +6,27 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (221)
+## Projects (219)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [awesome-minestom (34)](https://github.com/LeoDog896/awesome-minestom) - A
+- [awesome-minestom (33)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
-- [lichess-minecraft (5)](https://github.com/LeoDog896/lichess-minecraft) -
+- [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
   lichess board implementation for minecraft.
-- [ferret_api (4)](https://github.com/LeoDog896/ferret_api)
-  ([homepage](https://leodog896.github.io/ferret_api/)) - collection of ferret
-  images
 - [scannable (4)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable)) - QR code generator for
   the web
 - [type (4)](https://github.com/LeoDog896/type)
   ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
+- [ferret_api (3)](https://github.com/LeoDog896/ferret_api)
+  ([homepage](https://leodog896.github.io/ferret_api/)) - collection of ferret
+  images
+- [jigsawable (3)](https://github.com/LeoDog896/jigsawable) - jigsaw game in
+  godot, demonstrating the `godot-jigsaw` repository example
 - [maxwell (3)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
@@ -36,6 +38,9 @@ instead.
 - [svelte-mathquill (3)](https://github.com/LeoDog896/svelte-mathquill)
   ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
   wrapper for svelte
+- [chessground-anim (2)](https://github.com/LeoDog896/chessground-anim)
+  ([homepage](https://leodog896.github.io/chessground-anim/)) - animate pgn with
+  chessground
 - [co-authored-by (2)](https://github.com/LeoDog896/co-authored-by)
   ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
   co-authored-by descriptions & emails for authors
@@ -45,6 +50,12 @@ instead.
 - [conspirasea (2)](https://github.com/LeoDog896/conspirasea)
   ([homepage](https://leodog896.github.io/conspirasea)) - make simple yarn-based
   conspiracies
+- [curve_collapse (2)](https://github.com/LeoDog896/curve_collapse) - a function
+  to turn any arbitrary function into equidistant points from [a, b] with n
+  points.
+- [eyeball (2)](https://github.com/LeoDog896/eyeball)
+  ([homepage](https://leodog896.github.io/eyeball/)) - moving eyeball that
+  follows the cursor
 - [ferret_images (2)](https://github.com/LeoDog896/ferret_images)
   ([homepage](https://leodog896.github.io/ferret_api/business)) - collection of
   ferret images, in use with ferret_api
@@ -56,6 +67,9 @@ instead.
   script for linux.
 - [redos (2)](https://github.com/LeoDog896/redos) - check for ReDoS
   vulnerabilities in code.
+- [rotator (2)](https://github.com/LeoDog896/rotator)
+  ([homepage](https://leodog896.github.io/rotator/)) - reupload of source code
+  from https://gitlab.com/jonot-cyber/rotate-game
 - [svelte-tilt (2)](https://github.com/LeoDog896/svelte-tilt)
   ([homepage](https://leodog896.github.io/svelte-tilt/)) - Tilt library for
   svelte
@@ -89,8 +103,6 @@ instead.
   that adds support for deno in gitpod.
 - [godot-jigsaw (1)](https://github.com/LeoDog896/godot-jigsaw) - jigsaw example
   in godot
-- [jigsawable (1)](https://github.com/LeoDog896/jigsawable) - jigsaw game in
-  godot, demonstrating the `godot-jigsaw` repository example
 - [kanban (1)](https://github.com/LeoDog896/kanban) - a kanban management system
 - [Logitech-Extreme-3d-Pro-Visualizer (1)](https://github.com/LeoDog896/Logitech-Extreme-3d-Pro-Visualizer)
   ([homepage](https://leodog896.github.io/Logitech-Extreme-3d-Pro-Visualizer/)) -
@@ -156,8 +168,6 @@ instead.
   ([homepage](https://leodog896.github.io/canvas-coordinates/)) - visual canvas
   coordinates demo
 - [Chat (0)](https://github.com/LeoDog896/Chat) - Just another Chat plugin
-- [chessground-anim (0)](https://github.com/LeoDog896/chessground-anim) -
-  animate pgn with chessground
 - [chessground-triage-click-positioning (0)](https://github.com/LeoDog896/chessground-triage-click-positioning) -
   triage for chessground for silly positioning issue
 - [code-and-crypt (0)](https://github.com/LeoDog896/code-and-crypt) - visualize
@@ -169,9 +179,6 @@ instead.
 - [Crews (0)](https://github.com/LeoDog896/Crews) - Crews extension for Cepi
 - [curvegroove (0)](https://github.com/LeoDog896/curvegroove) - make fancy
   animations with a simple UI
-- [curve_collapse (0)](https://github.com/LeoDog896/curve_collapse) - a function
-  to turn any arbitrary function into equidistant points from [a, b] with n
-  points.
 - [cvss-calc (0)](https://github.com/LeoDog896/cvss-calc) - a simple CVSS string
   calculator & parser in Deno/Node
 - [dangle (0)](https://github.com/LeoDog896/dangle) - hangman in rust
@@ -205,9 +212,6 @@ instead.
   example plugin with example plugin features.
 - [express-pipes (0)](https://github.com/LeoDog896/express-pipes) -
   TypeScript-focused express.js middleware transformation
-- [eyeball (0)](https://github.com/LeoDog896/eyeball)
-  ([homepage](https://leodog896.github.io/eyeball/)) - moving eyeball that
-  follows the cursor
 - [factorr (0)](https://github.com/LeoDog896/factorr) - factor in rust
 - [FBLACompetition2022 (0)](https://github.com/LeoDog896/FBLACompetition2022) -
   Quick test site
@@ -334,8 +338,6 @@ instead.
   signaling data in webrtc
 - [parcel-implicit-env-test (0)](https://github.com/LeoDog896/parcel-implicit-env-test) -
   triage for https://github.com/parcel-bundler/parcel/issues/8470
-- [parcel-triage-mstile (0)](https://github.com/LeoDog896/parcel-triage-mstile) -
-  triage for mstile asset duplication in parcel
 - [pata (0)](https://github.com/LeoDog896/pata) - p2p chat app
 - [piano-visualizer (0)](https://github.com/LeoDog896/piano-visualizer)
   ([homepage](https://leodog896.github.io/piano-visualizer/)) - visualize midi
@@ -373,9 +375,6 @@ instead.
   Manifest and icon generator for PWAs, in a rollup plugin.
 - [roomloom (0)](https://github.com/LeoDog896/roomloom) - Create peer to peer
   rooms.
-- [rotator (0)](https://github.com/LeoDog896/rotator)
-  ([homepage](https://leodog896.github.io/rotator/)) - reupload of source code
-  from https://gitlab.com/jonot-cyber/rotate-game
 - [rural (0)](https://github.com/LeoDog896/rural) - read pages as markdown files
   in your CLI
 - [rust-out (0)](https://github.com/LeoDog896/rust-out) - No description
@@ -391,8 +390,6 @@ instead.
 - [SpanishConjunctions (0)](https://github.com/LeoDog896/SpanishConjunctions) -
   Spanish Conjuctions!
 - [spin (0)](https://github.com/LeoDog896/spin) - spinny text
-- [spin-2 (0)](https://github.com/LeoDog896/spin-2)
-  ([homepage](https://leodog896.github.io/spin-2/)) - spin 2 (joke for a friend)
 - [sqlbyte (0)](https://github.com/LeoDog896/sqlbyte) - customizable open
   tutorials && practice for SQL
 - [sqlparser-playground (0)](https://github.com/LeoDog896/sqlparser-playground) -
@@ -456,7 +453,7 @@ instead.
 - [WidgetMake (0)](https://github.com/LeoDog896/WidgetMake) - Widget maker (GCC
   competition)
 
-## Forks (244)
+## Forks (245)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -855,6 +852,8 @@ instead.
   support
 - [Quizlet-Exporter](https://github.com/LeoDog896/Quizlet-Exporter) - Website
   that exports Quizlet study sets into a variety of file formats.
+- [rayon](https://github.com/LeoDog896/rayon) - Rayon: A data parallelism
+  library for Rust
 - [reader-mode](https://github.com/LeoDog896/reader-mode)
   ([homepage](http://read.jonot.me)) - Firefox Reader Mode inside an Azure
   Function.
@@ -1033,7 +1032,7 @@ instead.
 - [yarn](https://github.com/LeoDog896/yarn) - Libre Minecraft mappings, free to
   use for everyone. No exceptions.
 
-## Archived (6)
+## Archived (8)
 
 > These projects consist of ideas that were duplicates, silly, or things that
 > have clear better alternatives.
@@ -1052,3 +1051,7 @@ instead.
   Python formatter for dprint (ruff wrapper)
 - [minification-playground (0)](https://github.com/LeoDog896/minification-playground) -
   a playground showcasing various JS minifiers for a blog post and for you
+- [parcel-triage-mstile (0)](https://github.com/LeoDog896/parcel-triage-mstile) -
+  triage for mstile asset duplication in parcel
+- [spin-2 (0)](https://github.com/LeoDog896/spin-2)
+  ([homepage](https://leodog896.github.io/spin-2/)) - spin 2 (joke for a friend)

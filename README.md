@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (219)
+## Projects (218)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -22,6 +22,9 @@ instead.
   the web
 - [type (4)](https://github.com/LeoDog896/type)
   ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
+- [chessground-anim (3)](https://github.com/LeoDog896/chessground-anim)
+  ([homepage](https://leodog896.github.io/chessground-anim/)) - animate pgn with
+  chessground
 - [ferret_api (3)](https://github.com/LeoDog896/ferret_api)
   ([homepage](https://leodog896.github.io/ferret_api/)) - collection of ferret
   images
@@ -38,9 +41,6 @@ instead.
 - [svelte-mathquill (3)](https://github.com/LeoDog896/svelte-mathquill)
   ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
   wrapper for svelte
-- [chessground-anim (2)](https://github.com/LeoDog896/chessground-anim)
-  ([homepage](https://leodog896.github.io/chessground-anim/)) - animate pgn with
-  chessground
 - [co-authored-by (2)](https://github.com/LeoDog896/co-authored-by)
   ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
   co-authored-by descriptions & emails for authors
@@ -172,8 +172,6 @@ instead.
   triage for chessground for silly positioning issue
 - [code-and-crypt (0)](https://github.com/LeoDog896/code-and-crypt) - visualize
   codes and cryptography methods
-- [code-notes (0)](https://github.com/LeoDog896/code-notes) - simple code notes
-  for syntax highlighted notes
 - [countdown (0)](https://github.com/LeoDog896/countdown) - simple countdown
   project
 - [Crews (0)](https://github.com/LeoDog896/Crews) - Crews extension for Cepi
@@ -453,7 +451,7 @@ instead.
 - [WidgetMake (0)](https://github.com/LeoDog896/WidgetMake) - Widget maker (GCC
   competition)
 
-## Forks (245)
+## Forks (249)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -524,6 +522,8 @@ instead.
   search engine, based on cheese.
 - [chessground](https://github.com/LeoDog896/chessground)
   ([homepage](https://lichess.org)) - Mobile/Web chess UI for lichess.org
+- [chessground-examples](https://github.com/LeoDog896/chessground-examples)
+  ([homepage](https://lichess.org)) - Usage examples for chessground
 - [chromebrew.github.io](https://github.com/LeoDog896/chromebrew.github.io)
   ([homepage](https://chromebrew.github.io)) - Chromebrew's homepage, hosted on
   GitHub Pages
@@ -555,6 +555,7 @@ instead.
   SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [DefinitelyTyped](https://github.com/LeoDog896/DefinitelyTyped) - The
   repository for high quality TypeScript type definitions.
+- [dejs](https://github.com/LeoDog896/dejs) - ejs template engine for deno.
 - [delta-client](https://github.com/LeoDog896/delta-client)
   ([homepage](https://deltaclient.app)) - An open source Minecraft Java Edition
   client built for speed.
@@ -714,6 +715,8 @@ instead.
 - [jsesc](https://github.com/LeoDog896/jsesc)
   ([homepage](https://mths.be/jsesc)) - Given some data, jsesc returns the
   shortest possible stringified & ASCII-safe representation of that data.
+- [kdtree-rs](https://github.com/LeoDog896/kdtree-rs) - K-dimensional tree in
+  Rust for fast geospatial indexing and lookup
 - [kit](https://github.com/LeoDog896/kit) ([homepage](https://kit.svelte.dev)) -
   web development, streamlined
 - [ko-sleep](https://github.com/LeoDog896/ko-sleep) - No description provided.
@@ -811,6 +814,8 @@ instead.
 - [Old-bot](https://github.com/LeoDog896/Old-bot)
   ([homepage](https://syte.space)) - The bot used in the sytespace discord
   server
+- [onedirect](https://github.com/LeoDog896/onedirect) - Simple 302 redirection
+  controlled by a web dashboard
 - [ow](https://github.com/LeoDog896/ow)
   ([homepage](https://sindresorhus.com/ow/)) - Function argument validation for
   humans

@@ -59,6 +59,8 @@ instead.
 - [ferret_images (2)](https://github.com/LeoDog896/ferret_images)
   ([homepage](https://leodog896.github.io/ferret_api/business)) - collection of
   ferret images, in use with ferret_api
+- [godot-jigsaw (2)](https://github.com/LeoDog896/godot-jigsaw) - jigsaw example
+  in godot
 - [jsnow (2)](https://github.com/LeoDog896/jsnow)
   ([homepage](https://now.js.org)) - no clutter. just js, now.
 - [lyricly (2)](https://github.com/LeoDog896/lyricly) - song lyrics in the cli
@@ -101,8 +103,6 @@ instead.
   repos for browsing
 - [gitpod-deno (1)](https://github.com/LeoDog896/gitpod-deno) - A simple script
   that adds support for deno in gitpod.
-- [godot-jigsaw (1)](https://github.com/LeoDog896/godot-jigsaw) - jigsaw example
-  in godot
 - [kanban (1)](https://github.com/LeoDog896/kanban) - a kanban management system
 - [Logitech-Extreme-3d-Pro-Visualizer (1)](https://github.com/LeoDog896/Logitech-Extreme-3d-Pro-Visualizer)
   ([homepage](https://leodog896.github.io/Logitech-Extreme-3d-Pro-Visualizer/)) -

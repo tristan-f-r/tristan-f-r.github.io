@@ -104,6 +104,8 @@ instead.
 - [gitpod-deno (1)](https://github.com/LeoDog896/gitpod-deno) - A simple script
   that adds support for deno in gitpod.
 - [kanban (1)](https://github.com/LeoDog896/kanban) - a kanban management system
+- [Llama-Zips (1)](https://github.com/LeoDog896/Llama-Zips) - A game with a
+  llama and a grappling hook made in Godot
 - [Logitech-Extreme-3d-Pro-Visualizer (1)](https://github.com/LeoDog896/Logitech-Extreme-3d-Pro-Visualizer)
   ([homepage](https://leodog896.github.io/Logitech-Extreme-3d-Pro-Visualizer/)) -
   Check out the data sent by your logitech controller!
@@ -285,8 +287,6 @@ instead.
   devcontainer for lila
 - [livetype (0)](https://github.com/LeoDog896/livetype) - No description
   provided.
-- [Llama-Zips (0)](https://github.com/LeoDog896/Llama-Zips) - A game with a
-  llama and a grappling hook made in Godot
 - [localchat (0)](https://github.com/LeoDog896/localchat) - chat locally in the
   terminal
 - [mac-identifier (0)](https://github.com/LeoDog896/mac-identifier) - find and

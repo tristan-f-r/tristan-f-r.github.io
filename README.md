@@ -20,6 +20,9 @@ instead.
 - [scannable (4)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable)) - QR code generator for
   the web
+- [svelte-mathquill (4)](https://github.com/LeoDog896/svelte-mathquill)
+  ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
+  wrapper for svelte
 - [type (4)](https://github.com/LeoDog896/type)
   ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
 - [chessground-anim (3)](https://github.com/LeoDog896/chessground-anim)
@@ -38,9 +41,6 @@ instead.
   npm packages
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
   vite template
-- [svelte-mathquill (3)](https://github.com/LeoDog896/svelte-mathquill)
-  ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
-  wrapper for svelte
 - [co-authored-by (2)](https://github.com/LeoDog896/co-authored-by)
   ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
   co-authored-by descriptions & emails for authors
@@ -294,7 +294,8 @@ instead.
 - [making-qr (0)](https://github.com/LeoDog896/making-qr) - a little guide on
   how to make a QR code
 - [marpmarp (0)](https://github.com/LeoDog896/marpmarp) - web editor for marp
-- [mathtype (0)](https://github.com/LeoDog896/mathtype) - simple math typer w/
+- [mathtype (0)](https://github.com/LeoDog896/mathtype)
+  ([homepage](https://leodog896.github.io/mathtype/)) - simple math typer w/
   mathquill
 - [md4-hash (0)](https://github.com/LeoDog896/md4-hash) - pure typescript
   implementation of the md4 hashing algorithm

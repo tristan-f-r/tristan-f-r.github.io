@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (218)
+## Projects (215)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -150,8 +150,6 @@ instead.
 - [asciipinski (0)](https://github.com/LeoDog896/asciipinski) - Make ascii
   sierpiński triangles
 - [base64id (0)](https://github.com/LeoDog896/base64id) - base64id port to deno
-- [bddy.lol (0)](https://github.com/LeoDog896/bddy.lol)
-  ([homepage](https://bddy.lol)) - Personal Website for bddy
 - [best-browser (0)](https://github.com/LeoDog896/best-browser) - use the best
   browser
 - [big-type (0)](https://github.com/LeoDog896/big-type) - big text, simple area.
@@ -213,8 +211,6 @@ instead.
 - [express-pipes (0)](https://github.com/LeoDog896/express-pipes) -
   TypeScript-focused express.js middleware transformation
 - [factorr (0)](https://github.com/LeoDog896/factorr) - factor in rust
-- [FBLACompetition2022 (0)](https://github.com/LeoDog896/FBLACompetition2022) -
-  Quick test site
 - [ferret (0)](https://github.com/LeoDog896/ferret) - No description provided.
 - [ferret-rs (0)](https://github.com/LeoDog896/ferret-rs) - p2p UTP/IP stream
   with support for unreliable and reliable packets, and a reliable connection
@@ -269,8 +265,7 @@ instead.
   deployable chat service over deno deploy
 - [length (0)](https://github.com/LeoDog896/length)
   ([homepage](https://leodog896.github.io/length/)) - get the length of a string
-- [LeoDog896 (0)](https://github.com/LeoDog896/LeoDog896) - No description
-  provided.
+- [LeoDog896 (0)](https://github.com/LeoDog896/LeoDog896) - readme files
 - [leodog896.github.io (0)](https://github.com/LeoDog896/leodog896.github.io)
   ([homepage](https://leodog896.github.io/)) - auto-generated list of
   repositories on my account, mainly for catalogue info
@@ -426,8 +421,6 @@ instead.
   treblecross games
 - [try_catch (0)](https://github.com/LeoDog896/try_catch) - No description
   provided.
-- [TTEKBots (0)](https://github.com/LeoDog896/TTEKBots) - Find all of Team TEK's
-  Discord Bots right here
 - [twitter-clone (0)](https://github.com/LeoDog896/twitter-clone)
   ([homepage](https://leodog896.github.io/twitter-clone)) - twitter without all
   the bad things

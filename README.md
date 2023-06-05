@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (215)
+## Projects (216)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -150,6 +150,8 @@ instead.
 - [asciipinski (0)](https://github.com/LeoDog896/asciipinski) - Make ascii
   sierpiński triangles
 - [base64id (0)](https://github.com/LeoDog896/base64id) - base64id port to deno
+- [beggar-my-neighbour (0)](https://github.com/LeoDog896/beggar-my-neighbour) -
+  No description provided.
 - [best-browser (0)](https://github.com/LeoDog896/best-browser) - use the best
   browser
 - [big-type (0)](https://github.com/LeoDog896/big-type) - big text, simple area.

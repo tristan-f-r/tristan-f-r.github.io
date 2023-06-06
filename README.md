@@ -25,6 +25,8 @@ instead.
   wrapper for svelte
 - [type (4)](https://github.com/LeoDog896/type)
   ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
+- [beggar-my-neighbour (3)](https://github.com/LeoDog896/beggar-my-neighbour) -
+  solving an unsolved problem in the field of combinatorial games
 - [chessground-anim (3)](https://github.com/LeoDog896/chessground-anim)
   ([homepage](https://leodog896.github.io/chessground-anim/)) - animate pgn with
   chessground
@@ -150,8 +152,6 @@ instead.
 - [asciipinski (0)](https://github.com/LeoDog896/asciipinski) - Make ascii
   sierpiński triangles
 - [base64id (0)](https://github.com/LeoDog896/base64id) - base64id port to deno
-- [beggar-my-neighbour (0)](https://github.com/LeoDog896/beggar-my-neighbour) -
-  No description provided.
 - [best-browser (0)](https://github.com/LeoDog896/best-browser) - use the best
   browser
 - [big-type (0)](https://github.com/LeoDog896/big-type) - big text, simple area.
@@ -447,7 +447,7 @@ instead.
 - [WidgetMake (0)](https://github.com/LeoDog896/WidgetMake) - Widget maker (GCC
   competition)
 
-## Forks (249)
+## Forks (248)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -855,9 +855,6 @@ instead.
   that exports Quizlet study sets into a variety of file formats.
 - [rayon](https://github.com/LeoDog896/rayon) - Rayon: A data parallelism
   library for Rust
-- [reader-mode](https://github.com/LeoDog896/reader-mode)
-  ([homepage](http://read.jonot.me)) - Firefox Reader Mode inside an Azure
-  Function.
 - [ReignOkeefe](https://github.com/LeoDog896/ReignOkeefe) - Reign O'Keefe
   Portfolio
 - [repl-auth-node](https://github.com/LeoDog896/repl-auth-node) - Nodejs client

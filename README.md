@@ -15,6 +15,8 @@ instead.
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
+- [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
+  solving an unsolved problem in the field of combinatorial games
 - [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
   lichess board implementation for minecraft.
 - [scannable (4)](https://github.com/LeoDog896/scannable)
@@ -25,8 +27,6 @@ instead.
   wrapper for svelte
 - [type (4)](https://github.com/LeoDog896/type)
   ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
-- [beggar-my-neighbour (3)](https://github.com/LeoDog896/beggar-my-neighbour) -
-  solving an unsolved problem in the field of combinatorial games
 - [chessground-anim (3)](https://github.com/LeoDog896/chessground-anim)
   ([homepage](https://leodog896.github.io/chessground-anim/)) - animate pgn with
   chessground

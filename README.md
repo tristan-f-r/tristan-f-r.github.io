@@ -41,6 +41,9 @@ instead.
 - [npm-rank (3)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
+- [rotator (3)](https://github.com/LeoDog896/rotator)
+  ([homepage](https://leodog896.github.io/rotator/)) - reupload of source code
+  from https://gitlab.com/jonot-cyber/rotate-game
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
   vite template
 - [co-authored-by (2)](https://github.com/LeoDog896/co-authored-by)
@@ -71,9 +74,6 @@ instead.
   script for linux.
 - [redos (2)](https://github.com/LeoDog896/redos) - check for ReDoS
   vulnerabilities in code.
-- [rotator (2)](https://github.com/LeoDog896/rotator)
-  ([homepage](https://leodog896.github.io/rotator/)) - reupload of source code
-  from https://gitlab.com/jonot-cyber/rotate-game
 - [svelte-tilt (2)](https://github.com/LeoDog896/svelte-tilt)
   ([homepage](https://leodog896.github.io/svelte-tilt/)) - Tilt library for
   svelte

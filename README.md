@@ -16,9 +16,12 @@ instead.
 - [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
 - [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
-  solving an unsolved problem in the field of combinatorial games
+  solving an unsolved problem in the mathematics
 - [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
   lichess board implementation for minecraft.
+- [maxwell (4)](https://github.com/LeoDog896/maxwell)
+  ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
+  maxwell fan website
 - [scannable (4)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable)) - QR code generator for
   the web
@@ -35,9 +38,6 @@ instead.
   images
 - [jigsawable (3)](https://github.com/LeoDog896/jigsawable) - jigsaw game in
   godot, demonstrating the `godot-jigsaw` repository example
-- [maxwell (3)](https://github.com/LeoDog896/maxwell)
-  ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
-  maxwell fan website
 - [npm-rank (3)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages

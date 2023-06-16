@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (216)
+## Projects (218)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -74,6 +74,9 @@ instead.
   script for linux.
 - [redos (2)](https://github.com/LeoDog896/redos) - check for ReDoS
   vulnerabilities in code.
+- [svelte-persistent (2)](https://github.com/LeoDog896/svelte-persistent)
+  ([homepage](https://leodog896.github.io/svelte-persistent)) - Svelte writables
+  for local & session storage
 - [svelte-tilt (2)](https://github.com/LeoDog896/svelte-tilt)
   ([homepage](https://leodog896.github.io/svelte-tilt/)) - Tilt library for
   svelte
@@ -319,6 +322,9 @@ instead.
   integration
 - [multidimensional-dice-roll (0)](https://github.com/LeoDog896/multidimensional-dice-roll) -
   Multidimensional dice rolling
+- [n-body (0)](https://github.com/LeoDog896/n-body)
+  ([homepage](https://leodog896.github.io/n-body/)) - ridiculously rudimentary
+  n-body simulation
 - [ngrokify (0)](https://github.com/LeoDog896/ngrokify) - Ngrok UI with egui
 - [number_enum (0)](https://github.com/LeoDog896/number_enum) - numbers as
   enums!
@@ -1030,14 +1036,11 @@ instead.
 - [yarn](https://github.com/LeoDog896/yarn) - Libre Minecraft mappings, free to
   use for everyone. No exceptions.
 
-## Archived (8)
+## Archived (7)
 
 > These projects consist of ideas that were duplicates, silly, or things that
 > have clear better alternatives.
 
-- [svelte-persistent (2)](https://github.com/LeoDog896/svelte-persistent)
-  ([homepage](https://leodog896.github.io/svelte-persistent)) - Svelte writables
-  for local & session storage
 - [file_hash (1)](https://github.com/LeoDog896/file_hash) - simple file registry
   in deno
 - [svelte-tailwind-barebones (1)](https://github.com/LeoDog896/svelte-tailwind-barebones) -

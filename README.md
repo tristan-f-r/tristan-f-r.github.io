@@ -41,9 +41,6 @@ instead.
 - [npm-rank (3)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
-- [rotator (3)](https://github.com/LeoDog896/rotator)
-  ([homepage](https://leodog896.github.io/rotator/)) - reupload of source code
-  from https://gitlab.com/jonot-cyber/rotate-game
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
   vite template
 - [co-authored-by (2)](https://github.com/LeoDog896/co-authored-by)
@@ -64,8 +61,6 @@ instead.
 - [ferret_images (2)](https://github.com/LeoDog896/ferret_images)
   ([homepage](https://leodog896.github.io/ferret_api/business)) - collection of
   ferret images, in use with ferret_api
-- [godot-jigsaw (2)](https://github.com/LeoDog896/godot-jigsaw) - jigsaw example
-  in godot
 - [jsnow (2)](https://github.com/LeoDog896/jsnow)
   ([homepage](https://now.js.org)) - no clutter. just js, now.
 - [lyricly (2)](https://github.com/LeoDog896/lyricly) - song lyrics in the cli
@@ -74,6 +69,9 @@ instead.
   script for linux.
 - [redos (2)](https://github.com/LeoDog896/redos) - check for ReDoS
   vulnerabilities in code.
+- [rotator (2)](https://github.com/LeoDog896/rotator)
+  ([homepage](https://leodog896.github.io/rotator/)) - reupload of source code
+  from https://gitlab.com/jonot-cyber/rotate-game
 - [svelte-persistent (2)](https://github.com/LeoDog896/svelte-persistent)
   ([homepage](https://leodog896.github.io/svelte-persistent)) - Svelte writables
   for local & session storage
@@ -108,9 +106,9 @@ instead.
   repos for browsing
 - [gitpod-deno (1)](https://github.com/LeoDog896/gitpod-deno) - A simple script
   that adds support for deno in gitpod.
+- [godot-jigsaw (1)](https://github.com/LeoDog896/godot-jigsaw) - jigsaw example
+  in godot
 - [kanban (1)](https://github.com/LeoDog896/kanban) - a kanban management system
-- [Llama-Zips (1)](https://github.com/LeoDog896/Llama-Zips) - A game with a
-  llama and a grappling hook made in Godot
 - [Logitech-Extreme-3d-Pro-Visualizer (1)](https://github.com/LeoDog896/Logitech-Extreme-3d-Pro-Visualizer)
   ([homepage](https://leodog896.github.io/Logitech-Extreme-3d-Pro-Visualizer/)) -
   Check out the data sent by your logitech controller!
@@ -287,6 +285,8 @@ instead.
   devcontainer for lila
 - [livetype (0)](https://github.com/LeoDog896/livetype) - No description
   provided.
+- [Llama-Zips (0)](https://github.com/LeoDog896/Llama-Zips) - A game with a
+  llama and a grappling hook made in Godot
 - [localchat (0)](https://github.com/LeoDog896/localchat) - chat locally in the
   terminal
 - [mac-identifier (0)](https://github.com/LeoDog896/mac-identifier) - find and

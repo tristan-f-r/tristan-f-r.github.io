@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (218)
+## Projects (219)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -224,6 +224,8 @@ instead.
   regression patterns to identify type of function
 - [github-actions-adder (0)](https://github.com/LeoDog896/github-actions-adder) -
   svelte-add adder for vanilla github actions
+- [github-colors (0)](https://github.com/LeoDog896/github-colors) -
+  auto-generated and deno registry protected list of github language colors
 - [github-issue-template-vscode (0)](https://github.com/LeoDog896/github-issue-template-vscode) -
   Preview issue templates inside of VSCode without having to constantly push &
   test.
@@ -1038,8 +1040,8 @@ instead.
 
 ## Archived (7)
 
-> These projects consist of ideas that were duplicates, silly, or things that
-> have clear better alternatives.
+> These projects consist of ideas that were duplicates, libraries that have
+> clear better alternatives, or temporary repositories
 
 - [file_hash (1)](https://github.com/LeoDog896/file_hash) - simple file registry
   in deno

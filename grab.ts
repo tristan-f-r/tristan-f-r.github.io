@@ -90,7 +90,7 @@ function printData(data: Repo[], showStars: boolean): string {
   return str;
 }
 
-let markdown =
+const markdown =
   `# [leodog896.github.io](https://github.com/LeoDog896/leodog896.github.io)
 
 these are auto-generated lists of repositories on my account, mainly for catalogue info.
@@ -114,7 +114,7 @@ ${printData(forks, false)}
 
 ## Archived (${archived.length})
 
-> These projects consist of ideas that were duplicates, silly, or things that have clear better alternatives.
+> These projects consist of ideas that were duplicates, libraries that have clear better alternatives, or temporary repositories
 
 ${printData(archived, true)}
 `;

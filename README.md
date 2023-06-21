@@ -266,8 +266,8 @@ instead.
   the cups are like kettle.
 - [knockout (0)](https://github.com/LeoDog896/knockout) - Punch random image
   files!
-- [lan-spoof (0)](https://github.com/LeoDog896/lan-spoof) - No description
-  provided.
+- [lan-spoof (0)](https://github.com/LeoDog896/lan-spoof) - broadcast a local
+  server as a LAN server in Minecraft.
 - [leafchat (0)](https://github.com/LeoDog896/leafchat) - simple, anonymous,
   deployable chat service over deno deploy
 - [length (0)](https://github.com/LeoDog896/length)

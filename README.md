@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (221)
+## Projects (222)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -423,6 +423,8 @@ instead.
 - [text-gradient (0)](https://github.com/LeoDog896/text-gradient) - copy silly
   little text gradients to your favorite WYSWIG editors
 - [thequeen (0)](https://github.com/LeoDog896/thequeen) - the queen was cool
+- [time-from-now (0)](https://github.com/LeoDog896/time-from-now) - check what
+  time it is after X time
 - [tokiponasona.github.io (0)](https://github.com/LeoDog896/tokiponasona.github.io) -
   No description provided.
 - [tool-swing (0)](https://github.com/LeoDog896/tool-swing) - Swing around silly

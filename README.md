@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (222)
+## Projects (223)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -16,7 +16,7 @@ instead.
 - [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
 - [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
-  solving an unsolved problem in the mathematics
+  solving an unsolved problem in combinatorial mathematics
 - [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
   lichess board implementation for minecraft.
 - [maxwell (4)](https://github.com/LeoDog896/maxwell)
@@ -446,6 +446,9 @@ instead.
   cooler `npx tsc --init`. done? run `npx typescribble`. (not released -- YET!)
 - [unitcircle (0)](https://github.com/LeoDog896/unitcircle) - Unit circle
   practice problems
+- [url-safe-base64-playground (0)](https://github.com/LeoDog896/url-safe-base64-playground)
+  ([homepage](https://leodog896.github.io/url-safe-base64-playground/)) - quick
+  encode/decode for the npm library url-safe-base64
 - [usdo (0)](https://github.com/LeoDog896/usdo) - a history manager using JSON
   diffs
 - [vigenere_cipher (0)](https://github.com/LeoDog896/vigenere_cipher) - viginere

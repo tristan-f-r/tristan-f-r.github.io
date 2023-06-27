@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (223)
+## Projects (225)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -84,6 +84,9 @@ instead.
   ([homepage](https://leodog896.com)) - My personal site
 - [allergitaves (1)](https://github.com/LeoDog896/allergitaves) - list of common
   allergy aliases and what they actually are
+- [asl-caption (1)](https://github.com/LeoDog896/asl-caption)
+  ([homepage](https://leodog896.github.io/asl-caption/)) - generate captions
+  from videos containing ASL
 - [bluebooth (1)](https://github.com/LeoDog896/bluebooth) - No description
   provided.
 - [bookmarklet-editor (1)](https://github.com/LeoDog896/bookmarklet-editor) -
@@ -152,6 +155,8 @@ instead.
 - [arrowtype (0)](https://github.com/LeoDog896/arrowtype) - arrow typing program
 - [asciipinski (0)](https://github.com/LeoDog896/asciipinski) - Make ascii
   sierpiński triangles
+- [asl-train (0)](https://github.com/LeoDog896/asl-train) - training repo to run
+  in codespaces for ASL project
 - [base64id (0)](https://github.com/LeoDog896/base64id) - base64id port to deno
 - [best-browser (0)](https://github.com/LeoDog896/best-browser) - use the best
   browser

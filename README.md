@@ -470,7 +470,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (248)
+## Forks (249)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -959,6 +959,8 @@ instead.
 - [svelecte](https://github.com/LeoDog896/svelecte)
   ([homepage](https://mskocik.github.io/svelecte/)) - Selectize-like component
   written in Svelte, also usable as custom-element 💪⚡
+- [svelte](https://github.com/LeoDog896/svelte)
+  ([homepage](https://svelte.dev)) - Cybernetically enhanced web apps
 - [svelte-add](https://github.com/LeoDog896/svelte-add) - Easily add
   integrations and other functionality to Svelte apps
 - [svelte-canvas](https://github.com/LeoDog896/svelte-canvas) - 🎨 Reactive

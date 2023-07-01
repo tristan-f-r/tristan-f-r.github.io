@@ -13,7 +13,7 @@ instead.
 
 - [awesome-minestom (33)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
-- [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find
+- [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
 - [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
   solving an unsolved problem in combinatorial mathematics
@@ -430,8 +430,8 @@ instead.
 - [thequeen (0)](https://github.com/LeoDog896/thequeen) - the queen was cool
 - [time-from-now (0)](https://github.com/LeoDog896/time-from-now) - check what
   time it is after X time
-- [todays-wordle (0)](https://github.com/LeoDog896/todays-wordle) - No
-  description provided.
+- [todays-wordle (0)](https://github.com/LeoDog896/todays-wordle) -
+  auto-updating today's wordle
 - [tokiponasona.github.io (0)](https://github.com/LeoDog896/tokiponasona.github.io) -
   No description provided.
 - [tool-swing (0)](https://github.com/LeoDog896/tool-swing) - Swing around silly

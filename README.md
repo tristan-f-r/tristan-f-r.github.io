@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (226)
+## Projects (227)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -161,6 +161,8 @@ instead.
 - [best-browser (0)](https://github.com/LeoDog896/best-browser) - use the best
   browser
 - [big-type (0)](https://github.com/LeoDog896/big-type) - big text, simple area.
+- [binaryen-action (0)](https://github.com/LeoDog896/binaryen-action) - github
+  action for using binaryen CLI tooling
 - [bingo (0)](https://github.com/LeoDog896/bingo) - bingo simulator
 - [bird (0)](https://github.com/LeoDog896/bird) - flyd for deno -- low-level
   reactive stores

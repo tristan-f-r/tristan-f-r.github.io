@@ -41,6 +41,8 @@ instead.
 - [npm-rank (3)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
+- [redos (3)](https://github.com/LeoDog896/redos) - check for ReDoS
+  vulnerabilities in code.
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
   vite template
 - [co-authored-by (2)](https://github.com/LeoDog896/co-authored-by)
@@ -67,8 +69,6 @@ instead.
 - [math (2)](https://github.com/LeoDog896/math) - No description provided.
 - [MCInstall (2)](https://github.com/LeoDog896/MCInstall) - MultiMC installation
   script for linux.
-- [redos (2)](https://github.com/LeoDog896/redos) - check for ReDoS
-  vulnerabilities in code.
 - [rotator (2)](https://github.com/LeoDog896/rotator)
   ([homepage](https://leodog896.github.io/rotator/)) - reupload of source code
   from https://gitlab.com/jonot-cyber/rotate-game
@@ -474,7 +474,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (249)
+## Forks (253)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -758,6 +758,13 @@ instead.
   transformer, bundler, and minifier written in Rust.
 - [lila](https://github.com/LeoDog896/lila) ([homepage](https://lichess.org)) -
   ♞ lichess.org: the forever free, adless and open source chess server ♞
+- [lila-gif](https://github.com/LeoDog896/lila-gif) - Webservice to render Gifs
+  of chess positions and games, and stream them frame by frame
+- [lila-http](https://github.com/LeoDog896/lila-http) - Handle some
+  https://lichess.org/tournament load
+- [lila-openingexplorer](https://github.com/LeoDog896/lila-openingexplorer)
+  ([homepage](http://lichess.org/analysis#explorer)) - Opening explorer for
+  lichess.org that can handle all the variants and trillions of unique positions
 - [lila-ws](https://github.com/LeoDog896/lila-ws)
   ([homepage](https://lichess.org)) - Lichess' websocket server
 - [limbo](https://github.com/LeoDog896/limbo) - A simple, very minimal Minecraft
@@ -914,6 +921,9 @@ instead.
   ([homepage](https://npmjs.com/serve-handler)) - The foundation of `serve`
 - [servo](https://github.com/LeoDog896/servo) ([homepage](https://servo.org/)) -
   The Servo Browser Engine
+- [shakmaty](https://github.com/LeoDog896/shakmaty)
+  ([homepage](https://docs.rs/shakmaty)) - A Rust library for chess and chess
+  variant rules and operations
 - [shapeshift](https://github.com/LeoDog896/shapeshift)
   ([homepage](https://www.sapphirejs.dev)) - Blazing fast input validation and
   transformation ⚡

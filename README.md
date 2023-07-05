@@ -22,6 +22,9 @@ instead.
 - [maxwell (4)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
+- [npm-rank (4)](https://github.com/LeoDog896/npm-rank)
+  ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
+  npm packages
 - [scannable (4)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable)) - QR code generator for
   the web
@@ -33,14 +36,14 @@ instead.
 - [chessground-anim (3)](https://github.com/LeoDog896/chessground-anim)
   ([homepage](https://leodog896.github.io/chessground-anim/)) - animate pgn with
   chessground
+- [eyeball (3)](https://github.com/LeoDog896/eyeball)
+  ([homepage](https://leodog896.github.io/eyeball/)) - moving eyeball that
+  follows the cursor
 - [ferret_api (3)](https://github.com/LeoDog896/ferret_api)
   ([homepage](https://leodog896.github.io/ferret_api/)) - collection of ferret
   images
 - [jigsawable (3)](https://github.com/LeoDog896/jigsawable) - jigsaw game in
   godot, demonstrating the `godot-jigsaw` repository example
-- [npm-rank (3)](https://github.com/LeoDog896/npm-rank)
-  ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
-  npm packages
 - [redos (3)](https://github.com/LeoDog896/redos) - check for ReDoS
   vulnerabilities in code.
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
@@ -57,9 +60,6 @@ instead.
 - [curve_collapse (2)](https://github.com/LeoDog896/curve_collapse) - a function
   to turn any arbitrary function into equidistant points from [a, b] with n
   points.
-- [eyeball (2)](https://github.com/LeoDog896/eyeball)
-  ([homepage](https://leodog896.github.io/eyeball/)) - moving eyeball that
-  follows the cursor
 - [ferret_images (2)](https://github.com/LeoDog896/ferret_images)
   ([homepage](https://leodog896.github.io/ferret_api/business)) - collection of
   ferret images, in use with ferret_api

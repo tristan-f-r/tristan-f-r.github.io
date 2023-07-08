@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (228)
+## Projects (230)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -15,9 +15,6 @@ instead.
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
-- [svelte-mathquill (5)](https://github.com/LeoDog896/svelte-mathquill)
-  ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
-  wrapper for svelte
 - [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
   solving an unsolved problem in combinatorial mathematics
 - [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
@@ -31,14 +28,14 @@ instead.
 - [scannable (4)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable)) - QR code generator for
   the web
+- [svelte-mathquill (4)](https://github.com/LeoDog896/svelte-mathquill)
+  ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
+  wrapper for svelte
 - [type (4)](https://github.com/LeoDog896/type)
   ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
 - [chessground-anim (3)](https://github.com/LeoDog896/chessground-anim)
   ([homepage](https://leodog896.github.io/chessground-anim/)) - animate pgn with
   chessground
-- [eyeball (3)](https://github.com/LeoDog896/eyeball)
-  ([homepage](https://leodog896.github.io/eyeball/)) - moving eyeball that
-  follows the cursor
 - [ferret_api (3)](https://github.com/LeoDog896/ferret_api)
   ([homepage](https://leodog896.github.io/ferret_api/)) - collection of ferret
   images
@@ -60,6 +57,9 @@ instead.
 - [curve_collapse (2)](https://github.com/LeoDog896/curve_collapse) - a function
   to turn any arbitrary function into equidistant points from [a, b] with n
   points.
+- [eyeball (2)](https://github.com/LeoDog896/eyeball)
+  ([homepage](https://leodog896.github.io/eyeball/)) - moving eyeball that
+  follows the cursor
 - [ferret_images (2)](https://github.com/LeoDog896/ferret_images)
   ([homepage](https://leodog896.github.io/ferret_api/business)) - collection of
   ferret images, in use with ferret_api
@@ -157,6 +157,8 @@ instead.
   sierpiński triangles
 - [asl-train (0)](https://github.com/LeoDog896/asl-train) - training repo to run
   in codespaces for ASL project
+- [base-n-finder (0)](https://github.com/LeoDog896/base-n-finder) - find numbers
+  of 2^n that start with some Value
 - [base64id (0)](https://github.com/LeoDog896/base64id) - base64id port to deno
 - [best-browser (0)](https://github.com/LeoDog896/best-browser) - use the best
   browser
@@ -363,6 +365,8 @@ instead.
   demonstration of various ways to construct a sphere
 - [pona (0)](https://github.com/LeoDog896/pona) - Check if your repositories are
   OK! (tree-shakeable, ES6 module, TypeScript-ready, and more)
+- [primeish (0)](https://github.com/LeoDog896/primeish) - various prime
+  utilities in a CLI
 - [puct (0)](https://github.com/LeoDog896/puct) - No description provided.
 - [quizada (0)](https://github.com/LeoDog896/quizada) - No description provided.
 - [Quizvertor (0)](https://github.com/LeoDog896/Quizvertor) - Browser extension

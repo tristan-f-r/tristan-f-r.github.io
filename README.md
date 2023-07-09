@@ -15,13 +15,13 @@ instead.
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
+- [maxwell (5)](https://github.com/LeoDog896/maxwell)
+  ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
+  maxwell fan website
 - [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
   solving an unsolved problem in combinatorial mathematics
 - [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
   lichess board implementation for minecraft.
-- [maxwell (4)](https://github.com/LeoDog896/maxwell)
-  ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
-  maxwell fan website
 - [npm-rank (4)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages

@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (230)
+## Projects (232)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -41,7 +41,7 @@ instead.
   images
 - [jigsawable (3)](https://github.com/LeoDog896/jigsawable) - jigsaw game in
   godot, demonstrating the `godot-jigsaw` repository example
-- [redos (3)](https://github.com/LeoDog896/redos) - check for ReDoS
+- [redos.deno (3)](https://github.com/LeoDog896/redos.deno) - check for ReDoS
   vulnerabilities in code.
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
   vite template
@@ -231,6 +231,8 @@ instead.
   as max sized as possible (school blocked backgrounds, and thus 1984)
 - [fuzzgression (0)](https://github.com/LeoDog896/fuzzgression) - common
   regression patterns to identify type of function
+- [game-of-crackers (0)](https://github.com/LeoDog896/game-of-crackers) -
+  theoretical game about placing crackers on top of Some shape
 - [github-actions-adder (0)](https://github.com/LeoDog896/github-actions-adder) -
   svelte-add adder for vanilla github actions
 - [github-colors (0)](https://github.com/LeoDog896/github-colors) -
@@ -378,6 +380,8 @@ instead.
   githubrawcontent URLs straight in github
 - [reaction (0)](https://github.com/LeoDog896/reaction) - reaction speed
   calculator based on traffic lights
+- [redos (0)](https://github.com/LeoDog896/redos) - fast redos prevention in
+  your codebase
 - [red_deno (0)](https://github.com/LeoDog896/red_deno) - red deno permissions
   that you should not use
 - [replit-database-transfer (0)](https://github.com/LeoDog896/replit-database-transfer) -

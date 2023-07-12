@@ -231,8 +231,9 @@ instead.
   as max sized as possible (school blocked backgrounds, and thus 1984)
 - [fuzzgression (0)](https://github.com/LeoDog896/fuzzgression) - common
   regression patterns to identify type of function
-- [game-of-crackers (0)](https://github.com/LeoDog896/game-of-crackers) -
-  theoretical game about placing crackers on top of Some shape
+- [game-of-crackers (0)](https://github.com/LeoDog896/game-of-crackers)
+  ([homepage](https://leodog896.github.io/game-of-crackers/)) - theoretical game
+  about placing crackers on top of Some shape
 - [github-actions-adder (0)](https://github.com/LeoDog896/github-actions-adder) -
   svelte-add adder for vanilla github actions
 - [github-colors (0)](https://github.com/LeoDog896/github-colors) -

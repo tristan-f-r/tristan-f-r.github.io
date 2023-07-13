@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (232)
+## Projects (233)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -148,6 +148,8 @@ instead.
   off of the things they carried, for a school project.
 - [tiptap-mathquill (1)](https://github.com/LeoDog896/tiptap-mathquill) - tiptap
   extension for editing math in MathQuill
+- [todays-wordle (1)](https://github.com/LeoDog896/todays-wordle) -
+  auto-updating today's wordle
 - [treblecross-solver (1)](https://github.com/LeoDog896/treblecross-solver) - A
   treblecross solver written in Deno
 - [ansi-editor (0)](https://github.com/LeoDog896/ansi-editor) - web-based ANSI
@@ -414,6 +416,7 @@ instead.
 - [SpanishConjunctions (0)](https://github.com/LeoDog896/SpanishConjunctions) -
   Spanish Conjuctions!
 - [spin (0)](https://github.com/LeoDog896/spin) - spinny text
+- [sprouts (0)](https://github.com/LeoDog896/sprouts) - No description provided.
 - [sqlbyte (0)](https://github.com/LeoDog896/sqlbyte) - customizable open
   tutorials && practice for SQL
 - [sqlparser-playground (0)](https://github.com/LeoDog896/sqlparser-playground) -
@@ -443,8 +446,6 @@ instead.
 - [thequeen (0)](https://github.com/LeoDog896/thequeen) - the queen was cool
 - [time-from-now (0)](https://github.com/LeoDog896/time-from-now) - check what
   time it is after X time
-- [todays-wordle (0)](https://github.com/LeoDog896/todays-wordle) -
-  auto-updating today's wordle
 - [tokiponasona.github.io (0)](https://github.com/LeoDog896/tokiponasona.github.io) -
   No description provided.
 - [tool-swing (0)](https://github.com/LeoDog896/tool-swing) - Swing around silly

@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (233)
+## Projects (234)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -186,6 +186,8 @@ instead.
   triage for chessground for silly positioning issue
 - [code-and-crypt (0)](https://github.com/LeoDog896/code-and-crypt) - visualize
   codes and cryptography methods
+- [combinatorial-game (0)](https://github.com/LeoDog896/combinatorial-game) - No
+  description provided.
 - [countdown (0)](https://github.com/LeoDog896/countdown) - simple countdown
   project
 - [Crews (0)](https://github.com/LeoDog896/Crews) - Crews extension for Cepi
@@ -500,6 +502,8 @@ instead.
   which allows server admins to customize their server easily, but without the
   hassle of programming a plugin or asking/paying someone to program a plugin
   for them.
+- [svelte-canvas](https://github.com/LeoDog896/svelte-canvas) - 🎨 Reactive
+  canvas rendering with Svelte.
 - [.github](https://github.com/LeoDog896/.github) - No description provided.
 - [ace-builds](https://github.com/LeoDog896/ace-builds) - Packaged version of
   Ace code editor
@@ -989,8 +993,6 @@ instead.
   ([homepage](https://svelte.dev)) - Cybernetically enhanced web apps
 - [svelte-add](https://github.com/LeoDog896/svelte-add) - Easily add
   integrations and other functionality to Svelte apps
-- [svelte-canvas](https://github.com/LeoDog896/svelte-canvas) - 🎨 Reactive
-  canvas rendering with Svelte.
 - [svelte-confetti](https://github.com/LeoDog896/svelte-confetti)
   ([homepage](https://mitcheljager.github.io/svelte-confetti/)) - Confetti in
   Svelte! Celebrate things with some extra flair. Animates using just HTML and

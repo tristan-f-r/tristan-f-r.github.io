@@ -154,7 +154,8 @@ instead.
   treblecross solver written in Deno
 - [ansi-editor (0)](https://github.com/LeoDog896/ansi-editor) - web-based ANSI
   text code editor
-- [arrowtype (0)](https://github.com/LeoDog896/arrowtype) - arrow typing program
+- [arrowtype (0)](https://github.com/LeoDog896/arrowtype)
+  ([homepage](https://leodog896.github.io/arrowtype/)) - arrow typing program
 - [asciipinski (0)](https://github.com/LeoDog896/asciipinski) - Make ascii
   sierpiński triangles
 - [asl-train (0)](https://github.com/LeoDog896/asl-train) - training repo to run
@@ -490,7 +491,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (253)
+## Forks (254)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -674,6 +675,9 @@ instead.
 - [etudes](https://github.com/LeoDog896/etudes)
   ([homepage](https://boytchev.github.io/etudes)) - Computer Graphics Études
   with WebGL and Three.js
+- [EverestAPI.github.io](https://github.com/LeoDog896/EverestAPI.github.io)
+  ([homepage](https://everestapi.github.io/)) - Repository housing the Everest
+  website.
 - [ExampleExtension-1](https://github.com/LeoDog896/ExampleExtension-1) - An
   example extension for Minestom
 - [ExampleMod](https://github.com/LeoDog896/ExampleMod) - Electron Mod for

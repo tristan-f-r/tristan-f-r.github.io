@@ -148,8 +148,6 @@ instead.
   off of the things they carried, for a school project.
 - [tiptap-mathquill (1)](https://github.com/LeoDog896/tiptap-mathquill) - tiptap
   extension for editing math in MathQuill
-- [todays-wordle (1)](https://github.com/LeoDog896/todays-wordle) -
-  auto-updating today's wordle
 - [treblecross-solver (1)](https://github.com/LeoDog896/treblecross-solver) - A
   treblecross solver written in Deno
 - [ansi-editor (0)](https://github.com/LeoDog896/ansi-editor) - web-based ANSI
@@ -451,6 +449,8 @@ instead.
 - [thequeen (0)](https://github.com/LeoDog896/thequeen) - the queen was cool
 - [time-from-now (0)](https://github.com/LeoDog896/time-from-now) - check what
   time it is after X time
+- [todays-wordle (0)](https://github.com/LeoDog896/todays-wordle) -
+  auto-updating today's wordle
 - [tokiponasona.github.io (0)](https://github.com/LeoDog896/tokiponasona.github.io) -
   No description provided.
 - [tool-swing (0)](https://github.com/LeoDog896/tool-swing) - Swing around silly

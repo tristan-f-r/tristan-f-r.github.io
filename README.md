@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (235)
+## Projects (236)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -217,6 +217,8 @@ instead.
   web! (godot >> unity)
 - [DropperHelper (0)](https://github.com/LeoDog896/DropperHelper) - Simple
   dropper utilities for Fabric
+- [elementary-cellular-automaton (0)](https://github.com/LeoDog896/elementary-cellular-automaton) -
+  No description provided.
 - [emoji-swamp (0)](https://github.com/LeoDog896/emoji-swamp) - a 'sea' of
   emojis!
 - [enigma-rs (0)](https://github.com/LeoDog896/enigma-rs) - enigma machine

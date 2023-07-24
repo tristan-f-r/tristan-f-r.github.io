@@ -11,7 +11,7 @@ instead.
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [awesome-minestom (33)](https://github.com/LeoDog896/awesome-minestom) - A
+- [awesome-minestom (32)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
@@ -101,6 +101,9 @@ instead.
 - [duckshow (1)](https://github.com/LeoDog896/duckshow)
   ([homepage](https://leodog896.github.io/duckshow/)) - a slideshow for many
   animals
+- [elementary-cellular-automaton (1)](https://github.com/LeoDog896/elementary-cellular-automaton)
+  ([homepage](https://leodog896.github.io/elementary-cellular-automaton/)) -
+  elementary cellular automaton on the web!
 - [esbuild-plugin-deno-resolve (1)](https://github.com/LeoDog896/esbuild-plugin-deno-resolve) -
   Plugin to resolve deno import maps and URLs
 - [gdt (1)](https://github.com/LeoDog896/gdt) - gdscript tools for abstract
@@ -217,8 +220,6 @@ instead.
   web! (godot >> unity)
 - [DropperHelper (0)](https://github.com/LeoDog896/DropperHelper) - Simple
   dropper utilities for Fabric
-- [elementary-cellular-automaton (0)](https://github.com/LeoDog896/elementary-cellular-automaton) -
-  No description provided.
 - [emoji-swamp (0)](https://github.com/LeoDog896/emoji-swamp) - a 'sea' of
   emojis!
 - [enigma-rs (0)](https://github.com/LeoDog896/enigma-rs) - enigma machine

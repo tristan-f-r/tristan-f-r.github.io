@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (236)
+## Projects (237)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -482,6 +482,8 @@ instead.
   diffs
 - [vigenere_cipher (0)](https://github.com/LeoDog896/vigenere_cipher) - viginere
   cipher implementation in deno
+- [vite-plugin-image-convert (0)](https://github.com/LeoDog896/vite-plugin-image-convert) -
+  Convert, resize, and optimize images in Vite with Sharp & SVGO
 - [vmath (0)](https://github.com/LeoDog896/vmath) - simple virtual math homework
   typer
 - [web-puzzle-jigsaw-demo (0)](https://github.com/LeoDog896/web-puzzle-jigsaw-demo) -

@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (237)
+## Projects (238)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -119,6 +119,9 @@ instead.
   ([homepage](https://leodog896.github.io/Logitech-Extreme-3d-Pro-Visualizer/)) -
   Check out the data sent by your logitech controller!
 - [opennow (1)](https://github.com/LeoDog896/opennow) - No description provided.
+- [pad-life (1)](https://github.com/LeoDog896/pad-life)
+  ([homepage](https://leodog896.github.io/pad-life/)) - Alternative version of
+  game-of-life that is semi-controllable.
 - [paint (1)](https://github.com/LeoDog896/paint) - simple drawing website (for
   learning!)
 - [parcel-resolver-svgmoji (1)](https://github.com/LeoDog896/parcel-resolver-svgmoji) -
@@ -153,6 +156,9 @@ instead.
   extension for editing math in MathQuill
 - [treblecross-solver (1)](https://github.com/LeoDog896/treblecross-solver) - A
   treblecross solver written in Deno
+- [twind-colors (1)](https://github.com/LeoDog896/twind-colors)
+  ([homepage](https://leodog896.github.io/twind-colors/)) - Online copyable
+  cheatsheet/list of twind colors.
 - [ansi-editor (0)](https://github.com/LeoDog896/ansi-editor) - web-based ANSI
   text code editor
 - [arrowtype (0)](https://github.com/LeoDog896/arrowtype)
@@ -341,9 +347,6 @@ instead.
   provided.
 - [modrinth_deno (0)](https://github.com/LeoDog896/modrinth_deno) - deno wrapper
   for the modrinth api
-- [monaco-svelte (0)](https://github.com/LeoDog896/monaco-svelte)
-  ([homepage](https://leodog896.github.io/monaco-svelte)) - monaco + svelte
-  integration
 - [multidimensional-dice-roll (0)](https://github.com/LeoDog896/multidimensional-dice-roll) -
   Multidimensional dice rolling
 - [n-body (0)](https://github.com/LeoDog896/n-body)
@@ -445,6 +448,9 @@ instead.
   system and drawer for svelte
 - [svelte-inventory (0)](https://github.com/LeoDog896/svelte-inventory) -
   flexible DOM-based svelte inventory and management system
+- [svelte-monaco (0)](https://github.com/LeoDog896/svelte-monaco)
+  ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
+  integration
 - [svelte-stopwatch (0)](https://github.com/LeoDog896/svelte-stopwatch) - time
   tracker for svelte
 - [text-gradient (0)](https://github.com/LeoDog896/text-gradient) - copy silly
@@ -482,8 +488,6 @@ instead.
   diffs
 - [vigenere_cipher (0)](https://github.com/LeoDog896/vigenere_cipher) - viginere
   cipher implementation in deno
-- [vite-plugin-image-convert (0)](https://github.com/LeoDog896/vite-plugin-image-convert) -
-  Convert, resize, and optimize images in Vite with Sharp & SVGO
 - [vmath (0)](https://github.com/LeoDog896/vmath) - simple virtual math homework
   typer
 - [web-puzzle-jigsaw-demo (0)](https://github.com/LeoDog896/web-puzzle-jigsaw-demo) -

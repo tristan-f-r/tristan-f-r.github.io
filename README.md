@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (238)
+## Projects (239)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -18,13 +18,13 @@ instead.
 - [maxwell (5)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
+- [npm-rank (5)](https://github.com/LeoDog896/npm-rank)
+  ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
+  npm packages
 - [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
   solving an unsolved problem in combinatorial mathematics
 - [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
   lichess board implementation for minecraft.
-- [npm-rank (4)](https://github.com/LeoDog896/npm-rank)
-  ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
-  npm packages
 - [scannable (4)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable)) - QR code generator for
   the web
@@ -319,6 +319,8 @@ instead.
   llama and a grappling hook made in Godot
 - [localchat (0)](https://github.com/LeoDog896/localchat) - chat locally in the
   terminal
+- [logic-gate (0)](https://github.com/LeoDog896/logic-gate) - computer logic
+  gate simulator
 - [mac-identifier (0)](https://github.com/LeoDog896/mac-identifier) - find and
   identify mac addresses && outliers
 - [making-qr (0)](https://github.com/LeoDog896/making-qr) - a little guide on
@@ -1103,13 +1105,13 @@ instead.
 > These projects consist of ideas that were duplicates, libraries that have
 > clear better alternatives, or temporary repositories
 
+- [awesome-surrealdb (1)](https://github.com/LeoDog896/awesome-surrealdb) - A
+  curated list of awesome SurrealDB resources, libraries, tools, and
+  applications.
 - [file_hash (1)](https://github.com/LeoDog896/file_hash) - simple file registry
   in deno
 - [svelte-tailwind-barebones (1)](https://github.com/LeoDog896/svelte-tailwind-barebones) -
   Simple barebones tailwind template
-- [awesome-surrealdb (0)](https://github.com/LeoDog896/awesome-surrealdb) - A
-  curated list of awesome SurrealDB resources, libraries, tools, and
-  applications.
 - [dprint-plugin-python (0)](https://github.com/LeoDog896/dprint-plugin-python) -
   Python formatter for dprint (ruff wrapper)
 - [minification-playground (0)](https://github.com/LeoDog896/minification-playground) -

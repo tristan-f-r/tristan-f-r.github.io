@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (239)
+## Projects (240)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -15,7 +15,7 @@ instead.
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
-- [maxwell (5)](https://github.com/LeoDog896/maxwell)
+- [maxwell (6)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
 - [npm-rank (5)](https://github.com/LeoDog896/npm-rank)
@@ -264,6 +264,8 @@ instead.
   No description provided.
 - [godot-triage-adjacent-merge-polygon2d (0)](https://github.com/LeoDog896/godot-triage-adjacent-merge-polygon2d) -
   godot triage for adjacent shape merges
+- [golgol (0)](https://github.com/LeoDog896/golgol) - 2-player game of life
+  fight
 - [grid (0)](https://github.com/LeoDog896/grid)
   ([homepage](https://leodog896.github.io/grid/)) - grid as a webpage
 - [h264cam (0)](https://github.com/LeoDog896/h264cam) - No description provided.

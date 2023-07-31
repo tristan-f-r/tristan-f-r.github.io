@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (240)
+## Projects (241)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -18,7 +18,7 @@ instead.
 - [maxwell (6)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
-- [npm-rank (5)](https://github.com/LeoDog896/npm-rank)
+- [npm-rank (6)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
 - [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
@@ -239,6 +239,7 @@ instead.
 - [ferret-rs (0)](https://github.com/LeoDog896/ferret-rs) - p2p UTP/IP stream
   with support for unreliable and reliable packets, and a reliable connection
 - [flight (0)](https://github.com/LeoDog896/flight) - deno pipability CLI helper
+- [fluid (0)](https://github.com/LeoDog896/fluid) - silly fluid simulation
 - [fullscreen (0)](https://github.com/LeoDog896/fullscreen) - display an image
   as max sized as possible (school blocked backgrounds, and thus 1984)
 - [fuzzgression (0)](https://github.com/LeoDog896/fuzzgression) - common

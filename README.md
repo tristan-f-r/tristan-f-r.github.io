@@ -505,7 +505,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (254)
+## Forks (255)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1062,6 +1062,8 @@ instead.
 - [TropicalShadow](https://github.com/LeoDog896/TropicalShadow) - MEEE
 - [trpc](https://github.com/LeoDog896/trpc) ([homepage](https://tRPC.io)) - 🧙‍♀️
   Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+- [typos__fork](https://github.com/LeoDog896/typos__fork) - Source code spell
+  checker
 - [ultra](https://github.com/LeoDog896/ultra) - Cryptanalysis of the Enigma
   machine in Rust.
 - [utp-punch](https://github.com/LeoDog896/utp-punch) - uTP (micro transport

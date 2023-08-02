@@ -505,7 +505,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (255)
+## Forks (256)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -667,6 +667,8 @@ instead.
   provided.
 - [dts_minify](https://github.com/LeoDog896/dts_minify) - Minifier for
   TypeScript declaration files (.d.ts)
+- [dugite](https://github.com/LeoDog896/dugite) - Elegant bindings for working
+  with Git in your Node applications
 - [DynamixelSDK](https://github.com/LeoDog896/DynamixelSDK)
   ([homepage](http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/)) -
   ROBOTIS Dynamixel SDK (Protocol1.0/2.0)

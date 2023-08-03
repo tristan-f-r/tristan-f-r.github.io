@@ -95,6 +95,8 @@ instead.
   programatically analyze boolean logic
 - [build-themes (1)](https://github.com/LeoDog896/build-themes) - a repo of
   hypixel build themes (easily sortable)
+- [combinatorial-game (1)](https://github.com/LeoDog896/combinatorial-game) -
+  solve any combinatorial game
 - [dite (1)](https://github.com/LeoDog896/dite) - a little bit of a framework
 - [doke (1)](https://github.com/LeoDog896/doke)
   ([homepage](https://leodog896.github.io/doke)) - code decoder
@@ -194,8 +196,6 @@ instead.
   triage for chessground for silly positioning issue
 - [code-and-crypt (0)](https://github.com/LeoDog896/code-and-crypt) - visualize
   codes and cryptography methods
-- [combinatorial-game (0)](https://github.com/LeoDog896/combinatorial-game) -
-  solve any combinatorial game
 - [countdown (0)](https://github.com/LeoDog896/countdown) - simple countdown
   project
 - [Crews (0)](https://github.com/LeoDog896/Crews) - Crews extension for Cepi

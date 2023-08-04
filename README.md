@@ -95,8 +95,6 @@ instead.
   programatically analyze boolean logic
 - [build-themes (1)](https://github.com/LeoDog896/build-themes) - a repo of
   hypixel build themes (easily sortable)
-- [combinatorial-game (1)](https://github.com/LeoDog896/combinatorial-game) -
-  solve any combinatorial game
 - [dite (1)](https://github.com/LeoDog896/dite) - a little bit of a framework
 - [doke (1)](https://github.com/LeoDog896/doke)
   ([homepage](https://leodog896.github.io/doke)) - code decoder
@@ -108,6 +106,8 @@ instead.
   elementary cellular automaton on the web!
 - [esbuild-plugin-deno-resolve (1)](https://github.com/LeoDog896/esbuild-plugin-deno-resolve) -
   Plugin to resolve deno import maps and URLs
+- [game-solver (1)](https://github.com/LeoDog896/game-solver) - solve any
+  combinatorial game
 - [gdt (1)](https://github.com/LeoDog896/gdt) - gdscript tools for abstract
   manipulation of ASTs
 - [git-cli-viewer (1)](https://github.com/LeoDog896/git-cli-viewer) - open git

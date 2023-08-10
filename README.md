@@ -108,7 +108,8 @@ instead.
   elementary cellular automaton on the web!
 - [esbuild-plugin-deno-resolve (1)](https://github.com/LeoDog896/esbuild-plugin-deno-resolve) -
   Plugin to resolve deno import maps and URLs
-- [game-solver (1)](https://github.com/LeoDog896/game-solver) - solve any
+- [game-solver (1)](https://github.com/LeoDog896/game-solver)
+  ([homepage](https://leodog896.github.io/game-solver/)) - solve any
   combinatorial game
 - [gdt (1)](https://github.com/LeoDog896/gdt) - gdscript tools for abstract
   manipulation of ASTs

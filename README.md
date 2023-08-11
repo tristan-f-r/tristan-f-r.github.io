@@ -36,6 +36,9 @@ instead.
 - [chessground-anim (3)](https://github.com/LeoDog896/chessground-anim)
   ([homepage](https://leodog896.github.io/chessground-anim/)) - animate pgn with
   chessground
+- [co-authored-by (3)](https://github.com/LeoDog896/co-authored-by)
+  ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
+  co-authored-by descriptions & emails for authors
 - [ferret_api (3)](https://github.com/LeoDog896/ferret_api)
   ([homepage](https://leodog896.github.io/ferret_api/)) - collection of ferret
   images
@@ -48,9 +51,6 @@ instead.
   from https://gitlab.com/jonot-cyber/rotate-game
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
   vite template
-- [co-authored-by (2)](https://github.com/LeoDog896/co-authored-by)
-  ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
-  co-authored-by descriptions & emails for authors
 - [co-authored-by-deno (2)](https://github.com/LeoDog896/co-authored-by-deno)
   ([homepage](https://co-authored-by.deno.dev)) - deno deploy function for
   co-authored-by
@@ -506,7 +506,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (256)
+## Forks (257)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -766,6 +766,9 @@ instead.
 - [iconv-lite](https://github.com/LeoDog896/iconv-lite) - Convert character
   encodings in pure javascript.
 - [insolitum](https://github.com/LeoDog896/insolitum) - No description provided.
+- [itertools](https://github.com/LeoDog896/itertools)
+  ([homepage](https://docs.rs/itertools/)) - Extra iterator adaptors, iterator
+  methods, free functions, and macros.
 - [IWM-Server-replacer](https://github.com/LeoDog896/IWM-Server-replacer) -
   Enables quick editing of your I Wanna Maker config.ini to allow custom servers
 - [jModifier](https://github.com/LeoDog896/jModifier) - Utility library!

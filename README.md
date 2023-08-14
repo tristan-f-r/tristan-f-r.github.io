@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (241)
+## Projects (240)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -408,8 +408,6 @@ instead.
 - [ress (0)](https://github.com/LeoDog896/ress) - No description provided.
 - [revealjs-md (0)](https://github.com/LeoDog896/revealjs-md) - A client side
   simple program to write slides in revealjs using markdown
-- [reversi-solver (0)](https://github.com/LeoDog896/reversi-solver) - emulator &
-  solver for reversi games
 - [robot-go (0)](https://github.com/LeoDog896/robot-go) - an infiite game about
   getting as many minerals as you can before Very Good Corp stops you
 - [rollup-plugin-pwa (0)](https://github.com/LeoDog896/rollup-plugin-pwa) -
@@ -1111,7 +1109,7 @@ instead.
 - [yarn](https://github.com/LeoDog896/yarn) - Libre Minecraft mappings, free to
   use for everyone. No exceptions.
 
-## Archived (7)
+## Archived (8)
 
 > These projects consist of ideas that were duplicates, libraries that have
 > clear better alternatives, or temporary repositories
@@ -1129,5 +1127,7 @@ instead.
   a playground showcasing various JS minifiers for a blog post and for you
 - [parcel-triage-mstile (0)](https://github.com/LeoDog896/parcel-triage-mstile) -
   triage for mstile asset duplication in parcel
+- [reversi-solver (0)](https://github.com/LeoDog896/reversi-solver) - emulator &
+  solver for reversi games
 - [spin-2 (0)](https://github.com/LeoDog896/spin-2)
   ([homepage](https://leodog896.github.io/spin-2/)) - spin 2 (joke for a friend)

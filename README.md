@@ -109,8 +109,8 @@ instead.
 - [esbuild-plugin-deno-resolve (1)](https://github.com/LeoDog896/esbuild-plugin-deno-resolve) -
   Plugin to resolve deno import maps and URLs
 - [game-solver (1)](https://github.com/LeoDog896/game-solver)
-  ([homepage](https://leodog896.github.io/game-solver/)) - solve any
-  combinatorial game
+  ([homepage](https://leodog896.github.io/game-solver/)) - Solve any sequential
+  game.
 - [gdt (1)](https://github.com/LeoDog896/gdt) - gdscript tools for abstract
   manipulation of ASTs
 - [git-cli-viewer (1)](https://github.com/LeoDog896/git-cli-viewer) - open git
@@ -504,7 +504,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (257)
+## Forks (258)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1106,6 +1106,8 @@ instead.
 - [Wormhole-X-Treme](https://github.com/LeoDog896/Wormhole-X-Treme)
   ([homepage](http://jira.luricos.de/browse/Wormhole)) - WormholeXTreme is a
   Stargate plugin for CraftBukkit
+- [xxhash-rust](https://github.com/LeoDog896/xxhash-rust) - Rust implementation
+  of xxhash
 - [yarn](https://github.com/LeoDog896/yarn) - Libre Minecraft mappings, free to
   use for everyone. No exceptions.
 

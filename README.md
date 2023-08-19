@@ -504,7 +504,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (258)
+## Forks (259)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -791,6 +791,9 @@ instead.
   Lightning-fast and Powerful Code Editor written in Rust
 - [lapce.github.io](https://github.com/LeoDog896/lapce.github.io) - No
   description provided.
+- [lczero.org](https://github.com/LeoDog896/lczero.org)
+  ([homepage](https://leodog896.github.io/lczero.org/)) - A website (will be
+  lczero.org)
 - [lhs-underwater-robotics](https://github.com/LeoDog896/lhs-underwater-robotics) -
   No description provided.
 - [lightningcss](https://github.com/LeoDog896/lightningcss)

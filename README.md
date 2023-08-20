@@ -428,7 +428,8 @@ instead.
   snakes and ladders simulator
 - [SpanishConjunctions (0)](https://github.com/LeoDog896/SpanishConjunctions) -
   Spanish Conjuctions!
-- [spin (0)](https://github.com/LeoDog896/spin) - spinny text
+- [spin (0)](https://github.com/LeoDog896/spin)
+  ([homepage](https://leodog896.github.io/spin/)) - spinny text
 - [sprouts (0)](https://github.com/LeoDog896/sprouts) - No description provided.
 - [sqlbyte (0)](https://github.com/LeoDog896/sqlbyte) - customizable open
   tutorials && practice for SQL

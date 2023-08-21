@@ -505,7 +505,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (259)
+## Forks (260)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -565,6 +565,8 @@ instead.
 - [btcpayserver](https://github.com/LeoDog896/btcpayserver)
   ([homepage](https://btcpayserver.org/)) - Accept Bitcoin payments. Free,
   open-source & self-hosted, Bitcoin payment processor.
+- [candle](https://github.com/LeoDog896/candle) - Minimalist ML framework for
+  Rust
 - [canicli](https://github.com/LeoDog896/canicli)
   ([homepage](https://canicli.com)) - A unified directory for seeing if your CLI
   tool name has already been taken.

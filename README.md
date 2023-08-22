@@ -66,6 +66,8 @@ instead.
 - [ferret_images (2)](https://github.com/LeoDog896/ferret_images)
   ([homepage](https://leodog896.github.io/ferret_api/business)) - collection of
   ferret images, in use with ferret_api
+- [gitpod-deno (2)](https://github.com/LeoDog896/gitpod-deno) - A simple script
+  that adds support for deno in gitpod.
 - [godot-jigsaw (2)](https://github.com/LeoDog896/godot-jigsaw) - jigsaw example
   in godot
 - [jsnow (2)](https://github.com/LeoDog896/jsnow)
@@ -115,8 +117,6 @@ instead.
   manipulation of ASTs
 - [git-cli-viewer (1)](https://github.com/LeoDog896/git-cli-viewer) - open git
   repos for browsing
-- [gitpod-deno (1)](https://github.com/LeoDog896/gitpod-deno) - A simple script
-  that adds support for deno in gitpod.
 - [kanban (1)](https://github.com/LeoDog896/kanban) - a kanban management system
 - [Llama-Zips (1)](https://github.com/LeoDog896/Llama-Zips) - A game with a
   llama and a grappling hook made in Godot

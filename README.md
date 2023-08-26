@@ -505,7 +505,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (261)
+## Forks (262)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -651,6 +651,8 @@ instead.
 - [desktop](https://github.com/LeoDog896/desktop)
   ([homepage](https://desktop.github.com)) - Simple collaboration from your
   desktop
+- [dfdx](https://github.com/LeoDog896/dfdx) - Deep learning in Rust, with shape
+  checked tensors and neural networks
 - [dht](https://github.com/LeoDog896/dht) - The DHT powering Hyperswarm
 - [dialoguer](https://github.com/LeoDog896/dialoguer) - Rust utility library for
   nice command line prompts and similar things

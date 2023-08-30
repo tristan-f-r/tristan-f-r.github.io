@@ -142,6 +142,7 @@ instead.
   demonstration via an arrow board of reliability vs validity with a gizmo
 - [shine (1)](https://github.com/LeoDog896/shine) - shadow file cracker mainly
   for CTF
+- [sim (1)](https://github.com/LeoDog896/sim) - implementation of sim (the game)
 - [sonatokipona.github.io (1)](https://github.com/LeoDog896/sonatokipona.github.io) -
   Toki Pona Sona
 - [sphere-coordinates-ts (1)](https://github.com/LeoDog896/sphere-coordinates-ts) -
@@ -422,7 +423,6 @@ instead.
   running STUN server and client asynchronously
 - [siki (0)](https://github.com/LeoDog896/siki) - simple wikipedia explanations
   (rust)
-- [sim (0)](https://github.com/LeoDog896/sim) - implementation of sim (the game)
 - [Skript-Editor (0)](https://github.com/LeoDog896/Skript-Editor) - An editor
   for skript
 - [snakes-ladders-sim (0)](https://github.com/LeoDog896/snakes-ladders-sim) -

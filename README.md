@@ -15,12 +15,12 @@ instead.
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
+- [npm-rank (7)](https://github.com/LeoDog896/npm-rank)
+  ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
+  npm packages
 - [maxwell (6)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
-- [npm-rank (6)](https://github.com/LeoDog896/npm-rank)
-  ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
-  npm packages
 - [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
   solving an unsolved problem in combinatorial mathematics
 - [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
@@ -155,6 +155,9 @@ instead.
   with only a stun server
 - [svelte-deferred (1)](https://github.com/LeoDog896/svelte-deferred) - make
   deferred calls to various libraries
+- [svelte-monaco (1)](https://github.com/LeoDog896/svelte-monaco)
+  ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
+  integration
 - [svelte-styling (1)](https://github.com/LeoDog896/svelte-styling) - organized
   & dynamic styles! use:style={{ color: "brown", size: 5 }}
 - [the-things-we-carry (1)](https://github.com/LeoDog896/the-things-we-carry)
@@ -456,9 +459,6 @@ instead.
   system and drawer for svelte
 - [svelte-inventory (0)](https://github.com/LeoDog896/svelte-inventory) -
   flexible DOM-based svelte inventory and management system
-- [svelte-monaco (0)](https://github.com/LeoDog896/svelte-monaco)
-  ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
-  integration
 - [svelte-stopwatch (0)](https://github.com/LeoDog896/svelte-stopwatch) - time
   tracker for svelte
 - [text-gradient (0)](https://github.com/LeoDog896/text-gradient) - copy silly
@@ -508,7 +508,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (263)
+## Forks (264)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -863,6 +863,9 @@ instead.
 - [monaco-editor](https://github.com/LeoDog896/monaco-editor)
   ([homepage](https://microsoft.github.io/monaco-editor/)) - A browser based
   code editor
+- [monaco-themes](https://github.com/LeoDog896/monaco-themes)
+  ([homepage](https://editor.bitwiser.in/)) - Themes to be used and generated
+  with monaco-editor in web browser
 - [mrgazdag](https://github.com/LeoDog896/mrgazdag) - No description provided.
 - [ms](https://github.com/LeoDog896/ms) ([homepage](https://npmjs.com/ms)) -
   Tiny millisecond conversion utility

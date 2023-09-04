@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (241)
+## Projects (242)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -459,6 +459,8 @@ instead.
   system and drawer for svelte
 - [svelte-inventory (0)](https://github.com/LeoDog896/svelte-inventory) -
   flexible DOM-based svelte inventory and management system
+- [svelte-mosaic (0)](https://github.com/LeoDog896/svelte-mosaic) - svelte's
+  t(i)ling window manager
 - [svelte-stopwatch (0)](https://github.com/LeoDog896/svelte-stopwatch) - time
   tracker for svelte
 - [text-gradient (0)](https://github.com/LeoDog896/text-gradient) - copy silly
@@ -508,7 +510,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (266)
+## Forks (267)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1061,6 +1063,9 @@ instead.
   Rust-based platform for the Web
 - [tailwindcss.com](https://github.com/LeoDog896/tailwindcss.com)
   ([homepage](https://tailwindcss.com)) - No description provided.
+- [terminator](https://github.com/LeoDog896/terminator)
+  ([homepage](https://gnome-terminator.org)) - multiple GNOME terminals in one
+  window
 - [terser](https://github.com/LeoDog896/terser)
   ([homepage](https://terser.org)) - 🗜 JavaScript parser, mangler and compressor
   toolkit for ES6+

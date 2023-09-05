@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (242)
+## Projects (243)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -15,7 +15,7 @@ instead.
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
-- [npm-rank (7)](https://github.com/LeoDog896/npm-rank)
+- [npm-rank (8)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
 - [maxwell (6)](https://github.com/LeoDog896/maxwell)
@@ -160,6 +160,9 @@ instead.
   integration
 - [svelte-styling (1)](https://github.com/LeoDog896/svelte-styling) - organized
   & dynamic styles! use:style={{ color: "brown", size: 5 }}
+- [svg-editor (1)](https://github.com/LeoDog896/svg-editor)
+  ([homepage](https://leodog896.github.io/svg-editor/)) - online code-based svg
+  editor
 - [the-things-we-carry (1)](https://github.com/LeoDog896/the-things-we-carry)
   ([homepage](https://leodog896.github.io/the-things-we-carry)) - A game based
   off of the things they carried, for a school project.

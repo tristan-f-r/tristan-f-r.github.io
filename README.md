@@ -76,6 +76,9 @@ instead.
 - [math (2)](https://github.com/LeoDog896/math) - No description provided.
 - [MCInstall (2)](https://github.com/LeoDog896/MCInstall) - MultiMC installation
   script for linux.
+- [svelte-monaco (2)](https://github.com/LeoDog896/svelte-monaco)
+  ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
+  integration
 - [svelte-persistent (2)](https://github.com/LeoDog896/svelte-persistent)
   ([homepage](https://leodog896.github.io/svelte-persistent)) - Svelte writables
   for local & session storage
@@ -86,7 +89,8 @@ instead.
   ([homepage](http://taxevasion.tk)) - how to commit tax evasion
 - [webpage (2)](https://github.com/LeoDog896/webpage)
   ([homepage](https://leodog896.com)) - My personal site
-- [allergitaves (1)](https://github.com/LeoDog896/allergitaves) - list of common
+- [allergitaves (1)](https://github.com/LeoDog896/allergitaves)
+  ([homepage](https://leodog896.github.io/allergitaves/)) - list of common
   allergy aliases and what they actually are
 - [asl-caption (1)](https://github.com/LeoDog896/asl-caption)
   ([homepage](https://leodog896.github.io/asl-caption/)) - generate captions
@@ -155,9 +159,6 @@ instead.
   with only a stun server
 - [svelte-deferred (1)](https://github.com/LeoDog896/svelte-deferred) - make
   deferred calls to various libraries
-- [svelte-monaco (1)](https://github.com/LeoDog896/svelte-monaco)
-  ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
-  integration
 - [svelte-styling (1)](https://github.com/LeoDog896/svelte-styling) - organized
   & dynamic styles! use:style={{ color: "brown", size: 5 }}
 - [svg-editor (1)](https://github.com/LeoDog896/svg-editor)

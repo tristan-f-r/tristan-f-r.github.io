@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (243)
+## Projects (244)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -465,6 +465,9 @@ instead.
   flexible DOM-based svelte inventory and management system
 - [svelte-mosaic (0)](https://github.com/LeoDog896/svelte-mosaic) - svelte's
   t(i)ling window manager
+- [svelte-reparent (0)](https://github.com/LeoDog896/svelte-reparent)
+  ([homepage](https://leodog896.github.io/svelte-portal/)) - reparent elements
+  with ease in svelte
 - [svelte-stopwatch (0)](https://github.com/LeoDog896/svelte-stopwatch) - time
   tracker for svelte
 - [text-gradient (0)](https://github.com/LeoDog896/text-gradient) - copy silly

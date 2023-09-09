@@ -159,6 +159,9 @@ instead.
   with only a stun server
 - [svelte-deferred (1)](https://github.com/LeoDog896/svelte-deferred) - make
   deferred calls to various libraries
+- [svelte-reparent (1)](https://github.com/LeoDog896/svelte-reparent)
+  ([homepage](https://leodog896.github.io/svelte-portal/)) - reparent elements
+  with ease in svelte
 - [svelte-styling (1)](https://github.com/LeoDog896/svelte-styling) - organized
   & dynamic styles! use:style={{ color: "brown", size: 5 }}
 - [svg-editor (1)](https://github.com/LeoDog896/svg-editor)
@@ -465,9 +468,6 @@ instead.
   flexible DOM-based svelte inventory and management system
 - [svelte-mosaic (0)](https://github.com/LeoDog896/svelte-mosaic) - svelte's
   t(i)ling window manager
-- [svelte-reparent (0)](https://github.com/LeoDog896/svelte-reparent)
-  ([homepage](https://leodog896.github.io/svelte-portal/)) - reparent elements
-  with ease in svelte
 - [svelte-stopwatch (0)](https://github.com/LeoDog896/svelte-stopwatch) - time
   tracker for svelte
 - [text-gradient (0)](https://github.com/LeoDog896/text-gradient) - copy silly

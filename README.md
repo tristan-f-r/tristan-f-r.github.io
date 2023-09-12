@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (244)
+## Projects (245)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -82,6 +82,9 @@ instead.
 - [svelte-persistent (2)](https://github.com/LeoDog896/svelte-persistent)
   ([homepage](https://leodog896.github.io/svelte-persistent)) - Svelte writables
   for local & session storage
+- [svelte-reparent (2)](https://github.com/LeoDog896/svelte-reparent)
+  ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
+  with ease in svelte
 - [svelte-tilt (2)](https://github.com/LeoDog896/svelte-tilt)
   ([homepage](https://leodog896.github.io/svelte-tilt/)) - Tilt library for
   svelte
@@ -159,9 +162,6 @@ instead.
   with only a stun server
 - [svelte-deferred (1)](https://github.com/LeoDog896/svelte-deferred) - make
   deferred calls to various libraries
-- [svelte-reparent (1)](https://github.com/LeoDog896/svelte-reparent)
-  ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
-  with ease in svelte
 - [svelte-styling (1)](https://github.com/LeoDog896/svelte-styling) - organized
   & dynamic styles! use:style={{ color: "brown", size: 5 }}
 - [svg-editor (1)](https://github.com/LeoDog896/svg-editor)
@@ -487,6 +487,8 @@ instead.
   treblecross games
 - [try_catch (0)](https://github.com/LeoDog896/try_catch) - No description
   provided.
+- [ts-lesson (0)](https://github.com/LeoDog896/ts-lesson) - make custom lessons
+  with test suites for js / ts
 - [twitter-clone (0)](https://github.com/LeoDog896/twitter-clone)
   ([homepage](https://leodog896.github.io/twitter-clone)) - twitter without all
   the bad things
@@ -517,7 +519,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (272)
+## Forks (273)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -734,6 +736,9 @@ instead.
 - [flank](https://github.com/LeoDog896/flank)
   ([homepage](https://firebase.community/)) - :speedboat: Massively parallel
   Android and iOS test runner for Firebase Test Lab
+- [fontsource](https://github.com/LeoDog896/fontsource)
+  ([homepage](https://fontsource.org)) - Self-host Open Source fonts in neatly
+  bundled NPM packages.
 - [fresh](https://github.com/LeoDog896/fresh)
   ([homepage](https://fresh.deno.dev)) - The next-gen web framework.
 - [gdscript-online.github.io](https://github.com/LeoDog896/gdscript-online.github.io)

@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (245)
+## Projects (244)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -183,8 +183,6 @@ instead.
   ([homepage](https://leodog896.github.io/arrowtype/)) - arrow typing program
 - [asciipinski (0)](https://github.com/LeoDog896/asciipinski) - Make ascii
   sierpiński triangles
-- [asl-train (0)](https://github.com/LeoDog896/asl-train) - training repo to run
-  in codespaces for ASL project
 - [base-n-finder (0)](https://github.com/LeoDog896/base-n-finder) - find numbers
   of 2^n that start with some Value
 - [base64id (0)](https://github.com/LeoDog896/base64id) - base64id port to deno

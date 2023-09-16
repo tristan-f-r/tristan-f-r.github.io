@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (244)
+## Projects (245)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -51,6 +51,9 @@ instead.
   from https://gitlab.com/jonot-cyber/rotate-game
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
   vite template
+- [svelte-reparent (3)](https://github.com/LeoDog896/svelte-reparent)
+  ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
+  with ease in svelte
 - [co-authored-by-deno (2)](https://github.com/LeoDog896/co-authored-by-deno)
   ([homepage](https://co-authored-by.deno.dev)) - deno deploy function for
   co-authored-by
@@ -82,9 +85,6 @@ instead.
 - [svelte-persistent (2)](https://github.com/LeoDog896/svelte-persistent)
   ([homepage](https://leodog896.github.io/svelte-persistent)) - Svelte writables
   for local & session storage
-- [svelte-reparent (2)](https://github.com/LeoDog896/svelte-reparent)
-  ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
-  with ease in svelte
 - [svelte-tilt (2)](https://github.com/LeoDog896/svelte-tilt)
   ([homepage](https://leodog896.github.io/svelte-tilt/)) - Tilt library for
   svelte
@@ -452,6 +452,8 @@ instead.
   framework for minestom
 - [stream-frame (0)](https://github.com/LeoDog896/stream-frame) - Web editor
   made with sapper
+- [student-schedule (0)](https://github.com/LeoDog896/student-schedule) - easy
+  activity scheduling && management
 - [sudoku-board (0)](https://github.com/LeoDog896/sudoku-board) - solve, check,
   and generate sudoku boards
 - [svelte-blob (0)](https://github.com/LeoDog896/svelte-blob) - Create simple

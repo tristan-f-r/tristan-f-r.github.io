@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (246)
+## Projects (247)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -192,6 +192,8 @@ instead.
 - [binaryen-action (0)](https://github.com/LeoDog896/binaryen-action) - github
   action for using binaryen CLI tooling
 - [bingo (0)](https://github.com/LeoDog896/bingo) - bingo simulator
+- [biotrack (0)](https://github.com/LeoDog896/biotrack) - store anonymous
+  biometric information on uuid-identified users in private networks
 - [bird (0)](https://github.com/LeoDog896/bird) - flyd for deno -- low-level
   reactive stores
 - [Blog (0)](https://github.com/LeoDog896/Blog) - A modern, light-theme blog
@@ -521,7 +523,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (273)
+## Forks (274)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1159,6 +1161,9 @@ instead.
 - [Wormhole-X-Treme](https://github.com/LeoDog896/Wormhole-X-Treme)
   ([homepage](http://jira.luricos.de/browse/Wormhole)) - WormholeXTreme is a
   Stargate plugin for CraftBukkit
+- [www.surrealdb.com](https://github.com/LeoDog896/www.surrealdb.com)
+  ([homepage](https://surrealdb.com)) - The website, and blog for SurrealDB,
+  built using Ember.js
 - [xxhash-rust](https://github.com/LeoDog896/xxhash-rust) - Rust implementation
   of xxhash
 - [yarn](https://github.com/LeoDog896/yarn) - Libre Minecraft mappings, free to

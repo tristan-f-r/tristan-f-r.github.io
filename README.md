@@ -23,7 +23,7 @@ instead.
   maxwell fan website
 - [svelte-mathquill (5)](https://github.com/LeoDog896/svelte-mathquill)
   ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
-  wrapper for svelte
+  wrapper for Svelte
 - [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
   solving an unsolved problem in combinatorial mathematics
 - [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -

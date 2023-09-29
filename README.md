@@ -24,6 +24,9 @@ instead.
 - [svelte-mathquill (5)](https://github.com/LeoDog896/svelte-mathquill)
   ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
+- [svelte-reparent (5)](https://github.com/LeoDog896/svelte-reparent)
+  ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
+  with ease in svelte
 - [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
   solving an unsolved problem in combinatorial mathematics
 - [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
@@ -31,9 +34,6 @@ instead.
 - [scannable (4)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable)) - QR code generator for
   the web
-- [svelte-reparent (4)](https://github.com/LeoDog896/svelte-reparent)
-  ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
-  with ease in svelte
 - [type (4)](https://github.com/LeoDog896/type)
   ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
 - [chessground-anim (3)](https://github.com/LeoDog896/chessground-anim)

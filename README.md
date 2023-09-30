@@ -523,7 +523,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (275)
+## Forks (277)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -797,6 +797,9 @@ instead.
   methods, free functions, and macros.
 - [IWM-Server-replacer](https://github.com/LeoDog896/IWM-Server-replacer) -
   Enables quick editing of your I Wanna Maker config.ini to allow custom servers
+- [jest-image-snapshot](https://github.com/LeoDog896/jest-image-snapshot) - ✨
+  Jest matcher for image comparisons. Most commonly used for visual regression
+  testing.
 - [jModifier](https://github.com/LeoDog896/jModifier) - Utility library!
   (Focused on object manipulation & more)
 - [JointMMO](https://github.com/LeoDog896/JointMMO) - Joint mmo project for the
@@ -1115,6 +1118,9 @@ instead.
 - [TropicalShadow](https://github.com/LeoDog896/TropicalShadow) - MEEE
 - [trpc](https://github.com/LeoDog896/trpc) ([homepage](https://tRPC.io)) - 🧙‍♀️
   Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+- [tutorials](https://github.com/LeoDog896/tutorials)
+  ([homepage](https://tutorials.surrealdb.com)) - A collection of official and
+  community tutorials and code walkthroughs
 - [typos__fork](https://github.com/LeoDog896/typos__fork) - Source code spell
   checker
 - [ultra](https://github.com/LeoDog896/ultra) - Cryptanalysis of the Enigma

@@ -433,8 +433,6 @@ instead.
   provided.
 - [rustun-cli (0)](https://github.com/LeoDog896/rustun-cli) - A Rust CLI for
   running STUN server and client asynchronously
-- [serpent-shuffle (0)](https://github.com/LeoDog896/serpent-shuffle) - silly
-  snake game
 - [siki (0)](https://github.com/LeoDog896/siki) - simple wikipedia explanations
   (rust)
 - [Skript-Editor (0)](https://github.com/LeoDog896/Skript-Editor) - An editor
@@ -470,8 +468,9 @@ instead.
   system and drawer for svelte
 - [svelte-inventory (0)](https://github.com/LeoDog896/svelte-inventory) -
   flexible DOM-based svelte inventory and management system
-- [svelte-mosaic (0)](https://github.com/LeoDog896/svelte-mosaic) - svelte's
-  t(i)ling window manager
+- [svelte-mosaic (0)](https://github.com/LeoDog896/svelte-mosaic)
+  ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
+  window manager
 - [svelte-stopwatch (0)](https://github.com/LeoDog896/svelte-stopwatch) - time
   tracker for svelte
 - [text-gradient (0)](https://github.com/LeoDog896/text-gradient) - copy silly
@@ -517,13 +516,15 @@ instead.
   demonstration of fun jigsaw puzzle generation
 - [webrtc-media (0)](https://github.com/LeoDog896/webrtc-media) - webrtc wrapper
   utility for handling v4l2 and rstp devices
+- [wenv (0)](https://github.com/LeoDog896/wenv) - environment variable editor
+  application for windows
 - [WidgetMake (0)](https://github.com/LeoDog896/WidgetMake) - Widget maker (GCC
   competition)
 - [yolov5-bound-check (0)](https://github.com/LeoDog896/yolov5-bound-check)
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (277)
+## Forks (279)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1056,6 +1057,9 @@ instead.
   Tailwind, Typescript, and Vite
 - [sudoku-solver](https://github.com/LeoDog896/sudoku-solver) - A fast bitboard
   sudoku solver utilizing rust's 128 bit integer types.
+- [surrealdb](https://github.com/LeoDog896/surrealdb)
+  ([homepage](https://surrealdb.com)) - A scalable, distributed, collaborative,
+  document-graph database, for the realtime web
 - [svelecte](https://github.com/LeoDog896/svelecte)
   ([homepage](https://mskocik.github.io/svelecte/)) - Selectize-like component
   written in Svelte, also usable as custom-element 💪⚡
@@ -1073,6 +1077,9 @@ instead.
 - [svelte-fa](https://github.com/LeoDog896/svelte-fa)
   ([homepage](https://cweili.github.io/svelte-fa/)) - Tiny FontAwesome 5
   component for Svelte
+- [svelte-highlight](https://github.com/LeoDog896/svelte-highlight)
+  ([homepage](https://svhe.onrender.com)) - Syntax Highlighting for Svelte using
+  highlight.js
 - [svelte-iconoir](https://github.com/LeoDog896/svelte-iconoir) - Iconoir SVG
   icons to Svelte and SvelteKit.
 - [svelte-pwa-now](https://github.com/LeoDog896/svelte-pwa-now) - A PWA ready
@@ -1177,7 +1184,7 @@ instead.
 - [yarn](https://github.com/LeoDog896/yarn) - Libre Minecraft mappings, free to
   use for everyone. No exceptions.
 
-## Archived (8)
+## Archived (9)
 
 > These projects consist of ideas that were duplicates, libraries that have
 > clear better alternatives, or temporary repositories
@@ -1197,5 +1204,7 @@ instead.
   triage for mstile asset duplication in parcel
 - [reversi-solver (0)](https://github.com/LeoDog896/reversi-solver) - emulator &
   solver for reversi games
+- [serpent-shuffle (0)](https://github.com/LeoDog896/serpent-shuffle) - silly
+  snake game
 - [spin-2 (0)](https://github.com/LeoDog896/spin-2)
   ([homepage](https://leodog896.github.io/spin-2/)) - spin 2 (joke for a friend)

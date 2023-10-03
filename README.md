@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (247)
+## Projects (248)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -279,6 +279,8 @@ instead.
   explosions and other images on your screen with a click
 - [godot-devcontainer-playground (0)](https://github.com/LeoDog896/godot-devcontainer-playground) -
   No description provided.
+- [godot-latest (0)](https://github.com/LeoDog896/godot-latest) - gets the
+  latest godot version in a zip
 - [godot-triage-adjacent-merge-polygon2d (0)](https://github.com/LeoDog896/godot-triage-adjacent-merge-polygon2d) -
   godot triage for adjacent shape merges
 - [golgol (0)](https://github.com/LeoDog896/golgol) - 2-player game of life

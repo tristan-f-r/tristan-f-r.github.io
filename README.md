@@ -21,12 +21,12 @@ instead.
 - [maxwell (6)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
+- [svelte-reparent (6)](https://github.com/LeoDog896/svelte-reparent)
+  ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
+  with ease in svelte
 - [svelte-mathquill (5)](https://github.com/LeoDog896/svelte-mathquill)
   ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
-- [svelte-reparent (5)](https://github.com/LeoDog896/svelte-reparent)
-  ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
-  with ease in svelte
 - [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
   solving an unsolved problem in combinatorial mathematics
 - [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
@@ -54,9 +54,6 @@ instead.
   from https://gitlab.com/jonot-cyber/rotate-game
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
   vite template
-- [co-authored-by-deno (2)](https://github.com/LeoDog896/co-authored-by-deno)
-  ([homepage](https://co-authored-by.deno.dev)) - deno deploy function for
-  co-authored-by
 - [conspirasea (2)](https://github.com/LeoDog896/conspirasea)
   ([homepage](https://leodog896.github.io/conspirasea)) - make simple yarn-based
   conspiracies
@@ -106,6 +103,9 @@ instead.
   programatically analyze boolean logic
 - [build-themes (1)](https://github.com/LeoDog896/build-themes) - a repo of
   hypixel build themes (easily sortable)
+- [co-authored-by-deno (1)](https://github.com/LeoDog896/co-authored-by-deno)
+  ([homepage](https://co-authored-by.deno.dev)) - deno deploy function for
+  co-authored-by
 - [dite (1)](https://github.com/LeoDog896/dite) - a little bit of a framework
 - [doke (1)](https://github.com/LeoDog896/doke)
   ([homepage](https://leodog896.github.io/doke)) - code decoder

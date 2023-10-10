@@ -215,6 +215,8 @@ instead.
 - [countdown (0)](https://github.com/LeoDog896/countdown) - simple countdown
   project
 - [Crews (0)](https://github.com/LeoDog896/Crews) - Crews extension for Cepi
+- [cross-interrupt (0)](https://github.com/LeoDog896/cross-interrupt) -
+  cross-platform graceful program killer
 - [curvegroove (0)](https://github.com/LeoDog896/curvegroove) - make fancy
   animations with a simple UI
 - [cvss-calc (0)](https://github.com/LeoDog896/cvss-calc) - a simple CVSS string
@@ -475,8 +477,6 @@ instead.
   window manager
 - [svelte-stopwatch (0)](https://github.com/LeoDog896/svelte-stopwatch) - time
   tracker for svelte
-- [terminate (0)](https://github.com/LeoDog896/terminate) - cross-platform
-  graceful program killer
 - [text-gradient (0)](https://github.com/LeoDog896/text-gradient) - copy silly
   little text gradients to your favorite WYSWIG editors
 - [thequeen (0)](https://github.com/LeoDog896/thequeen) - the queen was cool

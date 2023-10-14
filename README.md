@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (249)
+## Projects (250)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -162,6 +162,9 @@ instead.
   with only a stun server
 - [svelte-deferred (1)](https://github.com/LeoDog896/svelte-deferred) - make
   deferred calls to various libraries
+- [svelte-mosaic (1)](https://github.com/LeoDog896/svelte-mosaic)
+  ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
+  window manager
 - [svelte-styling (1)](https://github.com/LeoDog896/svelte-styling) - organized
   & dynamic styles! use:style={{ color: "brown", size: 5 }}
 - [svg-editor (1)](https://github.com/LeoDog896/svg-editor)
@@ -472,9 +475,6 @@ instead.
   system and drawer for svelte
 - [svelte-inventory (0)](https://github.com/LeoDog896/svelte-inventory) -
   flexible DOM-based svelte inventory and management system
-- [svelte-mosaic (0)](https://github.com/LeoDog896/svelte-mosaic)
-  ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
-  window manager
 - [svelte-stopwatch (0)](https://github.com/LeoDog896/svelte-stopwatch) - time
   tracker for svelte
 - [text-gradient (0)](https://github.com/LeoDog896/text-gradient) - copy silly
@@ -524,6 +524,8 @@ instead.
   application for windows
 - [WidgetMake (0)](https://github.com/LeoDog896/WidgetMake) - Widget maker (GCC
   competition)
+- [wordle-clone (0)](https://github.com/LeoDog896/wordle-clone) - demo
+  repository for teaching
 - [yolov5-bound-check (0)](https://github.com/LeoDog896/yolov5-bound-check)
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image

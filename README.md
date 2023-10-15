@@ -530,7 +530,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (279)
+## Forks (280)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -923,6 +923,7 @@ instead.
 - [node_shims](https://github.com/LeoDog896/node_shims) - npm packages providing
   shims for the Deno namespace and other globals. Useful for running Deno-first
   programs on Node.
+- [nom](https://github.com/LeoDog896/nom) - Rust parser combinator framework
 - [NoteBlockAPI](https://github.com/LeoDog896/NoteBlockAPI) - A simple API for
   note block music
 - [NPC](https://github.com/LeoDog896/NPC) - Collection of NPC Types, Utils, and

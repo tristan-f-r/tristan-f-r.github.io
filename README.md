@@ -440,6 +440,8 @@ instead.
   provided.
 - [rustun-cli (0)](https://github.com/LeoDog896/rustun-cli) - A Rust CLI for
   running STUN server and client asynchronously
+- [scannable-orphan (0)](https://github.com/LeoDog896/scannable-orphan) - QR
+  code generation for a modern web
 - [siki (0)](https://github.com/LeoDog896/siki) - simple wikipedia explanations
   (rust)
 - [Skript-Editor (0)](https://github.com/LeoDog896/Skript-Editor) - An editor
@@ -524,8 +526,6 @@ instead.
   application for windows
 - [WidgetMake (0)](https://github.com/LeoDog896/WidgetMake) - Widget maker (GCC
   competition)
-- [wordle-clone (0)](https://github.com/LeoDog896/wordle-clone) - demo
-  repository for teaching
 - [yolov5-bound-check (0)](https://github.com/LeoDog896/yolov5-bound-check)
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image

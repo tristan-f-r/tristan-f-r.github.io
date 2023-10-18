@@ -13,7 +13,7 @@ instead.
 
 - [awesome-minestom (33)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
-- [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find
+- [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
 - [npm-rank (10)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular

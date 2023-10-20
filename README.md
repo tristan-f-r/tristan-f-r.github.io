@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (250)
+## Projects (249)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -31,9 +31,6 @@ instead.
   solving an unsolved problem in combinatorial mathematics
 - [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
   lichess board implementation for minecraft.
-- [scannable (4)](https://github.com/LeoDog896/scannable)
-  ([homepage](https://leodog896.github.io/scannable)) - QR code generator for
-  the web
 - [type (4)](https://github.com/LeoDog896/type)
   ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
 - [chessground-anim (3)](https://github.com/LeoDog896/chessground-anim)
@@ -440,8 +437,8 @@ instead.
   provided.
 - [rustun-cli (0)](https://github.com/LeoDog896/rustun-cli) - A Rust CLI for
   running STUN server and client asynchronously
-- [scannable-orphan (0)](https://github.com/LeoDog896/scannable-orphan) - QR
-  code generation for a modern web
+- [scannable (0)](https://github.com/LeoDog896/scannable) - QR code generation
+  for a modern web
 - [siki (0)](https://github.com/LeoDog896/siki) - simple wikipedia explanations
   (rust)
 - [Skript-Editor (0)](https://github.com/LeoDog896/Skript-Editor) - An editor
@@ -1191,11 +1188,14 @@ instead.
 - [yarn](https://github.com/LeoDog896/yarn) - Libre Minecraft mappings, free to
   use for everyone. No exceptions.
 
-## Archived (9)
+## Archived (10)
 
 > These projects consist of ideas that were duplicates, libraries that have
 > clear better alternatives, or temporary repositories
 
+- [scannable-old-fork (4)](https://github.com/LeoDog896/scannable-old-fork)
+  ([homepage](https://leodog896.github.io/scannable)) - QR code generator for
+  the web
 - [awesome-surrealdb (1)](https://github.com/LeoDog896/awesome-surrealdb) - A
   curated list of awesome SurrealDB resources, libraries, tools, and
   applications.

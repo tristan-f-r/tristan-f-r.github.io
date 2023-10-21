@@ -147,6 +147,9 @@ instead.
   generator
 - [reliable-validity-demonstration (1)](https://github.com/LeoDog896/reliable-validity-demonstration) -
   demonstration via an arrow board of reliability vs validity with a gizmo
+- [scannable (1)](https://github.com/LeoDog896/scannable)
+  ([homepage](https://leodog896.github.io/scannable/)) - QR code generation for
+  a modern web
 - [shine (1)](https://github.com/LeoDog896/shine) - shadow file cracker mainly
   for CTF
 - [sim (1)](https://github.com/LeoDog896/sim)
@@ -437,8 +440,6 @@ instead.
   provided.
 - [rustun-cli (0)](https://github.com/LeoDog896/rustun-cli) - A Rust CLI for
   running STUN server and client asynchronously
-- [scannable (0)](https://github.com/LeoDog896/scannable) - QR code generation
-  for a modern web
 - [siki (0)](https://github.com/LeoDog896/siki) - simple wikipedia explanations
   (rust)
 - [Skript-Editor (0)](https://github.com/LeoDog896/Skript-Editor) - An editor

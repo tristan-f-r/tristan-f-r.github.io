@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (249)
+## Projects (251)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -446,6 +446,8 @@ instead.
   for skript
 - [snakes-ladders-sim (0)](https://github.com/LeoDog896/snakes-ladders-sim) -
   snakes and ladders simulator
+- [socket-messanger (0)](https://github.com/LeoDog896/socket-messanger) - app to
+  message socket
 - [SpanishConjunctions (0)](https://github.com/LeoDog896/SpanishConjunctions) -
   Spanish Conjuctions!
 - [spin (0)](https://github.com/LeoDog896/spin)
@@ -477,6 +479,8 @@ instead.
   flexible DOM-based svelte inventory and management system
 - [svelte-stopwatch (0)](https://github.com/LeoDog896/svelte-stopwatch) - time
   tracker for svelte
+- [sveltekit-messanger-socket-io (0)](https://github.com/LeoDog896/sveltekit-messanger-socket-io) -
+  basic sveltekit socket io messanger
 - [text-gradient (0)](https://github.com/LeoDog896/text-gradient) - copy silly
   little text gradients to your favorite WYSWIG editors
 - [thequeen (0)](https://github.com/LeoDog896/thequeen) - the queen was cool

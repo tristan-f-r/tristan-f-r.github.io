@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (251)
+## Projects (253)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -29,6 +29,9 @@ instead.
   wrapper for Svelte
 - [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
   solving an unsolved problem in combinatorial mathematics
+- [co-authored-by (4)](https://github.com/LeoDog896/co-authored-by)
+  ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
+  co-authored-by descriptions & emails for authors
 - [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
   lichess board implementation for minecraft.
 - [type (4)](https://github.com/LeoDog896/type)
@@ -36,9 +39,6 @@ instead.
 - [chessground-anim (3)](https://github.com/LeoDog896/chessground-anim)
   ([homepage](https://leodog896.github.io/chessground-anim/)) - animate pgn with
   chessground
-- [co-authored-by (3)](https://github.com/LeoDog896/co-authored-by)
-  ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
-  co-authored-by descriptions & emails for authors
 - [ferret_api (3)](https://github.com/LeoDog896/ferret_api)
   ([homepage](https://leodog896.github.io/ferret_api/)) - collection of ferret
   images
@@ -199,6 +199,9 @@ instead.
   biometric information on uuid-identified users in private networks
 - [bird (0)](https://github.com/LeoDog896/bird) - flyd for deno -- low-level
   reactive stores
+- [black-footed-ferret (0)](https://github.com/LeoDog896/black-footed-ferret)
+  ([homepage](https://leodog896.github.io/black-footed-ferret/)) - a website to
+  raise awareness of the black footed ferret.
 - [Blog (0)](https://github.com/LeoDog896/Blog) - A modern, light-theme blog
   that uses MongoDB and Bootstrap styling.
 - [BMI (0)](https://github.com/LeoDog896/BMI) - Simple BMI calculator
@@ -479,6 +482,8 @@ instead.
   flexible DOM-based svelte inventory and management system
 - [svelte-stopwatch (0)](https://github.com/LeoDog896/svelte-stopwatch) - time
   tracker for svelte
+- [svelte-text-path (0)](https://github.com/LeoDog896/svelte-text-path) - fancy
+  text for your fancy webpage :}
 - [sveltekit-messanger-socket-io (0)](https://github.com/LeoDog896/sveltekit-messanger-socket-io) -
   basic sveltekit socket io messanger
 - [text-gradient (0)](https://github.com/LeoDog896/text-gradient) - copy silly
@@ -532,7 +537,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (280)
+## Forks (281)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -582,6 +587,8 @@ instead.
 - [babel-handbook](https://github.com/LeoDog896/babel-handbook)
   ([homepage](https://git.io/babel-handbook)) - :blue_book: A guided handbook on
   how to use Babel and how to create plugins for Babel.
+- [bezierjs](https://github.com/LeoDog896/bezierjs) - A nodejs and client-side
+  library for (cubic) Bezier curve work
 - [BileTools](https://github.com/LeoDog896/BileTools) - Tools for making garbage
 - [BloomDocs](https://github.com/LeoDog896/BloomDocs) - No description provided.
 - [boa](https://github.com/LeoDog896/boa) - Boa is an embeddable and

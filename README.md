@@ -51,6 +51,9 @@ instead.
   from https://gitlab.com/jonot-cyber/rotate-game
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
   vite template
+- [svelte-monaco (3)](https://github.com/LeoDog896/svelte-monaco)
+  ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
+  integration
 - [conspirasea (2)](https://github.com/LeoDog896/conspirasea)
   ([homepage](https://leodog896.github.io/conspirasea)) - make simple yarn-based
   conspiracies
@@ -73,9 +76,6 @@ instead.
 - [math (2)](https://github.com/LeoDog896/math) - No description provided.
 - [MCInstall (2)](https://github.com/LeoDog896/MCInstall) - MultiMC installation
   script for linux.
-- [svelte-monaco (2)](https://github.com/LeoDog896/svelte-monaco)
-  ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
-  integration
 - [svelte-mosaic (2)](https://github.com/LeoDog896/svelte-mosaic)
   ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
   window manager

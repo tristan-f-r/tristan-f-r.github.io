@@ -544,7 +544,6 @@ instead.
 - [awesome-python](https://github.com/LeoDog896/awesome-python)
   ([homepage](https://awesome-python.com/)) - A curated list of awesome Python
   frameworks, libraries, software and resources
-- [deno_swc](https://github.com/LeoDog896/deno_swc) - The SWC compiler for Deno.
 - [qwik](https://github.com/LeoDog896/qwik)
   ([homepage](https://qwik.builder.io/)) - The HTML-first framework. Instant
   apps of any size with ~ 1kb JS
@@ -676,6 +675,7 @@ instead.
 - [deno_lint](https://github.com/LeoDog896/deno_lint)
   ([homepage](https://lint.deno.land/)) - Blazing fast linter for JavaScript and
   TypeScript written in Rust
+- [deno_swc](https://github.com/LeoDog896/deno_swc) - The SWC compiler for Deno.
 - [deno_task_shell](https://github.com/LeoDog896/deno_task_shell)
   ([homepage](https://crates.io/crates/deno_task_shell)) - Cross platform shell
   for deno task.

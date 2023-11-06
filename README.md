@@ -537,7 +537,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (281)
+## Forks (285)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -717,6 +717,8 @@ instead.
   and lightweight HTML5 UI controls for building modern web applications.
 - [ElCriCri-Website](https://github.com/LeoDog896/ElCriCri-Website) - No
   description provided.
+- [emojilib](https://github.com/LeoDog896/emojilib)
+  ([homepage](https://unpkg.com/emojilib@latest)) - Emoji keyword library.
 - [epubcheck](https://github.com/LeoDog896/epubcheck)
   ([homepage](https://www.w3.org/publishing/epubcheck/)) - The conformance
   checker for EPUB publications
@@ -1067,6 +1069,8 @@ instead.
   Lexer and Parser for Rust
 - [stackgl.github.io](https://github.com/LeoDog896/stackgl.github.io)
   ([homepage](http://stack.gl)) - :computer:
+- [stc](https://github.com/LeoDog896/stc) ([homepage](https://stc.dudy.dev)) -
+  Speedy TypeScript type checker
 - [StreamMinecraftClone](https://github.com/LeoDog896/StreamMinecraftClone) - A
   Minecraft Clone developed live on stream at twitch.tv/gameswthgabe
 - [sttv](https://github.com/LeoDog896/sttv) - A starter template for Svelte,
@@ -1144,6 +1148,12 @@ instead.
 - [tutorials](https://github.com/LeoDog896/tutorials)
   ([homepage](https://tutorials.surrealdb.com)) - A collection of official and
   community tutorials and code walkthroughs
+- [TypeScript](https://github.com/LeoDog896/TypeScript)
+  ([homepage](https://www.typescriptlang.org)) - TypeScript is a superset of
+  JavaScript that compiles to clean JavaScript output.
+- [typescript-eslint](https://github.com/LeoDog896/typescript-eslint)
+  ([homepage](https://typescript-eslint.io)) - :sparkles: Monorepo for all the
+  tooling which enables ESLint to support TypeScript
 - [typos__fork](https://github.com/LeoDog896/typos__fork) - Source code spell
   checker
 - [ultra](https://github.com/LeoDog896/ultra) - Cryptanalysis of the Enigma

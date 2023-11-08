@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (253)
+## Projects (254)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -76,6 +76,9 @@ instead.
 - [math (2)](https://github.com/LeoDog896/math) - No description provided.
 - [MCInstall (2)](https://github.com/LeoDog896/MCInstall) - MultiMC installation
   script for linux.
+- [scannable (2)](https://github.com/LeoDog896/scannable)
+  ([homepage](https://leodog896.github.io/scannable/)) - QR code generation for
+  a modern web
 - [svelte-mosaic (2)](https://github.com/LeoDog896/svelte-mosaic)
   ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
   window manager
@@ -147,9 +150,6 @@ instead.
   generator
 - [reliable-validity-demonstration (1)](https://github.com/LeoDog896/reliable-validity-demonstration) -
   demonstration via an arrow board of reliability vs validity with a gizmo
-- [scannable (1)](https://github.com/LeoDog896/scannable)
-  ([homepage](https://leodog896.github.io/scannable/)) - QR code generation for
-  a modern web
 - [shine (1)](https://github.com/LeoDog896/shine) - shadow file cracker mainly
   for CTF
 - [sim (1)](https://github.com/LeoDog896/sim)
@@ -531,6 +531,7 @@ instead.
   utility for handling v4l2 and rstp devices
 - [wenv (0)](https://github.com/LeoDog896/wenv) - environment variable editor
   application for windows
+- [wessel (0)](https://github.com/LeoDog896/wessel) - wasm docker vessel
 - [WidgetMake (0)](https://github.com/LeoDog896/WidgetMake) - Widget maker (GCC
   competition)
 - [yolov5-bound-check (0)](https://github.com/LeoDog896/yolov5-bound-check)

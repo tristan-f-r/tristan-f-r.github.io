@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (254)
+## Projects (256)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -199,6 +199,8 @@ instead.
   biometric information on uuid-identified users in private networks
 - [bird (0)](https://github.com/LeoDog896/bird) - flyd for deno -- low-level
   reactive stores
+- [black (0)](https://github.com/LeoDog896/black)
+  ([homepage](https://leodog896.github.io/black/)) - for dirty screens
 - [black-footed-ferret (0)](https://github.com/LeoDog896/black-footed-ferret)
   ([homepage](https://leodog896.github.io/black-footed-ferret/)) - a website to
   raise awareness of the black footed ferret.
@@ -376,6 +378,8 @@ instead.
   provided.
 - [modrinth_deno (0)](https://github.com/LeoDog896/modrinth_deno) - deno wrapper
   for the modrinth api
+- [motion-canvas-3d (0)](https://github.com/LeoDog896/motion-canvas-3d) -
+  motion-canvas 3d integration
 - [multidimensional-dice-roll (0)](https://github.com/LeoDog896/multidimensional-dice-roll) -
   Multidimensional dice rolling
 - [n-body (0)](https://github.com/LeoDog896/n-body)

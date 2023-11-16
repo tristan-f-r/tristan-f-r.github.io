@@ -542,7 +542,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (286)
+## Forks (287)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -697,6 +697,8 @@ instead.
   nice command line prompts and similar things
 - [discord-tauri](https://github.com/LeoDog896/discord-tauri) - A lightweight
   Discord wrapper made in Tauri
+- [docker-prisma-studio](https://github.com/LeoDog896/docker-prisma-studio) -
+  💾💿 Prisma Studio for Docker
 - [dot-github](https://github.com/LeoDog896/dot-github) - Template repo with
   common GH related files
 - [dotland](https://github.com/LeoDog896/dotland)

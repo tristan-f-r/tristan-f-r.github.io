@@ -15,7 +15,7 @@ instead.
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
-- [npm-rank (11)](https://github.com/LeoDog896/npm-rank)
+- [npm-rank (12)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
 - [maxwell (6)](https://github.com/LeoDog896/maxwell)
@@ -542,7 +542,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (287)
+## Forks (288)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -985,6 +985,10 @@ instead.
   of MultiMC)
 - [polymc.github.io](https://github.com/LeoDog896/polymc.github.io) - The
   polymc.org website.
+- [prisma](https://github.com/LeoDog896/prisma)
+  ([homepage](https://www.prisma.io)) - Next-generation ORM for Node.js &
+  TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and
+  CockroachDB
 - [PrismLauncher](https://github.com/LeoDog896/PrismLauncher)
   ([homepage](https://prismlauncher.org)) - A custom launcher for Minecraft that
   allows you to easily manage multiple installations of Minecraft at once (Fork

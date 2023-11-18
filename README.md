@@ -542,7 +542,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (288)
+## Forks (289)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1122,6 +1122,8 @@ instead.
 - [svelte-simple-modal](https://github.com/LeoDog896/svelte-simple-modal)
   ([homepage](https://svelte.dev/repl/b95ce66b0ef34064a34afc5c0249f313)) - A
   simple, small, and content-agnostic modal for Svelte v3
+- [sveltesociety.dev](https://github.com/LeoDog896/sveltesociety.dev)
+  ([homepage](https://sveltesociety.dev)) - The Svelte Society website
 - [Svelvet](https://github.com/LeoDog896/Svelvet)
   ([homepage](https://svelvet.io)) - A lightweight Svelte component library for
   building interactive node-based flow diagrams

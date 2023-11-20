@@ -133,6 +133,8 @@ instead.
 - [Logitech-Extreme-3d-Pro-Visualizer (1)](https://github.com/LeoDog896/Logitech-Extreme-3d-Pro-Visualizer)
   ([homepage](https://leodog896.github.io/Logitech-Extreme-3d-Pro-Visualizer/)) -
   Check out the data sent by your logitech controller!
+- [motion-canvas-3d (1)](https://github.com/LeoDog896/motion-canvas-3d) -
+  motion-canvas 3d integration
 - [opennow (1)](https://github.com/LeoDog896/opennow) - No description provided.
 - [pad-life (1)](https://github.com/LeoDog896/pad-life)
   ([homepage](https://leodog896.github.io/pad-life/)) - Alternative version of
@@ -378,8 +380,6 @@ instead.
   provided.
 - [modrinth_deno (0)](https://github.com/LeoDog896/modrinth_deno) - deno wrapper
   for the modrinth api
-- [motion-canvas-3d (0)](https://github.com/LeoDog896/motion-canvas-3d) -
-  motion-canvas 3d integration
 - [multidimensional-dice-roll (0)](https://github.com/LeoDog896/multidimensional-dice-roll) -
   Multidimensional dice rolling
 - [n-body (0)](https://github.com/LeoDog896/n-body)

@@ -60,6 +60,8 @@ instead.
 - [curve_collapse (2)](https://github.com/LeoDog896/curve_collapse) - a function
   to turn any arbitrary function into equidistant points from [a, b] with n
   points.
+- [doke (2)](https://github.com/LeoDog896/doke)
+  ([homepage](https://leodog896.github.io/doke)) - code decoder
 - [eyeball (2)](https://github.com/LeoDog896/eyeball)
   ([homepage](https://leodog896.github.io/eyeball/)) - moving eyeball that
   follows the cursor
@@ -110,8 +112,6 @@ instead.
   ([homepage](https://co-authored-by.deno.dev)) - deno deploy function for
   co-authored-by
 - [dite (1)](https://github.com/LeoDog896/dite) - a little bit of a framework
-- [doke (1)](https://github.com/LeoDog896/doke)
-  ([homepage](https://leodog896.github.io/doke)) - code decoder
 - [duckshow (1)](https://github.com/LeoDog896/duckshow)
   ([homepage](https://leodog896.github.io/duckshow/)) - a slideshow for many
   animals

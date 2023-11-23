@@ -486,8 +486,9 @@ instead.
   flexible DOM-based svelte inventory and management system
 - [svelte-stopwatch (0)](https://github.com/LeoDog896/svelte-stopwatch) - time
   tracker for svelte
-- [svelte-text-path (0)](https://github.com/LeoDog896/svelte-text-path) - fancy
-  text for your fancy webpage :}
+- [svelte-text-path (0)](https://github.com/LeoDog896/svelte-text-path)
+  ([homepage](https://leodog896.github.io/svelte-text-path/)) - fancy text for
+  your fancy webpage :}
 - [sveltekit-messanger-socket-io (0)](https://github.com/LeoDog896/sveltekit-messanger-socket-io) -
   basic sveltekit socket io messanger
 - [text-gradient (0)](https://github.com/LeoDog896/text-gradient) - copy silly

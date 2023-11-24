@@ -543,7 +543,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (289)
+## Forks (290)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1134,6 +1134,9 @@ instead.
   Rust-based platform for the Web
 - [tailwindcss.com](https://github.com/LeoDog896/tailwindcss.com)
   ([homepage](https://tailwindcss.com)) - No description provided.
+- [tarpaulin](https://github.com/LeoDog896/tarpaulin)
+  ([homepage](https://crates.io/crates/cargo-tarpaulin)) - A code coverage tool
+  for Rust projects
 - [terminator](https://github.com/LeoDog896/terminator)
   ([homepage](https://gnome-terminator.org)) - multiple GNOME terminals in one
   window

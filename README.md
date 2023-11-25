@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (256)
+## Projects (257)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -421,6 +421,8 @@ instead.
 - [random_color (0)](https://github.com/LeoDog896/random_color) - Deno package
   for making random colors -- port of davidmerfield/randomColor
 - [rava (0)](https://github.com/LeoDog896/rava) - Java in rust
+- [raw-input-capture (0)](https://github.com/LeoDog896/raw-input-capture) -
+  prints the char codes of ALL input.
 - [raw-to-github (0)](https://github.com/LeoDog896/raw-to-github) - open
   githubrawcontent URLs straight in github
 - [reaction (0)](https://github.com/LeoDog896/reaction) - reaction speed

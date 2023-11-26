@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (257)
+## Projects (259)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -78,6 +78,8 @@ instead.
 - [math (2)](https://github.com/LeoDog896/math) - No description provided.
 - [MCInstall (2)](https://github.com/LeoDog896/MCInstall) - MultiMC installation
   script for linux.
+- [motion-canvas-3d (2)](https://github.com/LeoDog896/motion-canvas-3d) -
+  motion-canvas 3d integration
 - [scannable (2)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable/)) - QR code generation for
   a modern web
@@ -133,8 +135,6 @@ instead.
 - [Logitech-Extreme-3d-Pro-Visualizer (1)](https://github.com/LeoDog896/Logitech-Extreme-3d-Pro-Visualizer)
   ([homepage](https://leodog896.github.io/Logitech-Extreme-3d-Pro-Visualizer/)) -
   Check out the data sent by your logitech controller!
-- [motion-canvas-3d (1)](https://github.com/LeoDog896/motion-canvas-3d) -
-  motion-canvas 3d integration
 - [opennow (1)](https://github.com/LeoDog896/opennow) - No description provided.
 - [pad-life (1)](https://github.com/LeoDog896/pad-life)
   ([homepage](https://leodog896.github.io/pad-life/)) - Alternative version of
@@ -184,6 +184,8 @@ instead.
   cheatsheet/list of twind colors.
 - [ansi-editor (0)](https://github.com/LeoDog896/ansi-editor) - web-based ANSI
   text code editor
+- [ansi-timeline (0)](https://github.com/LeoDog896/ansi-timeline) - upload an
+  ansi file. see a timeline. thats it
 - [arrowtype (0)](https://github.com/LeoDog896/arrowtype)
   ([homepage](https://leodog896.github.io/arrowtype/)) - arrow typing program
 - [asciipinski (0)](https://github.com/LeoDog896/asciipinski) - Make ascii
@@ -491,6 +493,8 @@ instead.
 - [svelte-text-path (0)](https://github.com/LeoDog896/svelte-text-path)
   ([homepage](https://leodog896.github.io/svelte-text-path/)) - fancy text for
   your fancy webpage :}
+- [svelte-xterm (0)](https://github.com/LeoDog896/svelte-xterm) - xterm.js
+  wrapper for svelte
 - [sveltekit-messanger-socket-io (0)](https://github.com/LeoDog896/sveltekit-messanger-socket-io) -
   basic sveltekit socket io messanger
 - [text-gradient (0)](https://github.com/LeoDog896/text-gradient) - copy silly

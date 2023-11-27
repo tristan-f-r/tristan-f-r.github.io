@@ -15,7 +15,7 @@ instead.
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
-- [npm-rank (12)](https://github.com/LeoDog896/npm-rank)
+- [npm-rank (13)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
 - [maxwell (6)](https://github.com/LeoDog896/maxwell)

@@ -21,12 +21,12 @@ instead.
 - [maxwell (6)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
+- [svelte-mathquill (6)](https://github.com/LeoDog896/svelte-mathquill)
+  ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
+  wrapper for Svelte
 - [svelte-reparent (6)](https://github.com/LeoDog896/svelte-reparent)
   ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
   with ease in svelte
-- [svelte-mathquill (5)](https://github.com/LeoDog896/svelte-mathquill)
-  ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
-  wrapper for Svelte
 - [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
   solving an unsolved problem in combinatorial mathematics
 - [co-authored-by (4)](https://github.com/LeoDog896/co-authored-by)
@@ -60,8 +60,6 @@ instead.
 - [curve_collapse (2)](https://github.com/LeoDog896/curve_collapse) - a function
   to turn any arbitrary function into equidistant points from [a, b] with n
   points.
-- [doke (2)](https://github.com/LeoDog896/doke)
-  ([homepage](https://leodog896.github.io/doke)) - code decoder
 - [eyeball (2)](https://github.com/LeoDog896/eyeball)
   ([homepage](https://leodog896.github.io/eyeball/)) - moving eyeball that
   follows the cursor
@@ -114,6 +112,8 @@ instead.
   ([homepage](https://co-authored-by.deno.dev)) - deno deploy function for
   co-authored-by
 - [dite (1)](https://github.com/LeoDog896/dite) - a little bit of a framework
+- [doke (1)](https://github.com/LeoDog896/doke)
+  ([homepage](https://leodog896.github.io/doke)) - code decoder
 - [duckshow (1)](https://github.com/LeoDog896/duckshow)
   ([homepage](https://leodog896.github.io/duckshow/)) - a slideshow for many
   animals

@@ -6,12 +6,12 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (259)
+## Projects (260)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [awesome-minestom (33)](https://github.com/LeoDog896/awesome-minestom) - A
+- [awesome-minestom (34)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
@@ -254,6 +254,8 @@ instead.
 - [dots-lines-boxes (0)](https://github.com/LeoDog896/dots-lines-boxes) - dots,
   lines, & boxes. remake of a lil unity game for my game design class, in the
   web! (godot >> unity)
+- [dprint-plugin-yaml (0)](https://github.com/LeoDog896/dprint-plugin-yaml) -
+  YAML code formatting plugin for dprint.
 - [DropperHelper (0)](https://github.com/LeoDog896/DropperHelper) - Simple
   dropper utilities for Fabric
 - [emoji-swamp (0)](https://github.com/LeoDog896/emoji-swamp) - a 'sea' of

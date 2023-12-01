@@ -18,15 +18,15 @@ instead.
 - [npm-rank (13)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
+- [svelte-reparent (7)](https://github.com/LeoDog896/svelte-reparent)
+  ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
+  with ease in svelte
 - [maxwell (6)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
 - [svelte-mathquill (6)](https://github.com/LeoDog896/svelte-mathquill)
   ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
-- [svelte-reparent (6)](https://github.com/LeoDog896/svelte-reparent)
-  ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
-  with ease in svelte
 - [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
   solving an unsolved problem in combinatorial mathematics
 - [co-authored-by (4)](https://github.com/LeoDog896/co-authored-by)
@@ -81,6 +81,9 @@ instead.
 - [scannable (2)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable/)) - QR code generation for
   a modern web
+- [sim (2)](https://github.com/LeoDog896/sim)
+  ([homepage](https://leodog896.github.io/sim/)) - implementation of sim (the
+  game)
 - [svelte-mosaic (2)](https://github.com/LeoDog896/svelte-mosaic)
   ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
   window manager
@@ -135,6 +138,9 @@ instead.
 - [Logitech-Extreme-3d-Pro-Visualizer (1)](https://github.com/LeoDog896/Logitech-Extreme-3d-Pro-Visualizer)
   ([homepage](https://leodog896.github.io/Logitech-Extreme-3d-Pro-Visualizer/)) -
   Check out the data sent by your logitech controller!
+- [mdsite (1)](https://github.com/LeoDog896/mdsite)
+  ([homepage](https://mdsite.deno.dev/)) - serverless app for converting sites
+  into markdown w/ readability
 - [opennow (1)](https://github.com/LeoDog896/opennow) - No description provided.
 - [pad-life (1)](https://github.com/LeoDog896/pad-life)
   ([homepage](https://leodog896.github.io/pad-life/)) - Alternative version of
@@ -154,9 +160,6 @@ instead.
   demonstration via an arrow board of reliability vs validity with a gizmo
 - [shine (1)](https://github.com/LeoDog896/shine) - shadow file cracker mainly
   for CTF
-- [sim (1)](https://github.com/LeoDog896/sim)
-  ([homepage](https://leodog896.github.io/sim/)) - implementation of sim (the
-  game)
 - [sonatokipona.github.io (1)](https://github.com/LeoDog896/sonatokipona.github.io) -
   Toki Pona Sona
 - [sphere-coordinates-ts (1)](https://github.com/LeoDog896/sphere-coordinates-ts) -
@@ -366,9 +369,6 @@ instead.
   mathquill
 - [md4-hash (0)](https://github.com/LeoDog896/md4-hash) - pure typescript
   implementation of the md4 hashing algorithm
-- [mdsite (0)](https://github.com/LeoDog896/mdsite)
-  ([homepage](https://mdsite.deno.dev/)) - serverless app for converting sites
-  into markdown w/ readability
 - [mimic (0)](https://github.com/LeoDog896/mimic) - WebRTC video mimicking on
   the server
 - [minestom-extensions (0)](https://github.com/LeoDog896/minestom-extensions) -
@@ -551,7 +551,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (290)
+## Forks (291)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1233,6 +1233,8 @@ instead.
 - [www.surrealdb.com](https://github.com/LeoDog896/www.surrealdb.com)
   ([homepage](https://surrealdb.com)) - The website, and blog for SurrealDB,
   built using Ember.js
+- [xtermjs.org](https://github.com/LeoDog896/xtermjs.org)
+  ([homepage](https://xtermjs.org)) - The website for xterm.js
 - [xxhash-rust](https://github.com/LeoDog896/xxhash-rust) - Rust implementation
   of xxhash
 - [yarn](https://github.com/LeoDog896/yarn) - Libre Minecraft mappings, free to

@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (260)
+## Projects (261)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -180,6 +180,8 @@ instead.
   off of the things they carried, for a school project.
 - [tiptap-mathquill (1)](https://github.com/LeoDog896/tiptap-mathquill) - tiptap
   extension for editing math in MathQuill
+- [todays-wordle (1)](https://github.com/LeoDog896/todays-wordle) -
+  auto-updating today's wordle
 - [treblecross-solver (1)](https://github.com/LeoDog896/treblecross-solver) - A
   treblecross solver written in Deno
 - [twind-colors (1)](https://github.com/LeoDog896/twind-colors)
@@ -504,8 +506,6 @@ instead.
 - [thequeen (0)](https://github.com/LeoDog896/thequeen) - the queen was cool
 - [time-from-now (0)](https://github.com/LeoDog896/time-from-now) - check what
   time it is after X time
-- [todays-wordle (0)](https://github.com/LeoDog896/todays-wordle) -
-  auto-updating today's wordle
 - [tokiponasona.github.io (0)](https://github.com/LeoDog896/tokiponasona.github.io) -
   No description provided.
 - [tool-swing (0)](https://github.com/LeoDog896/tool-swing) - Swing around silly
@@ -529,6 +529,8 @@ instead.
   cooler `npx tsc --init`. done? run `npx typescribble`. (not released -- YET!)
 - [unitcircle (0)](https://github.com/LeoDog896/unitcircle) - Unit circle
   practice problems
+- [untyped-npm-packages (0)](https://github.com/LeoDog896/untyped-npm-packages) -
+  list of untyped npm packages
 - [url-safe-base64-playground (0)](https://github.com/LeoDog896/url-safe-base64-playground)
   ([homepage](https://leodog896.github.io/url-safe-base64-playground/)) - quick
   encode/decode for the npm library url-safe-base64
@@ -551,7 +553,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (291)
+## Forks (293)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -823,6 +825,8 @@ instead.
 - [hydrazine-path-finding](https://github.com/LeoDog896/hydrazine-path-finding) -
   A rather basic A* path-finding engine inspired by a certain blocky sandbox
   game that everyone has played before
+- [hyprland-website](https://github.com/LeoDog896/hyprland-website) - The
+  hyprland.org website
 - [iconv-lite](https://github.com/LeoDog896/iconv-lite) - Convert character
   encodings in pure javascript.
 - [insolitum](https://github.com/LeoDog896/insolitum) - No description provided.
@@ -1012,6 +1016,8 @@ instead.
   that exports Quizlet study sets into a variety of file formats.
 - [rayon](https://github.com/LeoDog896/rayon) - Rayon: A data parallelism
   library for Rust
+- [registry-1](https://github.com/LeoDog896/registry-1) - npm registry
+  documentation
 - [ReignOkeefe](https://github.com/LeoDog896/ReignOkeefe) - Reign O'Keefe
   Portfolio
 - [repl-auth-node](https://github.com/LeoDog896/repl-auth-node) - Nodejs client

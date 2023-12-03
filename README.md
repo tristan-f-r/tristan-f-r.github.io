@@ -529,8 +529,9 @@ instead.
   cooler `npx tsc --init`. done? run `npx typescribble`. (not released -- YET!)
 - [unitcircle (0)](https://github.com/LeoDog896/unitcircle) - Unit circle
   practice problems
-- [untyped-npm-packages (0)](https://github.com/LeoDog896/untyped-npm-packages) -
-  list of untyped npm packages
+- [untyped-npm-packages (0)](https://github.com/LeoDog896/untyped-npm-packages)
+  ([homepage](https://leodog896.github.io/untyped-npm-packages/)) - list of
+  untyped npm packages
 - [url-safe-base64-playground (0)](https://github.com/LeoDog896/url-safe-base64-playground)
   ([homepage](https://leodog896.github.io/url-safe-base64-playground/)) - quick
   encode/decode for the npm library url-safe-base64

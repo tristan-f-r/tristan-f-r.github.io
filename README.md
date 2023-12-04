@@ -95,6 +95,8 @@ instead.
   svelte
 - [taxevasion.tk (2)](https://github.com/LeoDog896/taxevasion.tk)
   ([homepage](http://taxevasion.tk)) - how to commit tax evasion
+- [todays-wordle (2)](https://github.com/LeoDog896/todays-wordle) -
+  auto-updating today's wordle
 - [webpage (2)](https://github.com/LeoDog896/webpage)
   ([homepage](https://leodog896.com)) - My personal site
 - [allergitaves (1)](https://github.com/LeoDog896/allergitaves)
@@ -180,8 +182,6 @@ instead.
   off of the things they carried, for a school project.
 - [tiptap-mathquill (1)](https://github.com/LeoDog896/tiptap-mathquill) - tiptap
   extension for editing math in MathQuill
-- [todays-wordle (1)](https://github.com/LeoDog896/todays-wordle) -
-  auto-updating today's wordle
 - [treblecross-solver (1)](https://github.com/LeoDog896/treblecross-solver) - A
   treblecross solver written in Deno
 - [twind-colors (1)](https://github.com/LeoDog896/twind-colors)
@@ -554,7 +554,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (293)
+## Forks (295)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -636,6 +636,8 @@ instead.
 - [chromebrew.github.io](https://github.com/LeoDog896/chromebrew.github.io)
   ([homepage](https://chromebrew.github.io)) - Chromebrew's homepage, hosted on
   GitHub Pages
+- [cli](https://github.com/LeoDog896/cli) ([homepage](https://snyk.io)) - Snyk
+  CLI scans and monitors your projects for security vulnerabilities.
 - [codemirror-lang-svelte](https://github.com/LeoDog896/codemirror-lang-svelte) -
   Svelte language support for CodeMirror 6
 - [codemonkey](https://github.com/LeoDog896/codemonkey) - No description
@@ -993,6 +995,8 @@ instead.
   Windows, Linux, macOS and the Web!
 - [pkgroll](https://github.com/LeoDog896/pkgroll) - 📦 🍣 Next-gen package
   bundler for TypeScript & ESM
+- [pnpm](https://github.com/LeoDog896/pnpm) ([homepage](https://pnpm.io)) -
+  Fast, disk space efficient package manager
 - [PolyMC](https://github.com/LeoDog896/PolyMC)
   ([homepage](https://polymc.org/)) - A custom launcher for Minecraft that
   allows you to easily manage multiple installations of Minecraft at once (Fork

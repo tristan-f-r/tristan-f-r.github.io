@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (261)
+## Projects (262)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -174,6 +174,9 @@ instead.
   deferred calls to various libraries
 - [svelte-styling (1)](https://github.com/LeoDog896/svelte-styling) - organized
   & dynamic styles! use:style={{ color: "brown", size: 5 }}
+- [svelte-text-path (1)](https://github.com/LeoDog896/svelte-text-path)
+  ([homepage](https://leodog896.github.io/svelte-text-path/)) - fancy text for
+  your fancy webpage :}
 - [svg-editor (1)](https://github.com/LeoDog896/svg-editor)
   ([homepage](https://leodog896.github.io/svg-editor/)) - online code-based svg
   editor
@@ -486,6 +489,8 @@ instead.
   stylish blobs with ease!
 - [svelte-click-context (0)](https://github.com/LeoDog896/svelte-click-context) -
   Trigger context menus on click
+- [svelte-energy (0)](https://github.com/LeoDog896/svelte-energy) - add energy
+  to your apps with simple animations
 - [svelte-gradient (0)](https://github.com/LeoDog896/svelte-gradient) - Svelte
   gradient input
 - [svelte-graph (0)](https://github.com/LeoDog896/svelte-graph) - 2d graphing
@@ -494,9 +499,6 @@ instead.
   flexible DOM-based svelte inventory and management system
 - [svelte-stopwatch (0)](https://github.com/LeoDog896/svelte-stopwatch) - time
   tracker for svelte
-- [svelte-text-path (0)](https://github.com/LeoDog896/svelte-text-path)
-  ([homepage](https://leodog896.github.io/svelte-text-path/)) - fancy text for
-  your fancy webpage :}
 - [svelte-xterm (0)](https://github.com/LeoDog896/svelte-xterm) - xterm.js
   wrapper for svelte
 - [sveltekit-messanger-socket-io (0)](https://github.com/LeoDog896/sveltekit-messanger-socket-io) -

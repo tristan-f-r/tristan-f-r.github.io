@@ -175,8 +175,8 @@ instead.
 - [svelte-styling (1)](https://github.com/LeoDog896/svelte-styling) - organized
   & dynamic styles! use:style={{ color: "brown", size: 5 }}
 - [svelte-text-path (1)](https://github.com/LeoDog896/svelte-text-path)
-  ([homepage](https://leodog896.github.io/svelte-text-path/)) - fancy text for
-  your fancy webpage :}
+  ([homepage](https://leodog896.github.io/svelte-text-path/)) - Reactive
+  auto-fitting text-path Svelte library.
 - [svg-editor (1)](https://github.com/LeoDog896/svg-editor)
   ([homepage](https://leodog896.github.io/svg-editor/)) - online code-based svg
   editor
@@ -207,8 +207,8 @@ instead.
 - [binaryen-action (0)](https://github.com/LeoDog896/binaryen-action) - github
   action for using binaryen CLI tooling
 - [bingo (0)](https://github.com/LeoDog896/bingo) - bingo simulator
-- [biotrack (0)](https://github.com/LeoDog896/biotrack) - store anonymous
-  biometric information on uuid-identified users in private networks
+- [biotrack (0)](https://github.com/LeoDog896/biotrack) - store information on
+  users in private networks
 - [bird (0)](https://github.com/LeoDog896/bird) - flyd for deno -- low-level
   reactive stores
 - [black (0)](https://github.com/LeoDog896/black)

@@ -556,7 +556,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (295)
+## Forks (296)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -612,6 +612,8 @@ instead.
 - [boa](https://github.com/LeoDog896/boa) - Boa is an embeddable and
   experimental Javascript engine written in Rust. Currently, it has support for
   some of the language.
+- [bodyguard](https://github.com/LeoDog896/bodyguard) - Fetch API compatible,
+  streaming JSON and form data body parser / guard
 - [boids](https://github.com/LeoDog896/boids) - A fast JavaScript implementation
   of the boids algorithm
 - [btcpayserver](https://github.com/LeoDog896/btcpayserver)

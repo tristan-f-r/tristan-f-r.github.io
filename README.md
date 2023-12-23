@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (262)
+## Projects (263)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -34,6 +34,9 @@ instead.
   co-authored-by descriptions & emails for authors
 - [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
   lichess board implementation for minecraft.
+- [svelte-monaco (4)](https://github.com/LeoDog896/svelte-monaco)
+  ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
+  integration
 - [type (4)](https://github.com/LeoDog896/type)
   ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
 - [chessground-anim (3)](https://github.com/LeoDog896/chessground-anim)
@@ -51,9 +54,6 @@ instead.
   from https://gitlab.com/jonot-cyber/rotate-game
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
   vite template
-- [svelte-monaco (3)](https://github.com/LeoDog896/svelte-monaco)
-  ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
-  integration
 - [conspirasea (2)](https://github.com/LeoDog896/conspirasea)
   ([homepage](https://leodog896.github.io/conspirasea)) - make simple yarn-based
   conspiracies
@@ -395,6 +395,8 @@ instead.
   ([homepage](https://leodog896.github.io/n-body/)) - ridiculously rudimentary
   n-body simulation
 - [ngrokify (0)](https://github.com/LeoDog896/ngrokify) - Ngrok UI with egui
+- [npm-total-downloads (0)](https://github.com/LeoDog896/npm-total-downloads) -
+  get total NPM downloads from a list of packages
 - [number_enum (0)](https://github.com/LeoDog896/number_enum) - numbers as
   enums!
 - [OceanFacts (0)](https://github.com/LeoDog896/OceanFacts)

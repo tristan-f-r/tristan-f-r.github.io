@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (263)
+## Projects (264)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -354,6 +354,8 @@ instead.
   downloader and runner
 - [lichess-board (0)](https://github.com/LeoDog896/lichess-board) - deeply
   integrated lichess boad API in rust
+- [licit (0)](https://github.com/LeoDog896/licit) - robust, framework-agonistic
+  type-level permission system
 - [lightsout (0)](https://github.com/LeoDog896/lightsout)
   ([homepage](https://leodog896.github.io/lightsout/)) - lights out game
 - [lila-devcontainer (0)](https://github.com/LeoDog896/lila-devcontainer) -

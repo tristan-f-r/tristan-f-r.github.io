@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (264)
+## Projects (265)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -230,6 +230,8 @@ instead.
 - [Chat (0)](https://github.com/LeoDog896/Chat) - Just another Chat plugin
 - [chessground-triage-click-positioning (0)](https://github.com/LeoDog896/chessground-triage-click-positioning) -
   triage for chessground for silly positioning issue
+- [cloud-url-resolver (0)](https://github.com/LeoDog896/cloud-url-resolver) -
+  easily resolve protocol/port setups on any development platform
 - [code-and-crypt (0)](https://github.com/LeoDog896/code-and-crypt) - visualize
   codes and cryptography methods
 - [countdown (0)](https://github.com/LeoDog896/countdown) - simple countdown
@@ -560,7 +562,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (296)
+## Forks (297)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -991,6 +993,8 @@ instead.
   ([homepage](https://peerjs.com)) - Server for PeerJS
 - [peerjs.com](https://github.com/LeoDog896/peerjs.com)
   ([homepage](https://peerjs.com)) - Repository of the PeerJS website
+- [perlin.ts](https://github.com/LeoDog896/perlin.ts) - perlin noise library
+  forked from https://github.com/josephg/noisejs
 - [pest](https://github.com/LeoDog896/pest) ([homepage](https://pest.rs)) - The
   Elegant Parser
 - [pgn-mule](https://github.com/LeoDog896/pgn-mule) - Merge, filter, tweak and

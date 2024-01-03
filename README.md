@@ -562,7 +562,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (297)
+## Forks (298)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1262,6 +1262,8 @@ instead.
   of xxhash
 - [yarn](https://github.com/LeoDog896/yarn) - Libre Minecraft mappings, free to
   use for everyone. No exceptions.
+- [yolov8_onnx_nodejs](https://github.com/LeoDog896/yolov8_onnx_nodejs) - YOLOv8
+  inference using Node.js
 
 ## Archived (10)
 

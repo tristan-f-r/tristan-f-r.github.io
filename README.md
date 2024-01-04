@@ -419,9 +419,9 @@ instead.
 - [piano-visualizer (0)](https://github.com/LeoDog896/piano-visualizer)
   ([homepage](https://leodog896.github.io/piano-visualizer/)) - visualize midi
   music
-- [placement-scramble (0)](https://github.com/LeoDog896/placement-scramble) -
-  auto scramble your text with the first and last characters remaining in the
-  same place
+- [placement-scramble (0)](https://github.com/LeoDog896/placement-scramble)
+  ([homepage](https://leodog896.github.io/placement-scramble/)) - auto scramble
+  your text with the first and last characters remaining in the same place
 - [point-sphere (0)](https://github.com/LeoDog896/point-sphere)
   ([homepage](https://leodog896.github.io/point-sphere/)) - a visual
   demonstration of various ways to construct a sphere

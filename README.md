@@ -562,7 +562,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (298)
+## Forks (299)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1196,6 +1196,10 @@ instead.
 - [TropicalShadow](https://github.com/LeoDog896/TropicalShadow) - MEEE
 - [trpc](https://github.com/LeoDog896/trpc) ([homepage](https://tRPC.io)) - 🧙‍♀️
   Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+- [turbo](https://github.com/LeoDog896/turbo)
+  ([homepage](https://turbo.build)) - Incremental bundler and build system
+  optimized for JavaScript and TypeScript, written in Rust – including Turbopack
+  and Turborepo.
 - [tutorials](https://github.com/LeoDog896/tutorials)
   ([homepage](https://tutorials.surrealdb.com)) - A collection of official and
   community tutorials and code walkthroughs

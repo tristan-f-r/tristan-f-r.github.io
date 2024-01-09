@@ -90,6 +90,9 @@ instead.
 - [svelte-persistent (2)](https://github.com/LeoDog896/svelte-persistent)
   ([homepage](https://leodog896.github.io/svelte-persistent)) - Svelte writables
   for local & session storage
+- [svelte-text-path (2)](https://github.com/LeoDog896/svelte-text-path)
+  ([homepage](https://leodog896.github.io/svelte-text-path/)) - Reactive
+  auto-fitting text-path Svelte library.
 - [svelte-tilt (2)](https://github.com/LeoDog896/svelte-tilt)
   ([homepage](https://leodog896.github.io/svelte-tilt/)) - Tilt library for
   svelte
@@ -174,9 +177,6 @@ instead.
   deferred calls to various libraries
 - [svelte-styling (1)](https://github.com/LeoDog896/svelte-styling) - organized
   & dynamic styles! use:style={{ color: "brown", size: 5 }}
-- [svelte-text-path (1)](https://github.com/LeoDog896/svelte-text-path)
-  ([homepage](https://leodog896.github.io/svelte-text-path/)) - Reactive
-  auto-fitting text-path Svelte library.
 - [svg-editor (1)](https://github.com/LeoDog896/svg-editor)
   ([homepage](https://leodog896.github.io/svg-editor/)) - online code-based svg
   editor

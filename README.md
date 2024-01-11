@@ -108,6 +108,8 @@ instead.
 - [asl-caption (1)](https://github.com/LeoDog896/asl-caption)
   ([homepage](https://leodog896.github.io/asl-caption/)) - generate captions
   from videos containing ASL
+- [biotrack (1)](https://github.com/LeoDog896/biotrack) - store information on
+  users in private networks
 - [bluebooth (1)](https://github.com/LeoDog896/bluebooth) - No description
   provided.
 - [bookmarklet-editor (1)](https://github.com/LeoDog896/bookmarklet-editor) -
@@ -207,8 +209,6 @@ instead.
 - [binaryen-action (0)](https://github.com/LeoDog896/binaryen-action) - github
   action for using binaryen CLI tooling
 - [bingo (0)](https://github.com/LeoDog896/bingo) - bingo simulator
-- [biotrack (0)](https://github.com/LeoDog896/biotrack) - store information on
-  users in private networks
 - [bird (0)](https://github.com/LeoDog896/bird) - flyd for deno -- low-level
   reactive stores
 - [black (0)](https://github.com/LeoDog896/black)

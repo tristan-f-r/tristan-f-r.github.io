@@ -54,6 +54,9 @@ instead.
 - [svelte-monaco (3)](https://github.com/LeoDog896/svelte-monaco)
   ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
   integration
+- [svelte-text-path (3)](https://github.com/LeoDog896/svelte-text-path)
+  ([homepage](https://leodog896.github.io/svelte-text-path/)) - Reactive
+  auto-fitting text-path Svelte library.
 - [conspirasea (2)](https://github.com/LeoDog896/conspirasea)
   ([homepage](https://leodog896.github.io/conspirasea)) - make simple yarn-based
   conspiracies
@@ -90,9 +93,6 @@ instead.
 - [svelte-persistent (2)](https://github.com/LeoDog896/svelte-persistent)
   ([homepage](https://leodog896.github.io/svelte-persistent)) - Svelte writables
   for local & session storage
-- [svelte-text-path (2)](https://github.com/LeoDog896/svelte-text-path)
-  ([homepage](https://leodog896.github.io/svelte-text-path/)) - Reactive
-  auto-fitting text-path Svelte library.
 - [svelte-tilt (2)](https://github.com/LeoDog896/svelte-tilt)
   ([homepage](https://leodog896.github.io/svelte-tilt/)) - Tilt library for
   svelte
@@ -110,6 +110,9 @@ instead.
   from videos containing ASL
 - [biotrack (1)](https://github.com/LeoDog896/biotrack) - store information on
   users in private networks
+- [black-footed-ferret (1)](https://github.com/LeoDog896/black-footed-ferret)
+  ([homepage](https://leodog896.github.io/black-footed-ferret/)) - a website to
+  raise awareness of the black footed ferret.
 - [bluebooth (1)](https://github.com/LeoDog896/bluebooth) - No description
   provided.
 - [bookmarklet-editor (1)](https://github.com/LeoDog896/bookmarklet-editor) -
@@ -213,9 +216,6 @@ instead.
   reactive stores
 - [black (0)](https://github.com/LeoDog896/black)
   ([homepage](https://leodog896.github.io/black/)) - for dirty screens
-- [black-footed-ferret (0)](https://github.com/LeoDog896/black-footed-ferret)
-  ([homepage](https://leodog896.github.io/black-footed-ferret/)) - a website to
-  raise awareness of the black footed ferret.
 - [Blog (0)](https://github.com/LeoDog896/Blog) - A modern, light-theme blog
   that uses MongoDB and Bootstrap styling.
 - [BMI (0)](https://github.com/LeoDog896/BMI) - Simple BMI calculator
@@ -562,7 +562,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (299)
+## Forks (300)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -984,6 +984,11 @@ instead.
   ([homepage](https://sindresorhus.com/ow/)) - Function argument validation for
   humans
 - [pakkit](https://github.com/LeoDog896/pakkit) - No description provided.
+- [panel](https://github.com/LeoDog896/panel)
+  ([homepage](https://pterodactyl.io)) - Pterodactyl® is a free, open-source
+  game server management panel built with PHP, React, and Go. Designed with
+  security in mind, Pterodactyl runs all game servers in isolated Docker
+  containers while exposing a beautiful and intuitive UI to end users.
 - [parcel](https://github.com/LeoDog896/parcel)
   ([homepage](https://parceljs.org)) - The zero configuration build tool for the
   web. 📦🚀

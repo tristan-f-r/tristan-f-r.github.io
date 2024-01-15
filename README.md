@@ -121,6 +121,8 @@ instead.
   programatically analyze boolean logic
 - [build-themes (1)](https://github.com/LeoDog896/build-themes) - a repo of
   hypixel build themes (easily sortable)
+- [cloud-url-resolver (1)](https://github.com/LeoDog896/cloud-url-resolver) -
+  easily resolve protocol/port setups on any development platform
 - [co-authored-by-deno (1)](https://github.com/LeoDog896/co-authored-by-deno)
   ([homepage](https://co-authored-by.deno.dev)) - deno deploy function for
   co-authored-by
@@ -230,8 +232,6 @@ instead.
 - [Chat (0)](https://github.com/LeoDog896/Chat) - Just another Chat plugin
 - [chessground-triage-click-positioning (0)](https://github.com/LeoDog896/chessground-triage-click-positioning) -
   triage for chessground for silly positioning issue
-- [cloud-url-resolver (0)](https://github.com/LeoDog896/cloud-url-resolver) -
-  easily resolve protocol/port setups on any development platform
 - [code-and-crypt (0)](https://github.com/LeoDog896/code-and-crypt) - visualize
   codes and cryptography methods
 - [countdown (0)](https://github.com/LeoDog896/countdown) - simple countdown

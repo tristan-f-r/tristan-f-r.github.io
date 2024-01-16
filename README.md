@@ -18,7 +18,7 @@ instead.
 - [npm-rank (13)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
-- [svelte-reparent (7)](https://github.com/LeoDog896/svelte-reparent)
+- [svelte-reparent (8)](https://github.com/LeoDog896/svelte-reparent)
   ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
   with ease in svelte
 - [maxwell (6)](https://github.com/LeoDog896/maxwell)

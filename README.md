@@ -87,6 +87,9 @@ instead.
 - [sim (2)](https://github.com/LeoDog896/sim)
   ([homepage](https://leodog896.github.io/sim/)) - implementation of sim (the
   game)
+- [stun-only-rtc (2)](https://github.com/LeoDog896/stun-only-rtc)
+  ([homepage](https://leodog896.github.io/stun-only-rtc/)) - WebRTC server demo
+  with only a stun server
 - [svelte-mosaic (2)](https://github.com/LeoDog896/svelte-mosaic)
   ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
   window manager
@@ -177,9 +180,6 @@ instead.
 - [sphere-coordinates-ts (1)](https://github.com/LeoDog896/sphere-coordinates-ts) -
   implementation of Jonathan Kogan's method for sphere coordinates in
   TypeScript - Deno / Node
-- [stun-only-rtc (1)](https://github.com/LeoDog896/stun-only-rtc)
-  ([homepage](https://leodog896.github.io/stun-only-rtc/)) - WebRTC server demo
-  with only a stun server
 - [svelte-deferred (1)](https://github.com/LeoDog896/svelte-deferred) - make
   deferred calls to various libraries
 - [svelte-styling (1)](https://github.com/LeoDog896/svelte-styling) - organized

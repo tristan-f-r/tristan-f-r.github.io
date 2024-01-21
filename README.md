@@ -113,6 +113,8 @@ instead.
   from videos containing ASL
 - [biotrack (1)](https://github.com/LeoDog896/biotrack) - store information on
   users in private networks
+- [black (1)](https://github.com/LeoDog896/black)
+  ([homepage](https://leodog896.github.io/black/)) - for dirty screens
 - [black-footed-ferret (1)](https://github.com/LeoDog896/black-footed-ferret)
   ([homepage](https://leodog896.github.io/black-footed-ferret/)) - a website to
   raise awareness of the black footed ferret.
@@ -216,8 +218,6 @@ instead.
 - [bingo (0)](https://github.com/LeoDog896/bingo) - bingo simulator
 - [bird (0)](https://github.com/LeoDog896/bird) - flyd for deno -- low-level
   reactive stores
-- [black (0)](https://github.com/LeoDog896/black)
-  ([homepage](https://leodog896.github.io/black/)) - for dirty screens
 - [Blog (0)](https://github.com/LeoDog896/Blog) - A modern, light-theme blog
   that uses MongoDB and Bootstrap styling.
 - [BMI (0)](https://github.com/LeoDog896/BMI) - Simple BMI calculator

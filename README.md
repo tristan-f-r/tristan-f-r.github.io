@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (265)
+## Projects (266)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -505,6 +505,8 @@ instead.
   flexible DOM-based svelte inventory and management system
 - [svelte-stopwatch (0)](https://github.com/LeoDog896/svelte-stopwatch) - time
   tracker for svelte
+- [svelte-svg-wave (0)](https://github.com/LeoDog896/svelte-svg-wave) - make
+  beautiful svg waves in seconds of writing code
 - [svelte-xterm (0)](https://github.com/LeoDog896/svelte-xterm) - xterm.js
   wrapper for svelte
 - [sveltekit-messanger-socket-io (0)](https://github.com/LeoDog896/sveltekit-messanger-socket-io) -

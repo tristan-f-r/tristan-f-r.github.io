@@ -42,6 +42,8 @@ instead.
 - [ferret_api (3)](https://github.com/LeoDog896/ferret_api)
   ([homepage](https://leodog896.github.io/ferret_api/)) - collection of ferret
   images
+- [gitpod-deno (3)](https://github.com/LeoDog896/gitpod-deno) - A simple script
+  that adds support for deno in gitpod.
 - [jigsawable (3)](https://github.com/LeoDog896/jigsawable) - jigsaw game in
   godot, demonstrating the `godot-jigsaw` repository example
 - [redos.deno (3)](https://github.com/LeoDog896/redos.deno) - check for ReDoS
@@ -57,6 +59,8 @@ instead.
 - [svelte-text-path (3)](https://github.com/LeoDog896/svelte-text-path)
   ([homepage](https://leodog896.github.io/svelte-text-path/)) - Reactive
   auto-fitting text-path Svelte library.
+- [cloud-url-resolver (2)](https://github.com/LeoDog896/cloud-url-resolver) -
+  easily resolve protocol/port setups on any development platform
 - [conspirasea (2)](https://github.com/LeoDog896/conspirasea)
   ([homepage](https://leodog896.github.io/conspirasea)) - make simple yarn-based
   conspiracies
@@ -69,8 +73,6 @@ instead.
 - [ferret_images (2)](https://github.com/LeoDog896/ferret_images)
   ([homepage](https://leodog896.github.io/ferret_api/business)) - collection of
   ferret images, in use with ferret_api
-- [gitpod-deno (2)](https://github.com/LeoDog896/gitpod-deno) - A simple script
-  that adds support for deno in gitpod.
 - [godot-jigsaw (2)](https://github.com/LeoDog896/godot-jigsaw) - jigsaw example
   in godot
 - [jsnow (2)](https://github.com/LeoDog896/jsnow)
@@ -126,8 +128,6 @@ instead.
   programatically analyze boolean logic
 - [build-themes (1)](https://github.com/LeoDog896/build-themes) - a repo of
   hypixel build themes (easily sortable)
-- [cloud-url-resolver (1)](https://github.com/LeoDog896/cloud-url-resolver) -
-  easily resolve protocol/port setups on any development platform
 - [co-authored-by-deno (1)](https://github.com/LeoDog896/co-authored-by-deno)
   ([homepage](https://co-authored-by.deno.dev)) - deno deploy function for
   co-authored-by

@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (266)
+## Projects (268)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -56,6 +56,9 @@ instead.
 - [svelte-monaco (3)](https://github.com/LeoDog896/svelte-monaco)
   ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
   integration
+- [svelte-mosaic (3)](https://github.com/LeoDog896/svelte-mosaic)
+  ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
+  window manager
 - [svelte-text-path (3)](https://github.com/LeoDog896/svelte-text-path)
   ([homepage](https://leodog896.github.io/svelte-text-path/)) - Reactive
   auto-fitting text-path Svelte library.
@@ -92,9 +95,6 @@ instead.
 - [stun-only-rtc (2)](https://github.com/LeoDog896/stun-only-rtc)
   ([homepage](https://leodog896.github.io/stun-only-rtc/)) - WebRTC server demo
   with only a stun server
-- [svelte-mosaic (2)](https://github.com/LeoDog896/svelte-mosaic)
-  ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
-  window manager
 - [svelte-persistent (2)](https://github.com/LeoDog896/svelte-persistent)
   ([homepage](https://leodog896.github.io/svelte-persistent)) - Svelte writables
   for local & session storage
@@ -207,6 +207,8 @@ instead.
   ([homepage](https://leodog896.github.io/arrowtype/)) - arrow typing program
 - [asciipinski (0)](https://github.com/LeoDog896/asciipinski) - Make ascii
   sierpiński triangles
+- [auth70-bodyguard-triage (0)](https://github.com/LeoDog896/auth70-bodyguard-triage) -
+  triage repository for https://github.com/auth70/bodyguard/issues/1
 - [base-n-finder (0)](https://github.com/LeoDog896/base-n-finder) - find numbers
   of 2^n that start with some Value
 - [base64id (0)](https://github.com/LeoDog896/base64id) - base64id port to deno
@@ -458,6 +460,8 @@ instead.
   Manifest and icon generator for PWAs, in a rollup plugin.
 - [roomloom (0)](https://github.com/LeoDog896/roomloom) - Create peer to peer
   rooms.
+- [rrule-collision (0)](https://github.com/LeoDog896/rrule-collision) - check if
+  N rrules collide with eachother (and where)
 - [rural (0)](https://github.com/LeoDog896/rural) - read pages as markdown files
   in your CLI
 - [rust-out (0)](https://github.com/LeoDog896/rust-out) - No description
@@ -564,7 +568,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (300)
+## Forks (302)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1040,6 +1044,8 @@ instead.
   that exports Quizlet study sets into a variety of file formats.
 - [rayon](https://github.com/LeoDog896/rayon) - Rayon: A data parallelism
   library for Rust
+- [RegexScalpel](https://github.com/LeoDog896/RegexScalpel) - No description
+  provided.
 - [registry-1](https://github.com/LeoDog896/registry-1) - npm registry
   documentation
 - [ReignOkeefe](https://github.com/LeoDog896/ReignOkeefe) - Reign O'Keefe
@@ -1053,6 +1059,10 @@ instead.
   ([homepage](https://rollupjs.org)) - Next-generation ES module bundler
 - [rollup-plugin-polyfill](https://github.com/LeoDog896/rollup-plugin-polyfill) -
   Rollup Plugin to Include a Polyfill
+- [rrule](https://github.com/LeoDog896/rrule)
+  ([homepage](https://jkbrzt.github.io/rrule)) - JavaScript library for working
+  with recurrence rules for calendar dates as defined in the iCalendar RFC and
+  more.
 - [rubygems.org](https://github.com/LeoDog896/rubygems.org)
   ([homepage](https://rubygems.org)) - The Ruby community's gem hosting service.
 - [rust-lightning](https://github.com/LeoDog896/rust-lightning) - A highly

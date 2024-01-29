@@ -444,7 +444,8 @@ instead.
   githubrawcontent URLs straight in github
 - [reaction (0)](https://github.com/LeoDog896/reaction) - reaction speed
   calculator based on traffic lights
-- [redos (0)](https://github.com/LeoDog896/redos) - fast redos prevention in
+- [redos (0)](https://github.com/LeoDog896/redos)
+  ([homepage](https://leodog896.github.io/redos/)) - fast redos prevention in
   your codebase
 - [red_deno (0)](https://github.com/LeoDog896/red_deno) - red deno permissions
   that you should not use
@@ -568,7 +569,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (302)
+## Forks (304)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -775,6 +776,8 @@ instead.
   example extension for Minestom
 - [ExampleMod](https://github.com/LeoDog896/ExampleMod) - Electron Mod for
   Mindustry
+- [fancy-regex](https://github.com/LeoDog896/fancy-regex) - Rust library for
+  regular expressions using "fancy" features like look-around and backreferences
 - [fast-deep-equal](https://github.com/LeoDog896/fast-deep-equal) - The fastest
   deep equality check with Date, RegExp and ES6 Map, Set and typed arrays
   support
@@ -1072,6 +1075,8 @@ instead.
   implementation of a socket.io client written in the Rust programming language.
 - [rust-urlpattern](https://github.com/LeoDog896/rust-urlpattern) - Rust
   implementation of the `URLPattern` web API
+- [rust-yaml](https://github.com/LeoDog896/rust-yaml) - A pure rust YAML
+  implementation; fork of yaml-rust
 - [rustcat](https://github.com/LeoDog896/rustcat)
   ([homepage](https://git.io/rustcat)) - Rustcat(rcat) - The modern Port
   listener and Reverse shell

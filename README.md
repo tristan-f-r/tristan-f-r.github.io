@@ -569,7 +569,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (304)
+## Forks (305)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -618,6 +618,8 @@ instead.
 - [babel-handbook](https://github.com/LeoDog896/babel-handbook)
   ([homepage](https://git.io/babel-handbook)) - :blue_book: A guided handbook on
   how to use Babel and how to create plugins for Babel.
+- [beehave](https://github.com/LeoDog896/beehave)
+  ([homepage](https://bitbra.in/beehave)) - 🐝 behavior tree AI for Godot Engine
 - [bezierjs](https://github.com/LeoDog896/bezierjs) - A nodejs and client-side
   library for (cubic) Bezier curve work
 - [BileTools](https://github.com/LeoDog896/BileTools) - Tools for making garbage

@@ -27,7 +27,7 @@ instead.
 - [svelte-mathquill (6)](https://github.com/LeoDog896/svelte-mathquill)
   ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
-- [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
+- [beggar-my-neighbour (5)](https://github.com/LeoDog896/beggar-my-neighbour) -
   solving an unsolved problem in combinatorial mathematics
 - [co-authored-by (4)](https://github.com/LeoDog896/co-authored-by)
   ([homepage](https://leodog896.github.io/co-authored-by/)) - generate

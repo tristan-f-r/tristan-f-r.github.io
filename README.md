@@ -569,7 +569,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (306)
+## Forks (309)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -818,8 +818,15 @@ instead.
   attaches to anywhere.
 - [gluesql-js](https://github.com/LeoDog896/gluesql-js) - GlueSQL JavaScript
   Interface
+- [godot](https://github.com/LeoDog896/godot)
+  ([homepage](https://godotengine.org)) - Godot Engine – Multi-platform 2D and
+  3D game engine
 - [godot-demo-projects](https://github.com/LeoDog896/godot-demo-projects)
   ([homepage](https://godotengine.org)) - Demonstration and Template Projects
+- [godot-vscode-plugin](https://github.com/LeoDog896/godot-vscode-plugin) -
+  Godot development tools for VSCode
+- [GodSVG](https://github.com/LeoDog896/GodSVG) - An application in early
+  development for creating simple vector graphics. Built in Godot.
 - [google-font-metadata](https://github.com/LeoDog896/google-font-metadata) - A
   metadata generator that fetches and parses the Google Fonts API.
 - [grass](https://github.com/LeoDog896/grass)

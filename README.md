@@ -169,6 +169,8 @@ instead.
 - [point-visualizer (1)](https://github.com/LeoDog896/point-visualizer)
   ([homepage](https://leodog896.github.io/point-visualizer/)) - webpage for
   serializable visualization of points in 3D space
+- [primeish (1)](https://github.com/LeoDog896/primeish) - various prime
+  utilities in a CLI
 - [ProxyPane (1)](https://github.com/LeoDog896/ProxyPane) - Browse the web on
   another machine.
 - [qrupcode (1)](https://github.com/LeoDog896/qrupcode) - Data-driven QR code
@@ -429,8 +431,6 @@ instead.
   demonstration of various ways to construct a sphere
 - [pona (0)](https://github.com/LeoDog896/pona) - Check if your repositories are
   OK! (tree-shakeable, ES6 module, TypeScript-ready, and more)
-- [primeish (0)](https://github.com/LeoDog896/primeish) - various prime
-  utilities in a CLI
 - [puct (0)](https://github.com/LeoDog896/puct) - No description provided.
 - [quizada (0)](https://github.com/LeoDog896/quizada) - No description provided.
 - [Quizvertor (0)](https://github.com/LeoDog896/Quizvertor) - Browser extension
@@ -569,7 +569,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (309)
+## Forks (310)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1224,6 +1224,9 @@ instead.
   ([homepage](https://docs.rs/tokio_udt)) - No description provided.
 - [toml.dart](https://github.com/LeoDog896/toml.dart) - TOML parser and encoder
   for Dart.
+- [tree-sitter-gdscript](https://github.com/LeoDog896/tree-sitter-gdscript)
+  ([homepage](https://www.npmjs.com/package/tree-sitter-gdscript)) - Tree sitter
+  grammar for Godot's GDScript
 - [TropicalShadow](https://github.com/LeoDog896/TropicalShadow) - MEEE
 - [trpc](https://github.com/LeoDog896/trpc) ([homepage](https://tRPC.io)) - 🧙‍♀️
   Move Fast and Break Nothing. End-to-end typesafe APIs made easy.

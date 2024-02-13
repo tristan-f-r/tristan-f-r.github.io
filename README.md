@@ -18,7 +18,7 @@ instead.
 - [npm-rank (14)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
-- [svelte-reparent (9)](https://github.com/LeoDog896/svelte-reparent)
+- [svelte-reparent (10)](https://github.com/LeoDog896/svelte-reparent)
   ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
   with ease in svelte
 - [maxwell (6)](https://github.com/LeoDog896/maxwell)
@@ -569,7 +569,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (310)
+## Forks (312)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1077,6 +1077,9 @@ instead.
   more.
 - [rubygems.org](https://github.com/LeoDog896/rubygems.org)
   ([homepage](https://rubygems.org)) - The Ruby community's gem hosting service.
+- [rust](https://github.com/LeoDog896/rust)
+  ([homepage](https://www.rust-lang.org)) - Empowering everyone to build
+  reliable and efficient software.
 - [rust-lightning](https://github.com/LeoDog896/rust-lightning) - A highly
   modular Bitcoin Lightning library written in Rust. It's rust-lightning, not
   Rusty's Lightning!
@@ -1089,6 +1092,8 @@ instead.
 - [rustcat](https://github.com/LeoDog896/rustcat)
   ([homepage](https://git.io/rustcat)) - Rustcat(rcat) - The modern Port
   listener and Reverse shell
+- [rustfmt](https://github.com/LeoDog896/rustfmt)
+  ([homepage](https://rust-lang.github.io/rustfmt/)) - Format Rust code
 - [rustle](https://github.com/LeoDog896/rustle) - Svelte compiler rewritten in
   Rust
 - [rustyline](https://github.com/LeoDog896/rustyline)

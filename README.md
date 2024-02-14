@@ -46,6 +46,8 @@ instead.
   that adds support for deno in gitpod.
 - [jigsawable (3)](https://github.com/LeoDog896/jigsawable) - jigsaw game in
   godot, demonstrating the `godot-jigsaw` repository example
+- [jsnow (3)](https://github.com/LeoDog896/jsnow)
+  ([homepage](https://now.js.org)) - no clutter. just js, now.
 - [redos.deno (3)](https://github.com/LeoDog896/redos.deno) - check for ReDoS
   vulnerabilities in code.
 - [rotator (3)](https://github.com/LeoDog896/rotator)
@@ -78,8 +80,6 @@ instead.
   ferret images, in use with ferret_api
 - [godot-jigsaw (2)](https://github.com/LeoDog896/godot-jigsaw) - jigsaw example
   in godot
-- [jsnow (2)](https://github.com/LeoDog896/jsnow)
-  ([homepage](https://now.js.org)) - no clutter. just js, now.
 - [lyricly (2)](https://github.com/LeoDog896/lyricly) - song lyrics in the cli
 - [math (2)](https://github.com/LeoDog896/math) - No description provided.
 - [MCInstall (2)](https://github.com/LeoDog896/MCInstall) - MultiMC installation
@@ -569,7 +569,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (312)
+## Forks (313)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1054,6 +1054,9 @@ instead.
   support
 - [Quizlet-Exporter](https://github.com/LeoDog896/Quizlet-Exporter) - Website
   that exports Quizlet study sets into a variety of file formats.
+- [rapier.js](https://github.com/LeoDog896/rapier.js)
+  ([homepage](https://rapier.rs)) - Official JavaScript bindings for the Rapier
+  physics engine.
 - [rayon](https://github.com/LeoDog896/rayon) - Rayon: A data parallelism
   library for Rust
 - [RegexScalpel](https://github.com/LeoDog896/RegexScalpel) - No description

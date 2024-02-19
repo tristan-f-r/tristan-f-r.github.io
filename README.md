@@ -15,7 +15,7 @@ instead.
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
-- [npm-rank (14)](https://github.com/LeoDog896/npm-rank)
+- [npm-rank (15)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
 - [svelte-reparent (10)](https://github.com/LeoDog896/svelte-reparent)
@@ -28,7 +28,7 @@ instead.
   ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
 - [beggar-my-neighbour (5)](https://github.com/LeoDog896/beggar-my-neighbour) -
-  solving an unsolved problem in combinatorial mathematics
+  solving an irrelevant unsolved problem in combinatorial mathematics
 - [co-authored-by (4)](https://github.com/LeoDog896/co-authored-by)
   ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
   co-authored-by descriptions & emails for authors

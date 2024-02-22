@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (268)
+## Projects (269)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -556,6 +556,8 @@ instead.
   cipher implementation in deno
 - [vmath (0)](https://github.com/LeoDog896/vmath) - simple virtual math homework
   typer
+- [web-connection (0)](https://github.com/LeoDog896/web-connection) - connect to
+  rdp, ssh, etc.. clients with a browser extension
 - [web-puzzle-jigsaw-demo (0)](https://github.com/LeoDog896/web-puzzle-jigsaw-demo) -
   demonstration of fun jigsaw puzzle generation
 - [webrtc-media (0)](https://github.com/LeoDog896/webrtc-media) - webrtc wrapper

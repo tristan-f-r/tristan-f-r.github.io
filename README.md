@@ -53,6 +53,9 @@ instead.
 - [rotator (3)](https://github.com/LeoDog896/rotator)
   ([homepage](https://leodog896.github.io/rotator/)) - reupload of source code
   from https://gitlab.com/jonot-cyber/rotate-game
+- [scannable (3)](https://github.com/LeoDog896/scannable)
+  ([homepage](https://leodog896.github.io/scannable/)) - QR code generation for
+  a modern web
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
   vite template
 - [svelte-monaco (3)](https://github.com/LeoDog896/svelte-monaco)
@@ -86,9 +89,6 @@ instead.
   script for linux.
 - [motion-canvas-3d (2)](https://github.com/LeoDog896/motion-canvas-3d) -
   motion-canvas 3d integration
-- [scannable (2)](https://github.com/LeoDog896/scannable)
-  ([homepage](https://leodog896.github.io/scannable/)) - QR code generation for
-  a modern web
 - [sim (2)](https://github.com/LeoDog896/sim)
   ([homepage](https://leodog896.github.io/sim/)) - implementation of sim (the
   game)
@@ -533,8 +533,8 @@ instead.
   provided.
 - [ts-lesson (0)](https://github.com/LeoDog896/ts-lesson) - make custom lessons
   with test suites for js / ts
-- [tsa-2024 (0)](https://github.com/LeoDog896/tsa-2024) - No description
-  provided.
+- [tsa-2024 (0)](https://github.com/LeoDog896/tsa-2024)
+  ([homepage](https://leodog896.github.io/tsa-2024/)) - No description provided.
 - [twitter-clone (0)](https://github.com/LeoDog896/twitter-clone)
   ([homepage](https://leodog896.github.io/twitter-clone)) - twitter without all
   the bad things

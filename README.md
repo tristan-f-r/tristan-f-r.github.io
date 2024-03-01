@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (270)
+## Projects (269)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -533,8 +533,6 @@ instead.
   provided.
 - [ts-lesson (0)](https://github.com/LeoDog896/ts-lesson) - make custom lessons
   with test suites for js / ts
-- [tsa-2024 (0)](https://github.com/LeoDog896/tsa-2024)
-  ([homepage](https://leodog896.github.io/tsa-2024/)) - No description provided.
 - [twitter-clone (0)](https://github.com/LeoDog896/twitter-clone)
   ([homepage](https://leodog896.github.io/twitter-clone)) - twitter without all
   the bad things

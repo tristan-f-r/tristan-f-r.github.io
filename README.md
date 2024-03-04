@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (269)
+## Projects (270)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -516,6 +516,8 @@ instead.
   wrapper for svelte
 - [sveltekit-messanger-socket-io (0)](https://github.com/LeoDog896/sveltekit-messanger-socket-io) -
   basic sveltekit socket io messanger
+- [t-square-fractal (0)](https://github.com/LeoDog896/t-square-fractal) - No
+  description provided.
 - [text-gradient (0)](https://github.com/LeoDog896/text-gradient) - copy silly
   little text gradients to your favorite WYSWIG editors
 - [thequeen (0)](https://github.com/LeoDog896/thequeen) - the queen was cool
@@ -571,7 +573,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (313)
+## Forks (314)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1082,6 +1084,8 @@ instead.
   more.
 - [rubygems.org](https://github.com/LeoDog896/rubygems.org)
   ([homepage](https://rubygems.org)) - The Ruby community's gem hosting service.
+- [rurel](https://github.com/LeoDog896/rurel) - Flexible, reusable reinforcement
+  learning (Q learning) implementation in Rust
 - [rust](https://github.com/LeoDog896/rust)
   ([homepage](https://www.rust-lang.org)) - Empowering everyone to build
   reliable and efficient software.

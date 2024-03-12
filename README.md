@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (271)
+## Projects (272)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -15,7 +15,7 @@ instead.
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
-- [npm-rank (16)](https://github.com/LeoDog896/npm-rank)
+- [npm-rank (17)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
 - [svelte-reparent (11)](https://github.com/LeoDog896/svelte-reparent)
@@ -203,6 +203,8 @@ instead.
 - [twind-colors (1)](https://github.com/LeoDog896/twind-colors)
   ([homepage](https://leodog896.github.io/twind-colors/)) - Online copyable
   cheatsheet/list of twind colors.
+- [wenv (1)](https://github.com/LeoDog896/wenv) - environment variable editor
+  application for windows
 - [ansi-editor (0)](https://github.com/LeoDog896/ansi-editor) - web-based ANSI
   text code editor
 - [ansi-timeline (0)](https://github.com/LeoDog896/ansi-timeline) - upload an
@@ -227,6 +229,8 @@ instead.
 - [Blog (0)](https://github.com/LeoDog896/Blog) - A modern, light-theme blog
   that uses MongoDB and Bootstrap styling.
 - [BMI (0)](https://github.com/LeoDog896/BMI) - Simple BMI calculator
+- [brainhuh (0)](https://github.com/LeoDog896/brainhuh) - brainf compiler &
+  executor
 - [breathe (0)](https://github.com/LeoDog896/breathe)
   ([homepage](https://leodog896.github.io/breathe/)) - a simple and short
   breathing exercise, for as long as you need.
@@ -566,8 +570,6 @@ instead.
   demonstration of fun jigsaw puzzle generation
 - [webrtc-media (0)](https://github.com/LeoDog896/webrtc-media) - webrtc wrapper
   utility for handling v4l2 and rstp devices
-- [wenv (0)](https://github.com/LeoDog896/wenv) - environment variable editor
-  application for windows
 - [wessel (0)](https://github.com/LeoDog896/wessel) - wasm docker vessel
 - [WidgetMake (0)](https://github.com/LeoDog896/WidgetMake) - Widget maker (GCC
   competition)
@@ -575,7 +577,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (314)
+## Forks (315)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -763,6 +765,8 @@ instead.
   and lightweight HTML5 UI controls for building modern web applications.
 - [ElCriCri-Website](https://github.com/LeoDog896/ElCriCri-Website) - No
   description provided.
+- [elf2uf2-rs](https://github.com/LeoDog896/elf2uf2-rs) - No description
+  provided.
 - [emojilib](https://github.com/LeoDog896/emojilib)
   ([homepage](https://unpkg.com/emojilib@latest)) - Emoji keyword library.
 - [epubcheck](https://github.com/LeoDog896/epubcheck)

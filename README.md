@@ -577,7 +577,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (315)
+## Forks (316)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1195,6 +1195,9 @@ instead.
 - [svelte-fa](https://github.com/LeoDog896/svelte-fa)
   ([homepage](https://cweili.github.io/svelte-fa/)) - Tiny FontAwesome 5
   component for Svelte
+- [svelte-french-toast](https://github.com/LeoDog896/svelte-french-toast)
+  ([homepage](https://svelte-french-toast.vercel.app/)) - 🍞🥂 Buttery smooth
+  toast notifications for Svelte
 - [svelte-highlight](https://github.com/LeoDog896/svelte-highlight)
   ([homepage](https://svhe.onrender.com)) - Syntax Highlighting for Svelte using
   highlight.js

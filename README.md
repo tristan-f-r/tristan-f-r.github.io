@@ -11,7 +11,7 @@ instead.
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [awesome-minestom (35)](https://github.com/LeoDog896/awesome-minestom) - A
+- [awesome-minestom (36)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
@@ -36,6 +36,9 @@ instead.
   lichess board implementation for minecraft.
 - [type (4)](https://github.com/LeoDog896/type)
   ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
+- [biotrack (3)](https://github.com/LeoDog896/biotrack)
+  ([homepage](https://leodog896.github.io/biotrack/)) - store information on
+  users in private networks
 - [chessground-anim (3)](https://github.com/LeoDog896/chessground-anim)
   ([homepage](https://leodog896.github.io/chessground-anim/)) - animate pgn with
   chessground
@@ -115,8 +118,6 @@ instead.
 - [asl-caption (1)](https://github.com/LeoDog896/asl-caption)
   ([homepage](https://leodog896.github.io/asl-caption/)) - generate captions
   from videos containing ASL
-- [biotrack (1)](https://github.com/LeoDog896/biotrack) - store information on
-  users in private networks
 - [black (1)](https://github.com/LeoDog896/black)
   ([homepage](https://leodog896.github.io/black/)) - for dirty screens
 - [black-footed-ferret (1)](https://github.com/LeoDog896/black-footed-ferret)

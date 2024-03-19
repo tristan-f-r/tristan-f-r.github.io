@@ -11,7 +11,7 @@ instead.
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [awesome-minestom (36)](https://github.com/LeoDog896/awesome-minestom) - A
+- [awesome-minestom (37)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
@@ -21,12 +21,12 @@ instead.
 - [svelte-reparent (11)](https://github.com/LeoDog896/svelte-reparent)
   ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
   with ease in svelte
+- [svelte-mathquill (7)](https://github.com/LeoDog896/svelte-mathquill)
+  ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
+  wrapper for Svelte
 - [maxwell (6)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
-- [svelte-mathquill (6)](https://github.com/LeoDog896/svelte-mathquill)
-  ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
-  wrapper for Svelte
 - [beggar-my-neighbour (5)](https://github.com/LeoDog896/beggar-my-neighbour) -
   solving an irrelevant unsolved problem in combinatorial mathematics
 - [co-authored-by (4)](https://github.com/LeoDog896/co-authored-by)

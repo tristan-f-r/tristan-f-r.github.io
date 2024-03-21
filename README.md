@@ -6,14 +6,14 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (272)
+## Projects (276)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
 - [awesome-minestom (37)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
-- [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find
+- [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
 - [npm-rank (17)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
@@ -495,6 +495,18 @@ instead.
   web playground for sqlparser
 - [statico (0)](https://github.com/LeoDog896/statico) - client-side static site
   maker
+- [stem-carnival-pinball (0)](https://github.com/LeoDog896/stem-carnival-pinball)
+  ([homepage](https://leodog896.github.io/stem-carnival-pinball/)) - pinball
+  game from stem carnival
+- [stem-carnival-sidescroller (0)](https://github.com/LeoDog896/stem-carnival-sidescroller)
+  ([homepage](https://leodog896.github.io/stem-carnival-sidescroller/)) - side
+  scroller game from stem carnival
+- [stem-carnival-slots (0)](https://github.com/LeoDog896/stem-carnival-slots)
+  ([homepage](https://leodog896.github.io/stem-carnival-slots/)) - slots game
+  from stem carnival
+- [stem-carnival-topdown (0)](https://github.com/LeoDog896/stem-carnival-topdown)
+  ([homepage](https://leodog896.github.io/stem-carnival-topdown/)) - top down
+  game from stem carnival
 - [stitch (0)](https://github.com/LeoDog896/stitch) - component-driven UI
   framework for minestom
 - [stream-frame (0)](https://github.com/LeoDog896/stream-frame) - Web editor

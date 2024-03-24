@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (276)
+## Projects (277)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -182,6 +182,8 @@ instead.
   demonstration via an arrow board of reliability vs validity with a gizmo
 - [shine (1)](https://github.com/LeoDog896/shine) - shadow file cracker mainly
   for CTF
+- [signal-async (1)](https://github.com/LeoDog896/signal-async) - asynchronous
+  signals from different places in ts
 - [sonatokipona.github.io (1)](https://github.com/LeoDog896/sonatokipona.github.io) -
   Toki Pona Sona
 - [sphere-coordinates-ts (1)](https://github.com/LeoDog896/sphere-coordinates-ts) -

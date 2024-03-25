@@ -592,7 +592,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (316)
+## Forks (317)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -959,6 +959,8 @@ instead.
   easily as writing!
 - [matter-js](https://github.com/LeoDog896/matter-js) - a 2D rigid body physics
   engine for the web ▲● ■
+- [MCHPRS](https://github.com/LeoDog896/MCHPRS) - A multithreaded Minecraft
+  server built for redstone.
 - [MDsveX](https://github.com/LeoDog896/MDsveX)
   ([homepage](https://mdsvex.pngwn.io)) - A markdown preprocessor for Svelte.
 - [mermaid](https://github.com/LeoDog896/mermaid)

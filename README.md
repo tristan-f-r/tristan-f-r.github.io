@@ -34,6 +34,9 @@ instead.
   co-authored-by descriptions & emails for authors
 - [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
   lichess board implementation for minecraft.
+- [svelte-monaco (4)](https://github.com/LeoDog896/svelte-monaco)
+  ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
+  integration
 - [type (4)](https://github.com/LeoDog896/type)
   ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
 - [biotrack (3)](https://github.com/LeoDog896/biotrack)
@@ -61,9 +64,6 @@ instead.
   a modern web
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
   vite template
-- [svelte-monaco (3)](https://github.com/LeoDog896/svelte-monaco)
-  ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
-  integration
 - [svelte-mosaic (3)](https://github.com/LeoDog896/svelte-mosaic)
   ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
   window manager

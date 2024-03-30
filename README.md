@@ -592,7 +592,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (317)
+## Forks (318)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1220,6 +1220,8 @@ instead.
   highlight.js
 - [svelte-iconoir](https://github.com/LeoDog896/svelte-iconoir) - Iconoir SVG
   icons to Svelte and SvelteKit.
+- [svelte-inview](https://github.com/LeoDog896/svelte-inview) - A Svelte action
+  that monitors an element enters or leaves the viewport.🔥
 - [svelte-pwa-now](https://github.com/LeoDog896/svelte-pwa-now) - A PWA ready
   Svelte v3.0 starter template with Tailwind, Now integration and optional
   Typescript suppot

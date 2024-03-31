@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (277)
+## Projects (279)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -54,6 +54,8 @@ instead.
   godot, demonstrating the `godot-jigsaw` repository example
 - [jsnow (3)](https://github.com/LeoDog896/jsnow)
   ([homepage](https://now.js.org)) - no clutter. just js, now.
+- [motion-canvas-3d (3)](https://github.com/LeoDog896/motion-canvas-3d) -
+  motion-canvas 3d integration
 - [redos.deno (3)](https://github.com/LeoDog896/redos.deno) - check for ReDoS
   vulnerabilities in code.
 - [rotator (3)](https://github.com/LeoDog896/rotator)
@@ -92,8 +94,6 @@ instead.
 - [math (2)](https://github.com/LeoDog896/math) - No description provided.
 - [MCInstall (2)](https://github.com/LeoDog896/MCInstall) - MultiMC installation
   script for linux.
-- [motion-canvas-3d (2)](https://github.com/LeoDog896/motion-canvas-3d) -
-  motion-canvas 3d integration
 - [sim (2)](https://github.com/LeoDog896/sim)
   ([homepage](https://leodog896.github.io/sim/)) - implementation of sim (the
   game)
@@ -429,6 +429,8 @@ instead.
 - [pata (0)](https://github.com/LeoDog896/pata) - p2p chat app
 - [peerjs.com (0)](https://github.com/LeoDog896/peerjs.com)
   ([homepage](https://peerjs.com)) - Repository of the PeerJS website
+- [perfect-toitent-number (0)](https://github.com/LeoDog896/perfect-toitent-number) -
+  calculates a list of perfect toitent numbers
 - [piano-visualizer (0)](https://github.com/LeoDog896/piano-visualizer)
   ([homepage](https://leodog896.github.io/piano-visualizer/)) - visualize midi
   music
@@ -478,6 +480,8 @@ instead.
   provided.
 - [rustun-cli (0)](https://github.com/LeoDog896/rustun-cli) - A Rust CLI for
   running STUN server and client asynchronously
+- [safetensors-viewer (0)](https://github.com/LeoDog896/safetensors-viewer) -
+  tiny web safetensors viewer
 - [siki (0)](https://github.com/LeoDog896/siki) - simple wikipedia explanations
   (rust)
 - [Skript-Editor (0)](https://github.com/LeoDog896/Skript-Editor) - An editor
@@ -592,7 +596,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (318)
+## Forks (319)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -825,6 +829,9 @@ instead.
 - [flank](https://github.com/LeoDog896/flank)
   ([homepage](https://firebase.community/)) - :speedboat: Massively parallel
   Android and iOS test runner for Firebase Test Lab
+- [font-files](https://github.com/LeoDog896/font-files)
+  ([homepage](https://fontsource.org)) - 1500+ open-source fonts bundled into
+  neat packages.
 - [fontsource](https://github.com/LeoDog896/fontsource)
   ([homepage](https://fontsource.org)) - Self-host Open Source fonts in neatly
   bundled NPM packages.

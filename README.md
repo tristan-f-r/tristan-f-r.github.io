@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (279)
+## Projects (280)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -15,7 +15,7 @@ instead.
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
-- [npm-rank (17)](https://github.com/LeoDog896/npm-rank)
+- [npm-rank (18)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
 - [svelte-reparent (11)](https://github.com/LeoDog896/svelte-reparent)
@@ -384,6 +384,8 @@ instead.
 - [making-qr (0)](https://github.com/LeoDog896/making-qr) - a little guide on
   how to make a QR code
 - [marpmarp (0)](https://github.com/LeoDog896/marpmarp) - web editor for marp
+- [massive-text (0)](https://github.com/LeoDog896/massive-text)
+  ([homepage](https://leodog896.github.io/massive-text/)) - big text but massive
 - [mathtype (0)](https://github.com/LeoDog896/mathtype)
   ([homepage](https://leodog896.github.io/mathtype/)) - simple math typer w/
   mathquill
@@ -596,7 +598,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (319)
+## Forks (320)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1309,6 +1311,8 @@ instead.
   Leverages on favicons to automatically generate your favicons for you. And if
   you want to also consolidate your PWA manifest, will generate that as well
   with linked icons.
+- [vite-plugin-wasm-pack](https://github.com/LeoDog896/vite-plugin-wasm-pack) -
+  🦀 Vite plugin for rust wasm-pack
 - [vite-plugin-webfont-dl](https://github.com/LeoDog896/vite-plugin-webfont-dl) -
   ⚡ Webfont Download Vite Plugin - Make your Vite site load faster
 - [voxel-rs](https://github.com/LeoDog896/voxel-rs) - Rust Voxel engine

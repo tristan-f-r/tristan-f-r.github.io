@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (280)
+## Projects (281)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -412,6 +412,8 @@ instead.
   ([homepage](https://leodog896.github.io/n-body/)) - ridiculously rudimentary
   n-body simulation
 - [ngrokify (0)](https://github.com/LeoDog896/ngrokify) - Ngrok UI with egui
+- [nim-sprague-grundy (0)](https://github.com/LeoDog896/nim-sprague-grundy) - No
+  description provided.
 - [npm-total-downloads (0)](https://github.com/LeoDog896/npm-total-downloads) -
   get total NPM downloads from a list of packages
 - [number_enum (0)](https://github.com/LeoDog896/number_enum) - numbers as

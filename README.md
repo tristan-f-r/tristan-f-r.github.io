@@ -600,7 +600,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (320)
+## Forks (321)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1146,6 +1146,9 @@ instead.
 - [rutt](https://github.com/LeoDog896/rutt)
   ([homepage](https://deno.land/x/rutt)) - 🛣️ A tiny and fast http request router
   designed for use with deno and deno deploy
+- [safetensors](https://github.com/LeoDog896/safetensors)
+  ([homepage](https://huggingface.co/docs/safetensors)) - Simple, safe way to
+  store and distribute tensors
 - [serde_nbt](https://github.com/LeoDog896/serde_nbt) - A Serde library for the
   serialization and deserialization of Minecraft's Named Binary Tag format.
 - [serve-handler](https://github.com/LeoDog896/serve-handler)

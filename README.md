@@ -600,7 +600,7 @@ instead.
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (321)
+## Forks (322)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1089,6 +1089,8 @@ instead.
   ([homepage](https://prismlauncher.org)) - The Prism Launcher website.
 - [pylibsrtp](https://github.com/LeoDog896/pylibsrtp) - Python bindings for
   libsrtp
+- [python-playsounds](https://github.com/LeoDog896/python-playsounds) - No
+  description provided.
 - [qs](https://github.com/LeoDog896/qs) - A querystring parser with nesting
   support
 - [Quizlet-Exporter](https://github.com/LeoDog896/Quizlet-Exporter) - Website

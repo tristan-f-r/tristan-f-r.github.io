@@ -72,6 +72,8 @@ instead.
 - [svelte-text-path (3)](https://github.com/LeoDog896/svelte-text-path)
   ([homepage](https://leodog896.github.io/svelte-text-path/)) - Reactive
   auto-fitting text-path Svelte library.
+- [todays-wordle (3)](https://github.com/LeoDog896/todays-wordle) -
+  auto-updating today's wordle
 - [cloud-url-resolver (2)](https://github.com/LeoDog896/cloud-url-resolver) -
   easily resolve protocol/port setups on any development platform
 - [conspirasea (2)](https://github.com/LeoDog896/conspirasea)
@@ -108,8 +110,6 @@ instead.
   svelte
 - [taxevasion.tk (2)](https://github.com/LeoDog896/taxevasion.tk)
   ([homepage](http://taxevasion.tk)) - how to commit tax evasion
-- [todays-wordle (2)](https://github.com/LeoDog896/todays-wordle) -
-  auto-updating today's wordle
 - [webpage (2)](https://github.com/LeoDog896/webpage)
   ([homepage](https://leodog896.com)) - My personal site
 - [allergitaves (1)](https://github.com/LeoDog896/allergitaves)

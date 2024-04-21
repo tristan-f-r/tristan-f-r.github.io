@@ -484,8 +484,9 @@ instead.
   provided.
 - [rustun-cli (0)](https://github.com/LeoDog896/rustun-cli) - A Rust CLI for
   running STUN server and client asynchronously
-- [safetensors-viewer (0)](https://github.com/LeoDog896/safetensors-viewer) -
-  tiny web safetensors viewer
+- [safetensors-viewer (0)](https://github.com/LeoDog896/safetensors-viewer)
+  ([homepage](https://leodog896.github.io/safetensors-viewer/)) - tiny web
+  safetensors viewer
 - [siki (0)](https://github.com/LeoDog896/siki) - simple wikipedia explanations
   (rust)
 - [Skript-Editor (0)](https://github.com/LeoDog896/Skript-Editor) - An editor

@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (281)
+## Projects (280)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -223,7 +223,6 @@ instead.
 - [base64id (0)](https://github.com/LeoDog896/base64id) - base64id port to deno
 - [best-browser (0)](https://github.com/LeoDog896/best-browser) - use the best
   browser
-- [big-type (0)](https://github.com/LeoDog896/big-type) - big text, simple area.
 - [binaryen-action (0)](https://github.com/LeoDog896/binaryen-action) - github
   action for using binaryen CLI tooling
 - [bingo (0)](https://github.com/LeoDog896/bingo) - bingo simulator
@@ -1368,7 +1367,7 @@ instead.
 - [yolov8_onnx_nodejs](https://github.com/LeoDog896/yolov8_onnx_nodejs) - YOLOv8
   inference using Node.js
 
-## Archived (10)
+## Archived (11)
 
 > These projects consist of ideas that were duplicates, libraries that have
 > clear better alternatives, or temporary repositories
@@ -1383,6 +1382,7 @@ instead.
   in deno
 - [svelte-tailwind-barebones (1)](https://github.com/LeoDog896/svelte-tailwind-barebones) -
   Simple barebones tailwind template
+- [big-type (0)](https://github.com/LeoDog896/big-type) - big text, simple area.
 - [dprint-plugin-python (0)](https://github.com/LeoDog896/dprint-plugin-python) -
   Python formatter for dprint (ruff wrapper)
 - [minification-playground (0)](https://github.com/LeoDog896/minification-playground) -

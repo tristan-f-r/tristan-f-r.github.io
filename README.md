@@ -66,6 +66,9 @@ instead.
   a modern web
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
   vite template
+- [stun-only-rtc (3)](https://github.com/LeoDog896/stun-only-rtc)
+  ([homepage](https://leodog896.github.io/stun-only-rtc/)) - WebRTC server demo
+  with only a stun server
 - [svelte-mosaic (3)](https://github.com/LeoDog896/svelte-mosaic)
   ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
   window manager
@@ -99,9 +102,6 @@ instead.
 - [sim (2)](https://github.com/LeoDog896/sim)
   ([homepage](https://leodog896.github.io/sim/)) - implementation of sim (the
   game)
-- [stun-only-rtc (2)](https://github.com/LeoDog896/stun-only-rtc)
-  ([homepage](https://leodog896.github.io/stun-only-rtc/)) - WebRTC server demo
-  with only a stun server
 - [svelte-persistent (2)](https://github.com/LeoDog896/svelte-persistent)
   ([homepage](https://leodog896.github.io/svelte-persistent)) - Svelte writables
   for local & session storage

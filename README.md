@@ -37,6 +37,9 @@ instead.
   co-authored-by descriptions & emails for authors
 - [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
   lichess board implementation for minecraft.
+- [scannable (4)](https://github.com/LeoDog896/scannable)
+  ([homepage](https://leodog896.github.io/scannable/)) - QR code generation for
+  a modern web
 - [type (4)](https://github.com/LeoDog896/type)
   ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
 - [biotrack (3)](https://github.com/LeoDog896/biotrack)
@@ -61,9 +64,6 @@ instead.
 - [rotator (3)](https://github.com/LeoDog896/rotator)
   ([homepage](https://leodog896.github.io/rotator/)) - reupload of source code
   from https://gitlab.com/jonot-cyber/rotate-game
-- [scannable (3)](https://github.com/LeoDog896/scannable)
-  ([homepage](https://leodog896.github.io/scannable/)) - QR code generation for
-  a modern web
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
   vite template
 - [stun-only-rtc (3)](https://github.com/LeoDog896/stun-only-rtc)

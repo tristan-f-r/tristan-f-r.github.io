@@ -29,12 +29,12 @@ instead.
   maxwell fan website
 - [beggar-my-neighbour (5)](https://github.com/LeoDog896/beggar-my-neighbour) -
   solving an irrelevant unsolved problem in combinatorial mathematics
+- [co-authored-by (5)](https://github.com/LeoDog896/co-authored-by)
+  ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
+  co-authored-by descriptions & emails for authors
 - [svelte-monaco (5)](https://github.com/LeoDog896/svelte-monaco)
   ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
   integration
-- [co-authored-by (4)](https://github.com/LeoDog896/co-authored-by)
-  ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
-  co-authored-by descriptions & emails for authors
 - [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
   lichess board implementation for minecraft.
 - [scannable (4)](https://github.com/LeoDog896/scannable)

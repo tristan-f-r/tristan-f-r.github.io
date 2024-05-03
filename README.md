@@ -459,7 +459,7 @@ instead.
 - [reaction (0)](https://github.com/LeoDog896/reaction) - reaction speed
   calculator based on traffic lights
 - [redos (0)](https://github.com/LeoDog896/redos)
-  ([homepage](https://leodog896.github.io/redos/)) - fast redos prevention in
+  ([homepage](https://leodog896.github.io/redos/)) - fast ReDoS prevention in
   your codebase
 - [red_deno (0)](https://github.com/LeoDog896/red_deno) - red deno permissions
   that you should not use

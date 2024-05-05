@@ -75,6 +75,9 @@ instead.
 - [svelte-text-path (3)](https://github.com/LeoDog896/svelte-text-path)
   ([homepage](https://leodog896.github.io/svelte-text-path/)) - Reactive
   auto-fitting text-path Svelte library.
+- [svelte-tilt (3)](https://github.com/LeoDog896/svelte-tilt)
+  ([homepage](https://leodog896.github.io/svelte-tilt/)) - Tilt library for
+  svelte
 - [todays-wordle (3)](https://github.com/LeoDog896/todays-wordle) -
   auto-updating today's wordle
 - [cloud-url-resolver (2)](https://github.com/LeoDog896/cloud-url-resolver) -
@@ -105,9 +108,6 @@ instead.
 - [svelte-persistent (2)](https://github.com/LeoDog896/svelte-persistent)
   ([homepage](https://leodog896.github.io/svelte-persistent)) - Svelte writables
   for local & session storage
-- [svelte-tilt (2)](https://github.com/LeoDog896/svelte-tilt)
-  ([homepage](https://leodog896.github.io/svelte-tilt/)) - Tilt library for
-  svelte
 - [taxevasion.tk (2)](https://github.com/LeoDog896/taxevasion.tk)
   ([homepage](http://taxevasion.tk)) - how to commit tax evasion
 - [webpage (2)](https://github.com/LeoDog896/webpage)

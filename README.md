@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (280)
+## Projects (279)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -364,8 +364,6 @@ instead.
   self, maybe for others?) guide and tips for hackmud
 - [lib-ngrok (0)](https://github.com/LeoDog896/lib-ngrok) - simple ngrok
   downloader and runner
-- [lichess-board (0)](https://github.com/LeoDog896/lichess-board) - deeply
-  integrated lichess boad API in rust
 - [licit (0)](https://github.com/LeoDog896/licit) - robust, framework-agonistic
   type-level permission system
 - [lightsout (0)](https://github.com/LeoDog896/lightsout)
@@ -1367,7 +1365,7 @@ instead.
 - [yolov8_onnx_nodejs](https://github.com/LeoDog896/yolov8_onnx_nodejs) - YOLOv8
   inference using Node.js
 
-## Archived (11)
+## Archived (12)
 
 > These projects consist of ideas that were duplicates, libraries that have
 > clear better alternatives, or temporary repositories
@@ -1385,6 +1383,8 @@ instead.
 - [big-type (0)](https://github.com/LeoDog896/big-type) - big text, simple area.
 - [dprint-plugin-python (0)](https://github.com/LeoDog896/dprint-plugin-python) -
   Python formatter for dprint (ruff wrapper)
+- [lichess-board (0)](https://github.com/LeoDog896/lichess-board) - deeply
+  integrated lichess boad API in rust
 - [minification-playground (0)](https://github.com/LeoDog896/minification-playground) -
   a playground showcasing various JS minifiers for a blog post and for you
 - [parcel-triage-mstile (0)](https://github.com/LeoDog896/parcel-triage-mstile) -

@@ -35,8 +35,8 @@ instead.
 - [svelte-monaco (5)](https://github.com/LeoDog896/svelte-monaco)
   ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
   integration
-- [lichess-minecraft (4)](https://github.com/LeoDog896/lichess-minecraft) -
-  lichess board implementation for minecraft.
+- [licraft (4)](https://github.com/LeoDog896/licraft) - lichess board
+  implementation for minecraft.
 - [scannable (4)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable/)) - QR code generation for
   a modern web

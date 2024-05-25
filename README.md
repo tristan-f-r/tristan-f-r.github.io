@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (279)
+## Projects (280)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -15,7 +15,7 @@ instead.
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
-- [npm-rank (19)](https://github.com/LeoDog896/npm-rank)
+- [npm-rank (20)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
 - [svelte-reparent (12)](https://github.com/LeoDog896/svelte-reparent)
@@ -244,6 +244,8 @@ instead.
 - [Chat (0)](https://github.com/LeoDog896/Chat) - Just another Chat plugin
 - [chessground-triage-click-positioning (0)](https://github.com/LeoDog896/chessground-triage-click-positioning) -
   triage for chessground for silly positioning issue
+- [CirCetz (0)](https://github.com/LeoDog896/CirCetz) - typst+cetz circuit
+  drawing library
 - [code-and-crypt (0)](https://github.com/LeoDog896/code-and-crypt) - visualize
   codes and cryptography methods
 - [countdown (0)](https://github.com/LeoDog896/countdown) - simple countdown

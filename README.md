@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (280)
+## Projects (281)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -366,6 +366,8 @@ instead.
   self, maybe for others?) guide and tips for hackmud
 - [lib-ngrok (0)](https://github.com/LeoDog896/lib-ngrok) - simple ngrok
   downloader and runner
+- [libcamera-http (0)](https://github.com/LeoDog896/libcamera-http) - libcamera
+  video and still streaming for your HTTP clients
 - [licit (0)](https://github.com/LeoDog896/licit) - robust, framework-agonistic
   type-level permission system
 - [lightsout (0)](https://github.com/LeoDog896/lightsout)

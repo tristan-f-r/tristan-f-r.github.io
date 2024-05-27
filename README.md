@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (281)
+## Projects (282)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -488,6 +488,7 @@ instead.
 - [safetensors-viewer (0)](https://github.com/LeoDog896/safetensors-viewer)
   ([homepage](https://leodog896.github.io/safetensors-viewer/)) - tiny web
   safetensors viewer
+- [shrimp (0)](https://github.com/LeoDog896/shrimp) - tiny home assistant
 - [siki (0)](https://github.com/LeoDog896/siki) - simple wikipedia explanations
   (rust)
 - [Skript-Editor (0)](https://github.com/LeoDog896/Skript-Editor) - An editor

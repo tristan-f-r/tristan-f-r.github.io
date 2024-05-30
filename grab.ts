@@ -1,5 +1,23 @@
 import { z } from "https://deno.land/x/zod@v3.21.4/mod.ts";
-import { config } from "https://deno.land/x/dotenv/mod.ts";
+import "https://deno.land/x/dotenv/load.ts";
+
+let {
+  GITHUB_USERNAME,
+  GITHUB_REPO_NAME,
+  WEBSITE_URL,
+} = Deno.env.toObject();
+
+if (!GITHUB_USERNAME) {
+  throw new Error("GITHUB_USERNAME not set in .env");
+}
+
+if(!GITHUB_REPO_NAME){
+  GITHUB_REPO_NAME = `${GITHUB_USERNAME}.github.io`;
+}
+
+if(!WEBSITE_URL){
+  WEBSITE_URL = `${GITHUB_USERNAME}.github.io`;
+}
 
 const repoSchema = z.object({
   name: z.string(),
@@ -16,7 +34,7 @@ type Repo = z.infer<typeof repoSchema>;
 console.log("Fetching repos...");
 async function* getRepos(): AsyncGenerator<Repo, void, void> {
   let url: string | undefined =
-    `https://api.github.com/users/${config().GITHUB_USERNAME}/repos?per_page=100`;
+    `https://api.github.com/users/${GITHUB_USERNAME}/repos?per_page=100`;
 
   while (url) {
     console.log("Querying", url);
@@ -92,11 +110,11 @@ function printData(data: Repo[], showStars: boolean): string {
 }
 
 const markdown =
-  `# [leodog896.github.io](https://github.com/LeoDog896/leodog896.github.io)
+  `# [${GITHUB_REPO_NAME}](https://github.com/${GITHUB_USERNAME}/${GITHUB_REPO_NAME})
 
 these are auto-generated lists of repositories on my account, mainly for catalogue info.
 
-looking for my website? go to [https://leodog896.com](https://leodog896.com) instead.
+looking for my website? go to [${WEBSITE_URL}](${WEBSITE_URL}) instead.
 
 ## Projects (${projects.length})
 

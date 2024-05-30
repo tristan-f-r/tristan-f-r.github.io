@@ -26,6 +26,8 @@ jobs:
         env:
           # Repo Owner username
           GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_REPO_NAME: ${{ github.event.repository.name }}
+          WEBSITE_URL: ${{ github.actor.blog }}
       # auto-commit suggestions
       - uses: stefanzweifel/git-auto-commit-action@v4
       

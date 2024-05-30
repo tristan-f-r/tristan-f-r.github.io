@@ -1,5 +1,8 @@
 {
-  "version": "2",
+  "version": "3",
+  "redirects": {
+    "https://deno.land/x/dotenv/mod.ts": "https://deno.land/x/dotenv@v3.2.2/mod.ts"
+  },
   "remote": {
     "https://cdn.skypack.dev/-/@octokit/app@v13.1.2-va1QJrygJfTYIsD4QwCC/dist=es2019,mode=imports/optimized/@octokit/app.js": "40ab6ee803a5c9776640762bc5339c14fa9376a3c59a998b4f0866fd03521528",
     "https://cdn.skypack.dev/-/@octokit/app@v13.1.2-va1QJrygJfTYIsD4QwCC/dist=es2019,mode=types/dist-types/index.d.ts": "9c2896240f229f340fcbd49265e3e0c6e99a37edb859e29cf8470ade1d7ec5ce",

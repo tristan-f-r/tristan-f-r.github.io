@@ -1,4 +1,5 @@
 import { z } from "https://deno.land/x/zod@v3.21.4/mod.ts";
+import env from "https://deno.land/x/dotenv/mod.ts";
 
 const repoSchema = z.object({
   name: z.string(),
@@ -15,7 +16,7 @@ type Repo = z.infer<typeof repoSchema>;
 console.log("Fetching repos...");
 async function* getRepos(): AsyncGenerator<Repo, void, void> {
   let url: string | undefined =
-    "https://api.github.com/user/26509014/repos?per_page=100";
+    `https://api.github.com/users/${env.config().GITHUB_USERNAME}/repos?per_page=100`;
 
   while (url) {
     console.log("Querying", url);

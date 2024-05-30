@@ -11,11 +11,11 @@ if (!GITHUB_USERNAME) {
   throw new Error("GITHUB_USERNAME not set in .env");
 }
 
-if(!GITHUB_REPO_NAME){
+if (!GITHUB_REPO_NAME) {
   GITHUB_REPO_NAME = `${GITHUB_USERNAME}.github.io`;
 }
 
-if(!WEBSITE_URL){
+if (!WEBSITE_URL) {
   WEBSITE_URL = `${GITHUB_USERNAME}.github.io`;
 }
 

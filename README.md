@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (282)
+## Projects (281)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -244,8 +244,6 @@ instead.
 - [Chat (0)](https://github.com/LeoDog896/Chat) - Just another Chat plugin
 - [chessground-triage-click-positioning (0)](https://github.com/LeoDog896/chessground-triage-click-positioning) -
   triage for chessground for silly positioning issue
-- [CirCetz (0)](https://github.com/LeoDog896/CirCetz) - typst+cetz circuit
-  drawing library
 - [code-and-crypt (0)](https://github.com/LeoDog896/code-and-crypt) - visualize
   codes and cryptography methods
 - [countdown (0)](https://github.com/LeoDog896/countdown) - simple countdown
@@ -1370,7 +1368,7 @@ instead.
 - [yolov8_onnx_nodejs](https://github.com/LeoDog896/yolov8_onnx_nodejs) - YOLOv8
   inference using Node.js
 
-## Archived (12)
+## Archived (13)
 
 > These projects consist of ideas that were duplicates, libraries that have
 > clear better alternatives, or temporary repositories
@@ -1386,6 +1384,8 @@ instead.
 - [svelte-tailwind-barebones (1)](https://github.com/LeoDog896/svelte-tailwind-barebones) -
   Simple barebones tailwind template
 - [big-type (0)](https://github.com/LeoDog896/big-type) - big text, simple area.
+- [CirCetz (0)](https://github.com/LeoDog896/CirCetz) - typst+cetz circuit
+  drawing library
 - [dprint-plugin-python (0)](https://github.com/LeoDog896/dprint-plugin-python) -
   Python formatter for dprint (ruff wrapper)
 - [lichess-board (0)](https://github.com/LeoDog896/lichess-board) - deeply

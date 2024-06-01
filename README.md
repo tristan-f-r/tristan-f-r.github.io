@@ -3,8 +3,8 @@
 these are auto-generated lists of repositories on my account, mainly for
 catalogue info.
 
-looking for my website? go to [https://leodog896.com](https://leodog896.com)
-instead.
+looking for my website? go to
+[https://leodog896.github.io](https://leodog896.github.io) instead.
 
 ## Projects (282)
 
@@ -18,7 +18,7 @@ instead.
 - [npm-rank (20)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
-- [svelte-reparent (13)](https://github.com/LeoDog896/svelte-reparent)
+- [svelte-reparent (14)](https://github.com/LeoDog896/svelte-reparent)
   ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
   with ease in svelte
 - [svelte-mathquill (7)](https://github.com/LeoDog896/svelte-mathquill)
@@ -244,8 +244,8 @@ instead.
 - [Chat (0)](https://github.com/LeoDog896/Chat) - Just another Chat plugin
 - [chessground-triage-click-positioning (0)](https://github.com/LeoDog896/chessground-triage-click-positioning) -
   triage for chessground for silly positioning issue
-- [CirCetz (0)](https://github.com/LeoDog896/CirCetz) - typst+cetz circuit
-  drawing library
+- [circuit-to-circuit (0)](https://github.com/LeoDog896/circuit-to-circuit) -
+  convert circuit formats to other circuit formats
 - [code-and-crypt (0)](https://github.com/LeoDog896/code-and-crypt) - visualize
   codes and cryptography methods
 - [countdown (0)](https://github.com/LeoDog896/countdown) - simple countdown
@@ -1370,7 +1370,7 @@ instead.
 - [yolov8_onnx_nodejs](https://github.com/LeoDog896/yolov8_onnx_nodejs) - YOLOv8
   inference using Node.js
 
-## Archived (12)
+## Archived (13)
 
 > These projects consist of ideas that were duplicates, libraries that have
 > clear better alternatives, or temporary repositories
@@ -1386,6 +1386,8 @@ instead.
 - [svelte-tailwind-barebones (1)](https://github.com/LeoDog896/svelte-tailwind-barebones) -
   Simple barebones tailwind template
 - [big-type (0)](https://github.com/LeoDog896/big-type) - big text, simple area.
+- [CirCetz (0)](https://github.com/LeoDog896/CirCetz) - typst+cetz circuit
+  drawing library
 - [dprint-plugin-python (0)](https://github.com/LeoDog896/dprint-plugin-python) -
   Python formatter for dprint (ruff wrapper)
 - [lichess-board (0)](https://github.com/LeoDog896/lichess-board) - deeply

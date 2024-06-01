@@ -1,5 +1,5 @@
 {
   "tasks": {
-    "grab": "GITHUB_USERNAME=$GITHUB_USERNAME GITHUB_REPO_NAME=$GITHUB_REPO_NAME WEBSITE_URL=$WEBSITE_URL deno run --allow-env --allow-read --allow-net --allow-write=repos.json,README.md grab.ts && deno fmt"
+    "grab": "deno run --env --allow-env --allow-read --allow-net --allow-write=repos.json,README.md grab.ts && deno fmt"
   }
 }

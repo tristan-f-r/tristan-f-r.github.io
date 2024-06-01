@@ -1,5 +1,4 @@
 import { z } from "https://deno.land/x/zod@v3.21.4/mod.ts";
-import "https://deno.land/x/dotenv/load.ts";
 
 let {
   GITHUB_USERNAME,
@@ -16,7 +15,10 @@ if (!GITHUB_REPO_NAME) {
 }
 
 if (!WEBSITE_URL) {
-  WEBSITE_URL = `${GITHUB_USERNAME}.github.io`;
+  WEBSITE_URL = GITHUB_REPO_NAME.toLocaleLowerCase() ===
+      `${GITHUB_USERNAME}.github.io`.toLocaleLowerCase()
+    ? `https://${GITHUB_USERNAME}.github.io`
+    : `https://${GITHUB_USERNAME}.github.io/${GITHUB_REPO_NAME}`;
 }
 
 const repoSchema = z.object({

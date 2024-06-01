@@ -26,6 +26,5 @@ jobs:
         env:
           GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_REPO_NAME: ${{ github.event.repository.name }}
-          WEBSITE_URL: ${{ github.repository_owner }}.github.io
       # auto-commit changes
       - uses: stefanzweifel/git-auto-commit-action@v4

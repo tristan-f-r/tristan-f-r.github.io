@@ -115,6 +115,7 @@ const markdown =
   `# [${GITHUB_REPO_NAME}](https://github.com/${GITHUB_USERNAME}/${GITHUB_REPO_NAME})
 
 these are auto-generated lists of repositories on my account, mainly for catalogue info.
+if you want to learn how to set one up yourself, go to [the docs!](./DOCS.md)
 
 looking for my website? go to [${WEBSITE_URL}](${WEBSITE_URL}) instead.
 

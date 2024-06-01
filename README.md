@@ -1,7 +1,8 @@
 # [leodog896.github.io](https://github.com/LeoDog896/leodog896.github.io)
 
 these are auto-generated lists of repositories on my account, mainly for
-catalogue info.
+catalogue info. if you want to learn how to set one up yourself, go to
+[the docs!](./DOCS.md)
 
 looking for my website? go to
 [https://leodog896.github.io](https://leodog896.github.io) instead.

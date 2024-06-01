@@ -5,7 +5,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 [the docs!](./DOCS.md)
 
 looking for my website? go to
-[https://leodog896.github.io](https://leodog896.github.io) instead.
+[https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
 ## Projects (282)
 

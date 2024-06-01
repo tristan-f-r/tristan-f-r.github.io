@@ -6,7 +6,7 @@ catalogue info.
 looking for my website? go to [https://leodog896.com](https://leodog896.com)
 instead.
 
-## Projects (281)
+## Projects (282)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -244,6 +244,8 @@ instead.
 - [Chat (0)](https://github.com/LeoDog896/Chat) - Just another Chat plugin
 - [chessground-triage-click-positioning (0)](https://github.com/LeoDog896/chessground-triage-click-positioning) -
   triage for chessground for silly positioning issue
+- [circuit-to-circuit (0)](https://github.com/LeoDog896/circuit-to-circuit) -
+  convert circuit formats to other circuit formats
 - [code-and-crypt (0)](https://github.com/LeoDog896/code-and-crypt) - visualize
   codes and cryptography methods
 - [countdown (0)](https://github.com/LeoDog896/countdown) - simple countdown

@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (282)
+## Projects (283)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -209,6 +209,7 @@ looking for my website? go to
   cheatsheet/list of twind colors.
 - [wenv (1)](https://github.com/LeoDog896/wenv) - environment variable editor
   application for windows
+- [airfoil (0)](https://github.com/LeoDog896/airfoil) - airfoil emulator !
 - [ansi-editor (0)](https://github.com/LeoDog896/ansi-editor) - web-based ANSI
   text code editor
 - [ansi-timeline (0)](https://github.com/LeoDog896/ansi-timeline) - upload an
@@ -604,7 +605,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (322)
+## Forks (323)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1067,6 +1068,9 @@ looking for my website? go to
   expose PGN sources
 - [pgn-viewer](https://github.com/LeoDog896/pgn-viewer)
   ([homepage](https://lichess.org)) - PGN viewer widget
+- [pigpio](https://github.com/LeoDog896/pigpio) - Fast GPIO, PWM, servo control,
+  state change notification and interrupt handling with Node.js on the Raspberry
+  Pi
 - [Pixelorama](https://github.com/LeoDog896/Pixelorama)
   ([homepage](https://orama-interactive.itch.io/pixelorama)) - A free &
   open-source 2D sprite editor, made with the Godot Engine! Available on

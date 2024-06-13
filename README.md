@@ -12,7 +12,7 @@ looking for my website? go to
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [awesome-minestom (37)](https://github.com/LeoDog896/awesome-minestom) - A
+- [awesome-minestom (38)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
@@ -605,7 +605,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (324)
+## Forks (325)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -967,6 +967,9 @@ looking for my website? go to
 - [marked](https://github.com/LeoDog896/marked)
   ([homepage](https://marked.js.org/)) - A markdown parser and compiler. Built
   for speed.
+- [mathlified](https://github.com/LeoDog896/mathlified)
+  ([homepage](mdsvex-math-starter.vercel.app)) - Exploring mathematics in the
+  digital age
 - [mathlive](https://github.com/LeoDog896/mathlive)
   ([homepage](https://cortexjs.io/mathlive)) - A web component for easy math
   input

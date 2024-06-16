@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (283)
+## Projects (284)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -103,6 +103,9 @@ looking for my website? go to
 - [math (2)](https://github.com/LeoDog896/math) - No description provided.
 - [MCInstall (2)](https://github.com/LeoDog896/MCInstall) - MultiMC installation
   script for linux.
+- [pigpio-debugger (2)](https://github.com/LeoDog896/pigpio-debugger)
+  ([homepage](https://www.npmjs.com/package/pigpio-debugger)) - simple CLI tool
+  for messing with pigpio
 - [sim (2)](https://github.com/LeoDog896/sim)
   ([homepage](https://leodog896.github.io/sim/)) - implementation of sim (the
   game)
@@ -605,7 +608,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (325)
+## Forks (329)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -628,6 +631,9 @@ looking for my website? go to
   value storage for actix-web with switchable backends(redis, sled, hashmaps)
 - [AlchemistNPC](https://github.com/LeoDog896/AlchemistNPC) - No description
   provided.
+- [allsorts](https://github.com/LeoDog896/allsorts)
+  ([homepage](https://yeslogic.com/blog/allsorts-rust-font-shaping-engine/)) -
+  Font parser, shaping engine, and subsetter implemented in Rust
 - [Arena](https://github.com/LeoDog896/Arena) - No description provided.
 - [astexplorer](https://github.com/LeoDog896/astexplorer)
   ([homepage](https://astexplorer.net/)) - A web tool to explore the ASTs
@@ -797,6 +803,8 @@ looking for my website? go to
   provided.
 - [emojilib](https://github.com/LeoDog896/emojilib)
   ([homepage](https://unpkg.com/emojilib@latest)) - Emoji keyword library.
+- [emscripten](https://github.com/LeoDog896/emscripten) - Emscripten: An
+  LLVM-to-WebAssembly Compiler
 - [epubcheck](https://github.com/LeoDog896/epubcheck)
   ([homepage](https://www.w3.org/publishing/epubcheck/)) - The conformance
   checker for EPUB publications
@@ -877,6 +885,9 @@ looking for my website? go to
   ([homepage](https://discord.gg/invite/srZ5BzJaRH)) - The official Discord bot
   for the Jantick Technologies Discord Server. - Use this source code for your
   own Discord Bot
+- [harfbuzzjs](https://github.com/LeoDog896/harfbuzzjs)
+  ([homepage](https://harfbuzz.github.io/harfbuzzjs/)) - Providing HarfBuzz
+  shaping library for client/server side JavaScript projects
 - [Harvey](https://github.com/LeoDog896/Harvey) - Community managment Discord
   bot for the Old Dominion University Computer Science community.
 - [hello-world.rs](https://github.com/LeoDog896/hello-world.rs) - 🚀Memory safe,
@@ -1139,6 +1150,8 @@ looking for my website? go to
 - [rust](https://github.com/LeoDog896/rust)
   ([homepage](https://www.rust-lang.org)) - Empowering everyone to build
   reliable and efficient software.
+- [rust-harfbuzz](https://github.com/LeoDog896/rust-harfbuzz) - Rust bindings to
+  HarfBuzz
 - [rust-lightning](https://github.com/LeoDog896/rust-lightning) - A highly
   modular Bitcoin Lightning library written in Rust. It's rust-lightning, not
   Rusty's Lightning!

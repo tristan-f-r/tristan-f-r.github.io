@@ -608,7 +608,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (329)
+## Forks (331)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -849,9 +849,13 @@ looking for my website? go to
 - [font-files](https://github.com/LeoDog896/font-files)
   ([homepage](https://fontsource.org)) - 1500+ open-source fonts bundled into
   neat packages.
+- [font-kit](https://github.com/LeoDog896/font-kit) - A cross-platform font
+  loading library written in Rust
 - [fontsource](https://github.com/LeoDog896/fontsource)
   ([homepage](https://fontsource.org)) - Self-host Open Source fonts in neatly
   bundled NPM packages.
+- [freetype-sys](https://github.com/LeoDog896/freetype-sys) - Low level bindings
+  for the FreeType font library
 - [fresh](https://github.com/LeoDog896/fresh)
   ([homepage](https://fresh.deno.dev)) - The next-gen web framework.
 - [gdscript-online.github.io](https://github.com/LeoDog896/gdscript-online.github.io)

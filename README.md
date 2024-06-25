@@ -12,7 +12,7 @@ looking for my website? go to
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [awesome-minestom (39)](https://github.com/LeoDog896/awesome-minestom) - A
+- [awesome-minestom (40)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project

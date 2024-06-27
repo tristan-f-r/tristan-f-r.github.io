@@ -608,7 +608,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (332)
+## Forks (333)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1066,6 +1066,9 @@ looking for my website? go to
 - [openmct](https://github.com/LeoDog896/openmct)
   ([homepage](https://nasa.github.io/openmct/)) - A web based mission control
   framework.
+- [oss-fuzz](https://github.com/LeoDog896/oss-fuzz)
+  ([homepage](https://google.github.io/oss-fuzz)) - OSS-Fuzz - continuous
+  fuzzing for open source software.
 - [ow](https://github.com/LeoDog896/ow)
   ([homepage](https://sindresorhus.com/ow/)) - Function argument validation for
   humans

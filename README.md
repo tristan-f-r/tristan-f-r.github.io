@@ -608,7 +608,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (333)
+## Forks (335)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -673,6 +673,10 @@ looking for my website? go to
   streaming JSON and form data body parser / guard
 - [boids](https://github.com/LeoDog896/boids) - A fast JavaScript implementation
   of the boids algorithm
+- [Bookshelf](https://github.com/LeoDog896/Bookshelf) - A library mod which adds
+  additional code support beyond what is provided by Forge.
+- [BotanyPots](https://github.com/LeoDog896/BotanyPots) - Adds some flower pots
+  that can be used to grow various crops.
 - [btcpayserver](https://github.com/LeoDog896/btcpayserver)
   ([homepage](https://btcpayserver.org/)) - Accept Bitcoin payments. Free,
   open-source & self-hosted, Bitcoin payment processor.

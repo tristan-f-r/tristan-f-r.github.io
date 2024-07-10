@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (284)
+## Projects (285)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -379,6 +379,8 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/lightsout/)) - lights out game
 - [lila-devcontainer (0)](https://github.com/LeoDog896/lila-devcontainer) -
   devcontainer for lila
+- [links (0)](https://github.com/LeoDog896/links) - a small rust service that
+  hosts links on a db.
 - [livetype (0)](https://github.com/LeoDog896/livetype) - No description
   provided.
 - [localchat (0)](https://github.com/LeoDog896/localchat) - chat locally in the

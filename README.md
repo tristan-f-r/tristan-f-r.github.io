@@ -379,8 +379,6 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/lightsout/)) - lights out game
 - [lila-devcontainer (0)](https://github.com/LeoDog896/lila-devcontainer) -
   devcontainer for lila
-- [links (0)](https://github.com/LeoDog896/links) - a small rust service that
-  hosts links on a db.
 - [livetype (0)](https://github.com/LeoDog896/livetype) - No description
   provided.
 - [localchat (0)](https://github.com/LeoDog896/localchat) - chat locally in the
@@ -472,6 +470,8 @@ looking for my website? go to
   your codebase
 - [red_deno (0)](https://github.com/LeoDog896/red_deno) - red deno permissions
   that you should not use
+- [refs (0)](https://github.com/LeoDog896/refs) - a small rust service that
+  hosts links on a db.
 - [replit-database-transfer (0)](https://github.com/LeoDog896/replit-database-transfer) -
   Simple database downloading and uploading from/to JSON
 - [replit.db (0)](https://github.com/LeoDog896/replit.db) - replit db mock

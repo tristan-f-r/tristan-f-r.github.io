@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (285)
+## Projects (286)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -535,6 +535,8 @@ looking for my website? go to
   activity scheduling && management
 - [sudoku-board (0)](https://github.com/LeoDog896/sudoku-board) - solve, check,
   and generate sudoku boards
+- [svelte-adapter-executable (0)](https://github.com/LeoDog896/svelte-adapter-executable) -
+  No description provided.
 - [svelte-blob (0)](https://github.com/LeoDog896/svelte-blob) - Create simple
   stylish blobs with ease!
 - [svelte-click-context (0)](https://github.com/LeoDog896/svelte-click-context) -

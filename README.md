@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (286)
+## Projects (285)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -138,7 +138,6 @@ looking for my website? go to
 - [co-authored-by-deno (1)](https://github.com/LeoDog896/co-authored-by-deno)
   ([homepage](https://co-authored-by.deno.dev)) - deno deploy function for
   co-authored-by
-- [dite (1)](https://github.com/LeoDog896/dite) - a little bit of a framework
 - [doke (1)](https://github.com/LeoDog896/doke)
   ([homepage](https://leodog896.github.io/doke)) - code decoder
 - [duckshow (1)](https://github.com/LeoDog896/duckshow)
@@ -612,7 +611,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (335)
+## Forks (336)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1372,6 +1371,9 @@ looking for my website? go to
 - [wasm-pack](https://github.com/LeoDog896/wasm-pack)
   ([homepage](https://rustwasm.github.io/wasm-pack/)) - 📦✨ your favorite rust
   -> wasm workflow tool!
+- [wasm32-unknown-unknown-openbsd-libc](https://github.com/LeoDog896/wasm32-unknown-unknown-openbsd-libc)
+  ([homepage](https://crates.io/crates/wasm32-unknown-unknown-openbsd-libc)) -
+  The parts of OpenBSD libc that make sense on wasm32-unknown-unknown.
 - [WebODM](https://github.com/LeoDog896/WebODM)
   ([homepage](https://www.opendronemap.org/webodm/)) - User-friendly,
   commercial-grade software for processing aerial imagery. 🛩
@@ -1410,7 +1412,7 @@ looking for my website? go to
 - [yolov8_onnx_nodejs](https://github.com/LeoDog896/yolov8_onnx_nodejs) - YOLOv8
   inference using Node.js
 
-## Archived (13)
+## Archived (14)
 
 > These projects consist of ideas that were duplicates, libraries that have
 > clear better alternatives, or temporary repositories
@@ -1421,6 +1423,8 @@ looking for my website? go to
 - [awesome-surrealdb (1)](https://github.com/LeoDog896/awesome-surrealdb) - A
   curated list of awesome SurrealDB resources, libraries, tools, and
   applications.
+- [dite-deno (1)](https://github.com/LeoDog896/dite-deno) - a little bit of a
+  framework
 - [file_hash (1)](https://github.com/LeoDog896/file_hash) - simple file registry
   in deno
 - [svelte-tailwind-barebones (1)](https://github.com/LeoDog896/svelte-tailwind-barebones) -

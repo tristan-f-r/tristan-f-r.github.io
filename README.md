@@ -611,7 +611,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (336)
+## Forks (338)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -777,6 +777,9 @@ looking for my website? go to
 - [dht](https://github.com/LeoDog896/dht) - The DHT powering Hyperswarm
 - [dialoguer](https://github.com/LeoDog896/dialoguer) - Rust utility library for
   nice command line prompts and similar things
+- [dioxus](https://github.com/LeoDog896/dioxus)
+  ([homepage](https://dioxuslabs.com)) - Fullstack GUI library for web, desktop,
+  mobile, and more.
 - [discord-tauri](https://github.com/LeoDog896/discord-tauri) - A lightweight
   Discord wrapper made in Tauri
 - [docker-prisma-studio](https://github.com/LeoDog896/docker-prisma-studio) -
@@ -957,6 +960,8 @@ looking for my website? go to
 - [lczero.org](https://github.com/LeoDog896/lczero.org)
   ([homepage](https://leodog896.github.io/lczero.org/)) - A website (will be
   lczero.org)
+- [leptos](https://github.com/LeoDog896/leptos)
+  ([homepage](https://leptos.dev)) - Build fast web applications with Rust.
 - [lhs-underwater-robotics](https://github.com/LeoDog896/lhs-underwater-robotics) -
   No description provided.
 - [lightningcss](https://github.com/LeoDog896/lightningcss)

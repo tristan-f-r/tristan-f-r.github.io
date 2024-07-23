@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (285)
+## Projects (286)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -427,6 +427,7 @@ looking for my website? go to
   ([homepage](https://oceanfacts.herokuapp.com/)) - 🌊 Ocean Facts is a
   limitless and free JSON API for a large collection of interesting curated
   facts related to the field of oceanography.
+- [oeis (0)](https://github.com/LeoDog896/oeis) - impl of some oeis sequences
 - [onion-or-not (0)](https://github.com/LeoDog896/onion-or-not) - game about if
   an article title is by the onion or not
 - [oppen (0)](https://github.com/LeoDog896/oppen) - open p2p
@@ -611,7 +612,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (339)
+## Forks (340)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -985,6 +986,8 @@ looking for my website? go to
 - [logo.js](https://github.com/LeoDog896/logo.js)
   ([homepage](https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png)) -
   A community logo for JS
+- [logos](https://github.com/LeoDog896/logos)
+  ([homepage](https://logos.maciej.codes)) - Create ridiculously fast Lexers
 - [lume.land](https://github.com/LeoDog896/lume.land)
   ([homepage](https://lume.land)) - The website of lume.land
 - [manganis](https://github.com/LeoDog896/manganis) - No description provided.

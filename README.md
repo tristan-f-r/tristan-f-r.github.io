@@ -14,10 +14,10 @@ looking for my website? go to
 
 - [awesome-minestom (40)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
-- [npm-rank (21)](https://github.com/LeoDog896/npm-rank)
+- [npm-rank (22)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
-- [deno-outdated (20)](https://github.com/LeoDog896/deno-outdated) - Find
+- [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
 - [svelte-reparent (15)](https://github.com/LeoDog896/svelte-reparent)
   ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
@@ -612,7 +612,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (340)
+## Forks (341)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1224,6 +1224,9 @@ looking for my website? go to
   built with Deno and Fresh
 - [Siege](https://github.com/LeoDog896/Siege) - Siege is the official repository
   of all code that makes up the Siege server
+- [similar](https://github.com/LeoDog896/similar)
+  ([homepage](https://insta.rs/similar)) - A high level diffing library for rust
+  based on diffs
 - [SimpleWarp](https://github.com/LeoDog896/SimpleWarp) - Warp plugin for
   Minecraft
 - [site](https://github.com/LeoDog896/site) - No description provided.

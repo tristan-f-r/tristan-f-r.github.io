@@ -612,7 +612,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (341)
+## Forks (342)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -638,6 +638,9 @@ looking for my website? go to
 - [allsorts](https://github.com/LeoDog896/allsorts)
   ([homepage](https://yeslogic.com/blog/allsorts-rust-font-shaping-engine/)) -
   Font parser, shaping engine, and subsetter implemented in Rust
+- [arbitrary](https://github.com/LeoDog896/arbitrary)
+  ([homepage](https://docs.rs/arbitrary/)) - Generating structured data from
+  arbitrary, unstructured input.
 - [Arena](https://github.com/LeoDog896/Arena) - No description provided.
 - [astexplorer](https://github.com/LeoDog896/astexplorer)
   ([homepage](https://astexplorer.net/)) - A web tool to explore the ASTs

@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (286)
+## Projects (287)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -341,6 +341,8 @@ looking for my website? go to
   procedural infinite tetris animation in a mimic of a real tetris game
 - [instant-ngp-playground (0)](https://github.com/LeoDog896/instant-ngp-playground) -
   simple ngp playground to spin up in a codespace
+- [int_in_range_impl_kani (0)](https://github.com/LeoDog896/int_in_range_impl_kani) -
+  No description provided.
 - [javak (0)](https://github.com/LeoDog896/javak) - incremental wrapper around
   javac meant for replit
 - [js-load-demo (0)](https://github.com/LeoDog896/js-load-demo)

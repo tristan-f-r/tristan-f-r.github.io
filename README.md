@@ -22,52 +22,40 @@ looking for my website? go to
 - [svelte-reparent (15)](https://github.com/LeoDog896/svelte-reparent)
   ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
   with ease in svelte
-- [svelte-mathquill (7)](https://github.com/LeoDog896/svelte-mathquill)
-  ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
-  wrapper for Svelte
 - [maxwell (6)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
-- [beggar-my-neighbour (5)](https://github.com/LeoDog896/beggar-my-neighbour) -
-  solving an irrelevant unsolved problem in combinatorial mathematics
+- [svelte-mathquill (6)](https://github.com/LeoDog896/svelte-mathquill)
+  ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
+  wrapper for Svelte
 - [co-authored-by (5)](https://github.com/LeoDog896/co-authored-by)
   ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
   co-authored-by descriptions & emails for authors
 - [svelte-monaco (5)](https://github.com/LeoDog896/svelte-monaco)
   ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
   integration
-- [licraft (4)](https://github.com/LeoDog896/licraft) - lichess board
-  implementation for minecraft.
+- [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
+  solving an irrelevant unsolved problem in combinatorial mathematics
 - [scannable (4)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable/)) - QR code generation for
   a modern web
 - [stun-only-rtc (4)](https://github.com/LeoDog896/stun-only-rtc)
   ([homepage](https://leodog896.github.io/stun-only-rtc/)) - WebRTC server demo
   with only a stun server
-- [type (4)](https://github.com/LeoDog896/type)
-  ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
 - [biotrack (3)](https://github.com/LeoDog896/biotrack)
   ([homepage](https://leodog896.github.io/biotrack/)) - store information on
   users in private networks
-- [chessground-anim (3)](https://github.com/LeoDog896/chessground-anim)
-  ([homepage](https://leodog896.github.io/chessground-anim/)) - animate pgn with
-  chessground
 - [ferret_api (3)](https://github.com/LeoDog896/ferret_api)
   ([homepage](https://leodog896.github.io/ferret_api/)) - collection of ferret
   images
 - [gitpod-deno (3)](https://github.com/LeoDog896/gitpod-deno) - A simple script
   that adds support for deno in gitpod.
-- [jigsawable (3)](https://github.com/LeoDog896/jigsawable) - jigsaw game in
-  godot, demonstrating the `godot-jigsaw` repository example
 - [jsnow (3)](https://github.com/LeoDog896/jsnow)
   ([homepage](https://now.js.org)) - no clutter. just js, now.
+- [licraft (3)](https://github.com/LeoDog896/licraft) - lichess board
+  implementation for minecraft.
 - [motion-canvas-3d (3)](https://github.com/LeoDog896/motion-canvas-3d) -
   motion-canvas 3d integration
-- [redos.deno (3)](https://github.com/LeoDog896/redos.deno) - check for ReDoS
-  vulnerabilities in code.
-- [rotator (3)](https://github.com/LeoDog896/rotator)
-  ([homepage](https://leodog896.github.io/rotator/)) - reupload of source code
-  from https://gitlab.com/jonot-cyber/rotate-game
 - [sttcv (3)](https://github.com/LeoDog896/sttcv) - Svelte tailwind component
   vite template
 - [svelte-mosaic (3)](https://github.com/LeoDog896/svelte-mosaic)
@@ -81,19 +69,15 @@ looking for my website? go to
   svelte
 - [todays-wordle (3)](https://github.com/LeoDog896/todays-wordle) -
   auto-updating today's wordle
+- [type (3)](https://github.com/LeoDog896/type)
+  ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
 - [cloud-url-resolver (2)](https://github.com/LeoDog896/cloud-url-resolver) -
   easily resolve protocol/port setups on any development platform
 - [conspirasea (2)](https://github.com/LeoDog896/conspirasea)
   ([homepage](https://leodog896.github.io/conspirasea)) - make simple yarn-based
   conspiracies
-- [curve_collapse (2)](https://github.com/LeoDog896/curve_collapse) - a function
-  to turn any arbitrary function into equidistant points from [a, b] with n
-  points.
 - [deno-cava (2)](https://github.com/LeoDog896/deno-cava) - No description
   provided.
-- [eyeball (2)](https://github.com/LeoDog896/eyeball)
-  ([homepage](https://leodog896.github.io/eyeball/)) - moving eyeball that
-  follows the cursor
 - [ferret_images (2)](https://github.com/LeoDog896/ferret_images)
   ([homepage](https://leodog896.github.io/ferret_api/business)) - collection of
   ferret images, in use with ferret_api
@@ -103,9 +87,11 @@ looking for my website? go to
 - [math (2)](https://github.com/LeoDog896/math) - No description provided.
 - [MCInstall (2)](https://github.com/LeoDog896/MCInstall) - MultiMC installation
   script for linux.
-- [pigpio-debugger (2)](https://github.com/LeoDog896/pigpio-debugger)
-  ([homepage](https://www.npmjs.com/package/pigpio-debugger)) - simple CLI tool
-  for messing with pigpio
+- [redos.deno (2)](https://github.com/LeoDog896/redos.deno) - check for ReDoS
+  vulnerabilities in code.
+- [rotator (2)](https://github.com/LeoDog896/rotator)
+  ([homepage](https://leodog896.github.io/rotator/)) - reupload of source code
+  from https://gitlab.com/jonot-cyber/rotate-game
 - [sim (2)](https://github.com/LeoDog896/sim)
   ([homepage](https://leodog896.github.io/sim/)) - implementation of sim (the
   game)
@@ -114,8 +100,6 @@ looking for my website? go to
   for local & session storage
 - [taxevasion.tk (2)](https://github.com/LeoDog896/taxevasion.tk)
   ([homepage](http://taxevasion.tk)) - how to commit tax evasion
-- [webpage (2)](https://github.com/LeoDog896/webpage)
-  ([homepage](https://leodog896.com)) - My personal site
 - [allergitaves (1)](https://github.com/LeoDog896/allergitaves)
   ([homepage](https://leodog896.github.io/allergitaves/)) - list of common
   allergy aliases and what they actually are
@@ -131,13 +115,17 @@ looking for my website? go to
   provided.
 - [bookmarklet-editor (1)](https://github.com/LeoDog896/bookmarklet-editor) -
   Edit bookmarklets simply
-- [boolean-logic (1)](https://github.com/LeoDog896/boolean-logic) -
-  programatically analyze boolean logic
 - [build-themes (1)](https://github.com/LeoDog896/build-themes) - a repo of
   hypixel build themes (easily sortable)
+- [chessground-anim (1)](https://github.com/LeoDog896/chessground-anim)
+  ([homepage](https://leodog896.github.io/chessground-anim/)) - animate pgn with
+  chessground
 - [co-authored-by-deno (1)](https://github.com/LeoDog896/co-authored-by-deno)
   ([homepage](https://co-authored-by.deno.dev)) - deno deploy function for
   co-authored-by
+- [curve_collapse (1)](https://github.com/LeoDog896/curve_collapse) - a function
+  to turn any arbitrary function into equidistant points from [a, b] with n
+  points.
 - [doke (1)](https://github.com/LeoDog896/doke)
   ([homepage](https://leodog896.github.io/doke)) - code decoder
 - [duckshow (1)](https://github.com/LeoDog896/duckshow)
@@ -148,13 +136,16 @@ looking for my website? go to
   elementary cellular automaton on the web!
 - [esbuild-plugin-deno-resolve (1)](https://github.com/LeoDog896/esbuild-plugin-deno-resolve) -
   Plugin to resolve deno import maps and URLs
+- [eyeball (1)](https://github.com/LeoDog896/eyeball)
+  ([homepage](https://leodog896.github.io/eyeball/)) - moving eyeball that
+  follows the cursor
 - [game-solver (1)](https://github.com/LeoDog896/game-solver)
   ([homepage](https://leodog896.github.io/game-solver/)) - Solve any sequential
   game.
-- [gdt (1)](https://github.com/LeoDog896/gdt) - gdscript tools for abstract
-  manipulation of ASTs
 - [git-cli-viewer (1)](https://github.com/LeoDog896/git-cli-viewer) - open git
   repos for browsing
+- [jigsawable (1)](https://github.com/LeoDog896/jigsawable) - jigsaw game in
+  godot, demonstrating the `godot-jigsaw` repository example
 - [kanban (1)](https://github.com/LeoDog896/kanban) - a kanban management system
 - [Llama-Zips (1)](https://github.com/LeoDog896/Llama-Zips) - A game with a
   llama and a grappling hook made in Godot
@@ -168,32 +159,24 @@ looking for my website? go to
 - [pad-life (1)](https://github.com/LeoDog896/pad-life)
   ([homepage](https://leodog896.github.io/pad-life/)) - Alternative version of
   game-of-life that is semi-controllable.
-- [paint (1)](https://github.com/LeoDog896/paint) - simple drawing website (for
-  learning!)
 - [parcel-resolver-svgmoji (1)](https://github.com/LeoDog896/parcel-resolver-svgmoji) -
   simple emoji favicons in parcel
+- [pigpio-debugger (1)](https://github.com/LeoDog896/pigpio-debugger)
+  ([homepage](https://www.npmjs.com/package/pigpio-debugger)) - simple CLI tool
+  for messing with pigpio
 - [point-visualizer (1)](https://github.com/LeoDog896/point-visualizer)
   ([homepage](https://leodog896.github.io/point-visualizer/)) - webpage for
   serializable visualization of points in 3D space
 - [primeish (1)](https://github.com/LeoDog896/primeish) - various prime
   utilities in a CLI
-- [ProxyPane (1)](https://github.com/LeoDog896/ProxyPane) - Browse the web on
-  another machine.
 - [qrupcode (1)](https://github.com/LeoDog896/qrupcode) - Data-driven QR code
   generator
-- [reliable-validity-demonstration (1)](https://github.com/LeoDog896/reliable-validity-demonstration) -
-  demonstration via an arrow board of reliability vs validity with a gizmo
 - [shine (1)](https://github.com/LeoDog896/shine) - shadow file cracker mainly
   for CTF
 - [signal-async (1)](https://github.com/LeoDog896/signal-async) - asynchronous
   signals from different places in ts
 - [sonatokipona.github.io (1)](https://github.com/LeoDog896/sonatokipona.github.io) -
   Toki Pona Sona
-- [sphere-coordinates-ts (1)](https://github.com/LeoDog896/sphere-coordinates-ts) -
-  implementation of Jonathan Kogan's method for sphere coordinates in
-  TypeScript - Deno / Node
-- [svelte-deferred (1)](https://github.com/LeoDog896/svelte-deferred) - make
-  deferred calls to various libraries
 - [svelte-styling (1)](https://github.com/LeoDog896/svelte-styling) - organized
   & dynamic styles! use:style={{ color: "brown", size: 5 }}
 - [svg-editor (1)](https://github.com/LeoDog896/svg-editor)
@@ -202,13 +185,13 @@ looking for my website? go to
 - [the-things-we-carry (1)](https://github.com/LeoDog896/the-things-we-carry)
   ([homepage](https://leodog896.github.io/the-things-we-carry)) - A game based
   off of the things they carried, for a school project.
-- [tiptap-mathquill (1)](https://github.com/LeoDog896/tiptap-mathquill) - tiptap
-  extension for editing math in MathQuill
 - [treblecross-solver (1)](https://github.com/LeoDog896/treblecross-solver) - A
   treblecross solver written in Deno
 - [twind-colors (1)](https://github.com/LeoDog896/twind-colors)
   ([homepage](https://leodog896.github.io/twind-colors/)) - Online copyable
   cheatsheet/list of twind colors.
+- [webpage (1)](https://github.com/LeoDog896/webpage)
+  ([homepage](https://leodog896.com)) - My personal site
 - [wenv (1)](https://github.com/LeoDog896/wenv) - environment variable editor
   application for windows
 - [airfoil (0)](https://github.com/LeoDog896/airfoil) - airfoil emulator !
@@ -235,6 +218,8 @@ looking for my website? go to
 - [Blog (0)](https://github.com/LeoDog896/Blog) - A modern, light-theme blog
   that uses MongoDB and Bootstrap styling.
 - [BMI (0)](https://github.com/LeoDog896/BMI) - Simple BMI calculator
+- [boolean-logic (0)](https://github.com/LeoDog896/boolean-logic) -
+  programatically analyze boolean logic
 - [brainhuh (0)](https://github.com/LeoDog896/brainhuh) - brainf compiler &
   executor
 - [breathe (0)](https://github.com/LeoDog896/breathe)
@@ -305,6 +290,8 @@ looking for my website? go to
 - [game-of-crackers (0)](https://github.com/LeoDog896/game-of-crackers)
   ([homepage](https://leodog896.github.io/game-of-crackers/)) - theoretical game
   about placing crackers on top of Some shape
+- [gdt (0)](https://github.com/LeoDog896/gdt) - gdscript tools for abstract
+  manipulation of ASTs
 - [github-actions-adder (0)](https://github.com/LeoDog896/github-actions-adder) -
   svelte-add adder for vanilla github actions
 - [github-colors (0)](https://github.com/LeoDog896/github-colors) -
@@ -436,6 +423,8 @@ looking for my website? go to
 - [p2player (0)](https://github.com/LeoDog896/p2player) - peer to peer games
 - [p2signal (0)](https://github.com/LeoDog896/p2signal) - compression for
   signaling data in webrtc
+- [paint (0)](https://github.com/LeoDog896/paint) - simple drawing website (for
+  learning!)
 - [parcel-implicit-env-test (0)](https://github.com/LeoDog896/parcel-implicit-env-test) -
   triage for https://github.com/parcel-bundler/parcel/issues/8470
 - [pata (0)](https://github.com/LeoDog896/pata) - p2p chat app
@@ -454,6 +443,8 @@ looking for my website? go to
   demonstration of various ways to construct a sphere
 - [pona (0)](https://github.com/LeoDog896/pona) - Check if your repositories are
   OK! (tree-shakeable, ES6 module, TypeScript-ready, and more)
+- [ProxyPane (0)](https://github.com/LeoDog896/ProxyPane) - Browse the web on
+  another machine.
 - [puct (0)](https://github.com/LeoDog896/puct) - No description provided.
 - [quizada (0)](https://github.com/LeoDog896/quizada) - No description provided.
 - [Quizvertor (0)](https://github.com/LeoDog896/Quizvertor) - Browser extension
@@ -474,6 +465,8 @@ looking for my website? go to
   that you should not use
 - [refs (0)](https://github.com/LeoDog896/refs) - a small rust service that
   hosts links on a db.
+- [reliable-validity-demonstration (0)](https://github.com/LeoDog896/reliable-validity-demonstration) -
+  demonstration via an arrow board of reliability vs validity with a gizmo
 - [replit-database-transfer (0)](https://github.com/LeoDog896/replit-database-transfer) -
   Simple database downloading and uploading from/to JSON
 - [replit.db (0)](https://github.com/LeoDog896/replit.db) - replit db mock
@@ -508,6 +501,9 @@ looking for my website? go to
   message socket
 - [SpanishConjunctions (0)](https://github.com/LeoDog896/SpanishConjunctions) -
   Spanish Conjuctions!
+- [sphere-coordinates-ts (0)](https://github.com/LeoDog896/sphere-coordinates-ts) -
+  implementation of Jonathan Kogan's method for sphere coordinates in
+  TypeScript - Deno / Node
 - [spin (0)](https://github.com/LeoDog896/spin)
   ([homepage](https://leodog896.github.io/spin/)) - spinny text
 - [sprouts (0)](https://github.com/LeoDog896/sprouts) - No description provided.
@@ -543,6 +539,8 @@ looking for my website? go to
   stylish blobs with ease!
 - [svelte-click-context (0)](https://github.com/LeoDog896/svelte-click-context) -
   Trigger context menus on click
+- [svelte-deferred (0)](https://github.com/LeoDog896/svelte-deferred) - make
+  deferred calls to various libraries
 - [svelte-energy (0)](https://github.com/LeoDog896/svelte-energy) - add energy
   to your apps with simple animations
 - [svelte-gradient (0)](https://github.com/LeoDog896/svelte-gradient) - Svelte
@@ -566,6 +564,8 @@ looking for my website? go to
 - [thequeen (0)](https://github.com/LeoDog896/thequeen) - the queen was cool
 - [time-from-now (0)](https://github.com/LeoDog896/time-from-now) - check what
   time it is after X time
+- [tiptap-mathquill (0)](https://github.com/LeoDog896/tiptap-mathquill) - tiptap
+  extension for editing math in MathQuill
 - [tokiponasona.github.io (0)](https://github.com/LeoDog896/tokiponasona.github.io) -
   No description provided.
 - [tool-swing (0)](https://github.com/LeoDog896/tool-swing) - Swing around silly
@@ -1442,8 +1442,6 @@ looking for my website? go to
   applications.
 - [dite-deno (1)](https://github.com/LeoDog896/dite-deno) - a little bit of a
   framework
-- [file_hash (1)](https://github.com/LeoDog896/file_hash) - simple file registry
-  in deno
 - [svelte-tailwind-barebones (1)](https://github.com/LeoDog896/svelte-tailwind-barebones) -
   Simple barebones tailwind template
 - [big-type (0)](https://github.com/LeoDog896/big-type) - big text, simple area.
@@ -1451,6 +1449,8 @@ looking for my website? go to
   drawing library
 - [dprint-plugin-python (0)](https://github.com/LeoDog896/dprint-plugin-python) -
   Python formatter for dprint (ruff wrapper)
+- [file_hash (0)](https://github.com/LeoDog896/file_hash) - simple file registry
+  in deno
 - [lichess-board (0)](https://github.com/LeoDog896/lichess-board) - deeply
   integrated lichess boad API in rust
 - [minification-playground (0)](https://github.com/LeoDog896/minification-playground) -

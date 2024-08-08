@@ -42,6 +42,9 @@ looking for my website? go to
 - [stun-only-rtc (4)](https://github.com/LeoDog896/stun-only-rtc)
   ([homepage](https://leodog896.github.io/stun-only-rtc/)) - WebRTC server demo
   with only a stun server
+- [svelte-tilt (4)](https://github.com/LeoDog896/svelte-tilt)
+  ([homepage](https://leodog896.github.io/svelte-tilt/)) - Tilt library for
+  svelte
 - [biotrack (3)](https://github.com/LeoDog896/biotrack)
   ([homepage](https://leodog896.github.io/biotrack/)) - store information on
   users in private networks
@@ -64,9 +67,6 @@ looking for my website? go to
 - [svelte-text-path (3)](https://github.com/LeoDog896/svelte-text-path)
   ([homepage](https://leodog896.github.io/svelte-text-path/)) - Reactive
   auto-fitting text-path Svelte library.
-- [svelte-tilt (3)](https://github.com/LeoDog896/svelte-tilt)
-  ([homepage](https://leodog896.github.io/svelte-tilt/)) - Tilt library for
-  svelte
 - [todays-wordle (3)](https://github.com/LeoDog896/todays-wordle) -
   auto-updating today's wordle
 - [type (3)](https://github.com/LeoDog896/type)

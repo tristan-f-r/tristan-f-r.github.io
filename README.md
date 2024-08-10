@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (287)
+## Projects (288)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -613,8 +613,10 @@ looking for my website? go to
 - [yolov5-bound-check (0)](https://github.com/LeoDog896/yolov5-bound-check)
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
+- [zed-gruvbox-ish (0)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
+  of the vscode gruvbox-ish
 
-## Forks (342)
+## Forks (343)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -840,6 +842,8 @@ looking for my website? go to
   example extension for Minestom
 - [ExampleMod](https://github.com/LeoDog896/ExampleMod) - Electron Mod for
   Mindustry
+- [extensions](https://github.com/LeoDog896/extensions) - Extensions for the Zed
+  editor
 - [fancy-regex](https://github.com/LeoDog896/fancy-regex) - Rust library for
   regular expressions using "fancy" features like look-around and backreferences
 - [fast-deep-equal](https://github.com/LeoDog896/fast-deep-equal) - The fastest

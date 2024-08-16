@@ -616,7 +616,7 @@ looking for my website? go to
 - [zed-gruvbox-ish (0)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
   of the vscode gruvbox-ish
 
-## Forks (344)
+## Forks (345)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1416,6 +1416,8 @@ looking for my website? go to
 - [website-1](https://github.com/LeoDog896/website-1)
   ([homepage](https://nasahunch.hosted.coasterfan5.com/)) - full NASA hunch
   redesign, streamlined.
+- [website-2](https://github.com/LeoDog896/website-2)
+  ([homepage](https://maxniederman.com)) - My website.
 - [wheatleycrab](https://github.com/LeoDog896/wheatleycrab) - A discord music
   bot written in Go
 - [willuhmjs.github.io](https://github.com/LeoDog896/willuhmjs.github.io) - my

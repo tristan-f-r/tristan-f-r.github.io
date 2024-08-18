@@ -19,7 +19,7 @@ looking for my website? go to
   npm packages
 - [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find
   outdated dependencies in your deno project
-- [svelte-reparent (15)](https://github.com/LeoDog896/svelte-reparent)
+- [svelte-reparent (16)](https://github.com/LeoDog896/svelte-reparent)
   ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
   with ease in svelte
 - [maxwell (6)](https://github.com/LeoDog896/maxwell)

@@ -1208,8 +1208,8 @@ looking for my website? go to
   ([homepage](https://crates.io/crates/rustyline/)) - Readline Implementation in
   Rust
 - [rutt](https://github.com/LeoDog896/rutt)
-  ([homepage](https://deno.land/x/rutt)) - 🛣️ A tiny and fast http request router
-  designed for use with deno and deno deploy
+  ([homepage](https://deno.land/x/rutt)) - 🛣️ A tiny and fast http request
+  router designed for use with deno and deno deploy
 - [safetensors](https://github.com/LeoDog896/safetensors)
   ([homepage](https://huggingface.co/docs/safetensors)) - Simple, safe way to
   store and distribute tensors

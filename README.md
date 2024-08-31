@@ -7,12 +7,12 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (288)
+## Projects (289)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [awesome-minestom (42)](https://github.com/LeoDog896/awesome-minestom) - A
+- [awesome-minestom (43)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [npm-rank (22)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
@@ -463,6 +463,8 @@ looking for my website? go to
   your codebase
 - [red_deno (0)](https://github.com/LeoDog896/red_deno) - red deno permissions
   that you should not use
+- [reed-board-track (0)](https://github.com/LeoDog896/reed-board-track) - reed
+  board points tracker and planner
 - [refs (0)](https://github.com/LeoDog896/refs) - a small rust service that
   hosts links on a db.
 - [reliable-validity-demonstration (0)](https://github.com/LeoDog896/reliable-validity-demonstration) -

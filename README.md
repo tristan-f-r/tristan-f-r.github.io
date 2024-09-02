@@ -618,7 +618,7 @@ looking for my website? go to
 - [zed-gruvbox-ish (0)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
   of the vscode gruvbox-ish
 
-## Forks (345)
+## Forks (347)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -909,6 +909,8 @@ looking for my website? go to
 - [grass](https://github.com/LeoDog896/grass)
   ([homepage](https://connorskees.github.io/grassmeister/)) - A Sass compiler
   written purely in Rust
+- [gruvbox-ish](https://github.com/LeoDog896/gruvbox-ish) - Gruvbox ish theme
+  for vscode
 - [hantick-discord-bot](https://github.com/LeoDog896/hantick-discord-bot)
   ([homepage](https://discord.gg/invite/srZ5BzJaRH)) - The official Discord bot
   for the Jantick Technologies Discord Server. - Use this source code for your
@@ -1073,6 +1075,8 @@ looking for my website? go to
 - [ngrok](https://github.com/LeoDog896/ngrok)
   ([homepage](https://deno.land/x/ngrok)) - Expose your localhost to the web.
   Ultra-simple deno wrapper for ngrok.
+- [nixpkgs](https://github.com/LeoDog896/nixpkgs) - Nix Packages collection &
+  NixOS
 - [node](https://github.com/LeoDog896/node) ([homepage](https://nodejs.org)) -
   Node.js JavaScript runtime ✨🐢🚀✨
 - [node-fast-plist](https://github.com/LeoDog896/node-fast-plist) - A fast PLIST

@@ -7,14 +7,14 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (289)
+## Projects (290)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
 - [awesome-minestom (45)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
-- [npm-rank (23)](https://github.com/LeoDog896/npm-rank)
+- [npm-rank (24)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
 - [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find
@@ -267,6 +267,8 @@ looking for my website? go to
   web! (godot >> unity)
 - [dprint-plugin-yaml (0)](https://github.com/LeoDog896/dprint-plugin-yaml) -
   YAML code formatting plugin for dprint.
+- [draw-graph (0)](https://github.com/LeoDog896/draw-graph) - egui-based graph
+  drawing software
 - [DropperHelper (0)](https://github.com/LeoDog896/DropperHelper) - Simple
   dropper utilities for Fabric
 - [emoji-swamp (0)](https://github.com/LeoDog896/emoji-swamp) - a 'sea' of

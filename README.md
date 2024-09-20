@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (290)
+## Projects (291)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -144,6 +144,7 @@ looking for my website? go to
   game.
 - [git-cli-viewer (1)](https://github.com/LeoDog896/git-cli-viewer) - open git
   repos for browsing
+- [glop-nix (1)](https://github.com/LeoDog896/glop-nix) - glop for nix
 - [jigsawable (1)](https://github.com/LeoDog896/jigsawable) - jigsaw game in
   godot, demonstrating the `godot-jigsaw` repository example
 - [kanban (1)](https://github.com/LeoDog896/kanban) - a kanban management system

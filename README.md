@@ -14,7 +14,7 @@ looking for my website? go to
 
 - [awesome-minestom (46)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
-- [npm-rank (25)](https://github.com/LeoDog896/npm-rank)
+- [npm-rank (29)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
 - [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find
@@ -621,7 +621,7 @@ looking for my website? go to
 - [zed-gruvbox-ish (0)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
   of the vscode gruvbox-ish
 
-## Forks (347)
+## Forks (348)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1162,6 +1162,9 @@ looking for my website? go to
   description provided.
 - [qs](https://github.com/LeoDog896/qs) - A querystring parser with nesting
   support
+- [quiver](https://github.com/LeoDog896/quiver)
+  ([homepage](https://q.uiver.app)) - A modern commutative diagram editor for
+  the web.
 - [Quizlet-Exporter](https://github.com/LeoDog896/Quizlet-Exporter) - Website
   that exports Quizlet study sets into a variety of file formats.
 - [rapier.js](https://github.com/LeoDog896/rapier.js)

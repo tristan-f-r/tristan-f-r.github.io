@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (291)
+## Projects (292)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -216,6 +216,8 @@ looking for my website? go to
 - [bingo (0)](https://github.com/LeoDog896/bingo) - bingo simulator
 - [bird (0)](https://github.com/LeoDog896/bird) - flyd for deno -- low-level
   reactive stores
+- [bitboard (0)](https://github.com/LeoDog896/bitboard) - n-dimensional
+  bit-based arrays for games
 - [Blog (0)](https://github.com/LeoDog896/Blog) - A modern, light-theme blog
   that uses MongoDB and Bootstrap styling.
 - [BMI (0)](https://github.com/LeoDog896/BMI) - Simple BMI calculator

@@ -623,7 +623,7 @@ looking for my website? go to
 - [zed-gruvbox-ish (0)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
   of the vscode gruvbox-ish
 
-## Forks (349)
+## Forks (350)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1070,6 +1070,9 @@ looking for my website? go to
   narses project game world
 - [NBTify](https://github.com/LeoDog896/NBTify) - A library to read and write
   NBT files on the web!
+- [ndarray](https://github.com/LeoDog896/ndarray)
+  ([homepage](https://docs.rs/ndarray/)) - ndarray: an N-dimensional array with
+  array views, multidimensional slicing, and efficient operations
 - [neoconfetti](https://github.com/LeoDog896/neoconfetti)
   ([homepage](https://www.npmjs.com/package/svelte-confetti-explosion)) -
   Confetti in Svelte

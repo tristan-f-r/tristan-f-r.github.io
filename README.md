@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (292)
+## Projects (293)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -22,12 +22,12 @@ looking for my website? go to
 - [svelte-reparent (16)](https://github.com/LeoDog896/svelte-reparent)
   ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
   with ease in svelte
+- [maxwell (7)](https://github.com/LeoDog896/maxwell)
+  ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
+  maxwell fan website
 - [svelte-mathquill (7)](https://github.com/LeoDog896/svelte-mathquill)
   ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
-- [maxwell (6)](https://github.com/LeoDog896/maxwell)
-  ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
-  maxwell fan website
 - [co-authored-by (5)](https://github.com/LeoDog896/co-authored-by)
   ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
   co-authored-by descriptions & emails for authors
@@ -290,6 +290,9 @@ looking for my website? go to
 - [fluid (0)](https://github.com/LeoDog896/fluid) - silly fluid simulation
 - [fullscreen (0)](https://github.com/LeoDog896/fullscreen) - display an image
   as max sized as possible (school blocked backgrounds, and thus 1984)
+- [fuzz-directory (0)](https://github.com/LeoDog896/fuzz-directory)
+  ([homepage](https://leodog896.github.io/fuzz-directory/)) - view oss fuzz
+  projects
 - [fuzzgression (0)](https://github.com/LeoDog896/fuzzgression) - common
   regression patterns to identify type of function
 - [game-of-crackers (0)](https://github.com/LeoDog896/game-of-crackers)
@@ -623,7 +626,7 @@ looking for my website? go to
 - [zed-gruvbox-ish (0)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
   of the vscode gruvbox-ish
 
-## Forks (351)
+## Forks (352)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -960,6 +963,8 @@ looking for my website? go to
   (Focused on object manipulation & more)
 - [JointMMO](https://github.com/LeoDog896/JointMMO) - Joint mmo project for the
   minestom mmo organisation.
+- [jpeg-js](https://github.com/LeoDog896/jpeg-js) - A pure javascript JPEG
+  encoder and decoder for node.js
 - [js.org](https://github.com/LeoDog896/js.org) ([homepage](https://js.org)) -
   Dedicated to JavaScript and its awesome community since 2015
 - [jsesc](https://github.com/LeoDog896/jsesc)

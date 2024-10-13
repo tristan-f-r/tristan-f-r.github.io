@@ -626,7 +626,7 @@ looking for my website? go to
 - [zed-gruvbox-ish (0)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
   of the vscode gruvbox-ish
 
-## Forks (352)
+## Forks (357)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -698,6 +698,8 @@ looking for my website? go to
   additional code support beyond what is provided by Forge.
 - [BotanyPots](https://github.com/LeoDog896/BotanyPots) - Adds some flower pots
   that can be used to grow various crops.
+- [bson-rust](https://github.com/LeoDog896/bson-rust) - Encoding and decoding
+  support for BSON in Rust
 - [btcpayserver](https://github.com/LeoDog896/btcpayserver)
   ([homepage](https://btcpayserver.org/)) - Accept Bitcoin payments. Free,
   open-source & self-hosted, Bitcoin payment processor.
@@ -866,6 +868,9 @@ looking for my website? go to
 - [FastAsyncWorldedit](https://github.com/LeoDog896/FastAsyncWorldedit) -
   Blazingly fast world manipulation for artists, large networks and developers:
   https://www.spigotmc.org/resources/13932/
+- [fastify](https://github.com/LeoDog896/fastify)
+  ([homepage](https://www.fastify.dev)) - Fast and low overhead web framework,
+  for Node.js
 - [feather](https://github.com/LeoDog896/feather) - A Minecraft server
   implementation in Rust
 - [Figura](https://github.com/LeoDog896/Figura) - Primary repo for the Figura
@@ -931,6 +936,8 @@ looking for my website? go to
 - [hello-world.rs](https://github.com/LeoDog896/hello-world.rs) - 🚀Memory safe,
   blazing fast, configurable, minimal hello world written in rust(🚀) in a few
   lines of code with few(1092🚀) dependencies🚀
+- [hickory-dns](https://github.com/LeoDog896/hickory-dns) - A Rust based DNS
+  client, server, and resolver
 - [Highlands-Development](https://github.com/LeoDog896/Highlands-Development) -
   Dev stuff
 - [Hill-Cipher](https://github.com/LeoDog896/Hill-Cipher) - JavaScript
@@ -950,6 +957,8 @@ looking for my website? go to
   hyprland.org website
 - [iconv-lite](https://github.com/LeoDog896/iconv-lite) - Convert character
   encodings in pure javascript.
+- [image](https://github.com/LeoDog896/image) - Encoding and decoding images in
+  Rust
 - [insolitum](https://github.com/LeoDog896/insolitum) - No description provided.
 - [itertools](https://github.com/LeoDog896/itertools)
   ([homepage](https://docs.rs/itertools/)) - Extra iterator adaptors, iterator
@@ -1127,6 +1136,8 @@ looking for my website? go to
 - [parcel](https://github.com/LeoDog896/parcel)
   ([homepage](https://parceljs.org)) - The zero configuration build tool for the
   web. 📦🚀
+- [pdf.js](https://github.com/LeoDog896/pdf.js)
+  ([homepage](https://mozilla.github.io/pdf.js/)) - PDF Reader in JavaScript
 - [peerjs](https://github.com/LeoDog896/peerjs)
   ([homepage](https://peerjs.com)) - Simple peer-to-peer with WebRTC
 - [peerjs-server](https://github.com/LeoDog896/peerjs-server)

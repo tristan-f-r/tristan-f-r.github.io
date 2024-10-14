@@ -626,7 +626,7 @@ looking for my website? go to
 - [zed-gruvbox-ish (0)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
   of the vscode gruvbox-ish
 
-## Forks (357)
+## Forks (361)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -779,6 +779,8 @@ looking for my website? go to
   and AST related functionality for Deno
 - [deno_blog](https://github.com/LeoDog896/deno_blog) - Minimal boilerplate
   blogging.
+- [deno_core](https://github.com/LeoDog896/deno_core) - The core engine at the
+  heart of Deno
 - [deno_lint](https://github.com/LeoDog896/deno_lint)
   ([homepage](https://lint.deno.land/)) - Blazing fast linter for JavaScript and
   TypeScript written in Rust
@@ -949,6 +951,8 @@ looking for my website? go to
   Configurable and lightweight clock widget for KDE. Stylable with QT supported
   subset of HTML markup, supporting variety of usable placeholders to design
   clock widget as you like.
+- [html5ever](https://github.com/LeoDog896/html5ever) - High-performance
+  browser-grade HTML5 parser
 - [http-errors](https://github.com/LeoDog896/http-errors) - Create HTTP Errors
 - [hydrazine-path-finding](https://github.com/LeoDog896/hydrazine-path-finding) -
   A rather basic A* path-finding engine inspired by a certain blocky sandbox
@@ -999,6 +1003,8 @@ looking for my website? go to
   ([homepage](https://leptos.dev)) - Build fast web applications with Rust.
 - [lhs-underwater-robotics](https://github.com/LeoDog896/lhs-underwater-robotics) -
   No description provided.
+- [libfuzzer](https://github.com/LeoDog896/libfuzzer) - Rust bindings and
+  utilities for LLVM’s libFuzzer
 - [lightningcss](https://github.com/LeoDog896/lightningcss)
   ([homepage](https://lightningcss.dev)) - An extremely fast CSS parser,
   transformer, bundler, and minifier written in Rust.
@@ -1242,6 +1248,9 @@ looking for my website? go to
 - [rustyline](https://github.com/LeoDog896/rustyline)
   ([homepage](https://crates.io/crates/rustyline/)) - Readline Implementation in
   Rust
+- [rusty_v8](https://github.com/LeoDog896/rusty_v8)
+  ([homepage](https://crates.io/crates/v8)) - Rust bindings for the V8
+  JavaScript engine
 - [rutt](https://github.com/LeoDog896/rutt)
   ([homepage](https://deno.land/x/rutt)) - 🛣️ A tiny and fast http request
   router designed for use with deno and deno deploy

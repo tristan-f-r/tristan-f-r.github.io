@@ -34,6 +34,9 @@ looking for my website? go to
 - [svelte-monaco (5)](https://github.com/LeoDog896/svelte-monaco)
   ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
   integration
+- [svelte-mosaic (5)](https://github.com/LeoDog896/svelte-mosaic)
+  ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
+  window manager
 - [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
   solving an irrelevant unsolved problem in combinatorial mathematics
 - [scannable (4)](https://github.com/LeoDog896/scannable)
@@ -42,9 +45,6 @@ looking for my website? go to
 - [stun-only-rtc (4)](https://github.com/LeoDog896/stun-only-rtc)
   ([homepage](https://leodog896.github.io/stun-only-rtc/)) - WebRTC server demo
   with only a stun server
-- [svelte-mosaic (4)](https://github.com/LeoDog896/svelte-mosaic)
-  ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
-  window manager
 - [biotrack (3)](https://github.com/LeoDog896/biotrack)
   ([homepage](https://leodog896.github.io/biotrack/)) - store information on
   users in private networks

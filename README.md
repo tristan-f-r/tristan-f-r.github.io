@@ -22,7 +22,7 @@ looking for my website? go to
 - [svelte-reparent (16)](https://github.com/LeoDog896/svelte-reparent)
   ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
   with ease in svelte
-- [maxwell (7)](https://github.com/LeoDog896/maxwell)
+- [maxwell (8)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
 - [svelte-mathquill (7)](https://github.com/LeoDog896/svelte-mathquill)
@@ -626,7 +626,7 @@ looking for my website? go to
 - [zed-gruvbox-ish (0)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
   of the vscode gruvbox-ish
 
-## Forks (361)
+## Forks (362)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1152,6 +1152,8 @@ looking for my website? go to
   forked from https://github.com/josephg/noisejs
 - [pest](https://github.com/LeoDog896/pest) ([homepage](https://pest.rs)) - The
   Elegant Parser
+- [petgraph-graphml](https://github.com/LeoDog896/petgraph-graphml) - GraphML
+  output generator for petgraph
 - [pgn-mule](https://github.com/LeoDog896/pgn-mule) - Merge, filter, tweak and
   expose PGN sources
 - [pgn-viewer](https://github.com/LeoDog896/pgn-viewer)

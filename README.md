@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (294)
+## Projects (295)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -459,6 +459,8 @@ looking for my website? go to
 - [quizada (0)](https://github.com/LeoDog896/quizada) - No description provided.
 - [Quizvertor (0)](https://github.com/LeoDog896/Quizvertor) - Browser extension
   that turns Quizlet study sets into note sheets!
+- [r-webpage (0)](https://github.com/LeoDog896/r-webpage) - personal research
+  webpage
 - [random_color (0)](https://github.com/LeoDog896/random_color) - Deno package
   for making random colors -- port of davidmerfield/randomColor
 - [rava (0)](https://github.com/LeoDog896/rava) - Java in rust
@@ -628,7 +630,7 @@ looking for my website? go to
 - [zed-gruvbox-ish (0)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
   of the vscode gruvbox-ish
 
-## Forks (364)
+## Forks (365)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1045,6 +1047,9 @@ looking for my website? go to
 - [marked](https://github.com/LeoDog896/marked)
   ([homepage](https://marked.js.org/)) - A markdown parser and compiler. Built
   for speed.
+- [mathlib4](https://github.com/LeoDog896/mathlib4)
+  ([homepage](https://leanprover-community.github.io/mathlib4_docs)) - The math
+  library of Lean 4
 - [mathlified](https://github.com/LeoDog896/mathlified)
   ([homepage](mdsvex-math-starter.vercel.app)) - Exploring mathematics in the
   digital age

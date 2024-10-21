@@ -630,7 +630,7 @@ looking for my website? go to
 - [zed-gruvbox-ish (0)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
   of the vscode gruvbox-ish
 
-## Forks (365)
+## Forks (364)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1047,9 +1047,6 @@ looking for my website? go to
 - [marked](https://github.com/LeoDog896/marked)
   ([homepage](https://marked.js.org/)) - A markdown parser and compiler. Built
   for speed.
-- [mathlib4](https://github.com/LeoDog896/mathlib4)
-  ([homepage](https://leanprover-community.github.io/mathlib4_docs)) - The math
-  library of Lean 4
 - [mathlified](https://github.com/LeoDog896/mathlified)
   ([homepage](mdsvex-math-starter.vercel.app)) - Exploring mathematics in the
   digital age

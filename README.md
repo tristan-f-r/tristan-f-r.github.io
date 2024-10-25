@@ -12,9 +12,9 @@ looking for my website? go to
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [awesome-minestom (48)](https://github.com/LeoDog896/awesome-minestom) - A
+- [awesome-minestom (49)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
-- [npm-rank (30)](https://github.com/LeoDog896/npm-rank)
+- [npm-rank (31)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
 - [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find

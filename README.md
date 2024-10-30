@@ -630,7 +630,7 @@ looking for my website? go to
 - [zed-gruvbox-ish (0)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
   of the vscode gruvbox-ish
 
-## Forks (364)
+## Forks (366)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1424,6 +1424,9 @@ looking for my website? go to
   tooling which enables ESLint to support TypeScript
 - [typos__fork](https://github.com/LeoDog896/typos__fork) - Source code spell
   checker
+- [typst-test](https://github.com/LeoDog896/typst-test)
+  ([homepage](https://tingerrr.github.io/typst-test/)) - A test runner for typst
+  projects.
 - [ultra](https://github.com/LeoDog896/ultra) - Cryptanalysis of the Enigma
   machine in Rust.
 - [utp-punch](https://github.com/LeoDog896/utp-punch) - uTP (micro transport
@@ -1432,6 +1435,8 @@ looking for my website? go to
   Code Intelligence for Vala & Genie
 - [valence](https://github.com/LeoDog896/valence) - A Rust framework for
   building Minecraft servers.
+- [valkyrie](https://github.com/LeoDog896/valkyrie) - Type safe type safety for
+  Typst
 - [vite](https://github.com/LeoDog896/vite) ([homepage](http://vitejs.dev)) -
   Next generation frontend tooling. It's fast!
 - [vite-plugin-favicon](https://github.com/LeoDog896/vite-plugin-favicon) -

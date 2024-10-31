@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (295)
+## Projects (296)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -601,6 +601,8 @@ looking for my website? go to
   (automatic shortener for uncompressed code)
 - [typescribble (0)](https://github.com/LeoDog896/typescribble) - imagine a
   cooler `npx tsc --init`. done? run `npx typescribble`. (not released -- YET!)
+- [typst-complex-calc (0)](https://github.com/LeoDog896/typst-complex-calc) - No
+  description provided.
 - [unitcircle (0)](https://github.com/LeoDog896/unitcircle) - Unit circle
   practice problems
 - [untyped-npm-packages (0)](https://github.com/LeoDog896/untyped-npm-packages)

@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (296)
+## Projects (297)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -580,6 +580,8 @@ looking for my website? go to
   time it is after X time
 - [tiptap-mathquill (0)](https://github.com/LeoDog896/tiptap-mathquill) - tiptap
   extension for editing math in MathQuill
+- [todays-horsle (0)](https://github.com/LeoDog896/todays-horsle) - today's
+  horsle
 - [tokiponasona.github.io (0)](https://github.com/LeoDog896/tokiponasona.github.io) -
   No description provided.
 - [tool-swing (0)](https://github.com/LeoDog896/tool-swing) - Swing around silly

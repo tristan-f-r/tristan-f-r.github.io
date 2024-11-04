@@ -28,15 +28,15 @@ looking for my website? go to
 - [svelte-mathquill (7)](https://github.com/LeoDog896/svelte-mathquill)
   ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
+- [svelte-mosaic (6)](https://github.com/LeoDog896/svelte-mosaic)
+  ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
+  window manager
 - [co-authored-by (5)](https://github.com/LeoDog896/co-authored-by)
   ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
   co-authored-by descriptions & emails for authors
 - [svelte-monaco (5)](https://github.com/LeoDog896/svelte-monaco)
   ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
   integration
-- [svelte-mosaic (5)](https://github.com/LeoDog896/svelte-mosaic)
-  ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
-  window manager
 - [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
   solving an irrelevant unsolved problem in combinatorial mathematics
 - [scannable (4)](https://github.com/LeoDog896/scannable)

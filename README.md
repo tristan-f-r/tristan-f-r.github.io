@@ -48,6 +48,8 @@ looking for my website? go to
 - [biotrack (3)](https://github.com/LeoDog896/biotrack)
   ([homepage](https://leodog896.github.io/biotrack/)) - store information on
   users in private networks
+- [deno-cava (3)](https://github.com/LeoDog896/deno-cava) - No description
+  provided.
 - [ferret_api (3)](https://github.com/LeoDog896/ferret_api)
   ([homepage](https://leodog896.github.io/ferret_api/)) - collection of ferret
   images
@@ -76,8 +78,6 @@ looking for my website? go to
 - [conspirasea (2)](https://github.com/LeoDog896/conspirasea)
   ([homepage](https://leodog896.github.io/conspirasea)) - make simple yarn-based
   conspiracies
-- [deno-cava (2)](https://github.com/LeoDog896/deno-cava) - No description
-  provided.
 - [ferret_images (2)](https://github.com/LeoDog896/ferret_images)
   ([homepage](https://leodog896.github.io/ferret_api/business)) - collection of
   ferret images, in use with ferret_api

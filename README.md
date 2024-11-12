@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (297)
+## Projects (299)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -261,6 +261,8 @@ looking for my website? go to
 - [deno_op (0)](https://github.com/LeoDog896/deno_op)
   ([homepage](https://leodog896.github.io/deno_op/)) - list of all deno internal
   ops
+- [diamond-mine (0)](https://github.com/LeoDog896/diamond-mine) - No description
+  provided.
 - [direction-test (0)](https://github.com/LeoDog896/direction-test)
   ([homepage](https://leodog896.github.io/direction-test)) - a simple test for
   direction
@@ -539,6 +541,8 @@ looking for my website? go to
 - [stem-carnival-topdown (0)](https://github.com/LeoDog896/stem-carnival-topdown)
   ([homepage](https://leodog896.github.io/stem-carnival-topdown/)) - top down
   game from stem carnival
+- [steppe (0)](https://github.com/LeoDog896/steppe) - tauri-based terminal
+  emulator with a focus on customizability and usability
 - [stitch (0)](https://github.com/LeoDog896/stitch) - component-driven UI
   framework for minestom
 - [stream-frame (0)](https://github.com/LeoDog896/stream-frame) - Web editor
@@ -634,7 +638,7 @@ looking for my website? go to
 - [zed-gruvbox-ish (0)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
   of the vscode gruvbox-ish
 
-## Forks (367)
+## Forks (368)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1405,6 +1409,7 @@ looking for my website? go to
 - [togetherjs](https://github.com/LeoDog896/togetherjs)
   ([homepage](https://togetherjs.com)) - A service for your website that makes
   it surprisingly easy to collaborate in real-time.
+- [tokei](https://github.com/LeoDog896/tokei) - Count your code, quickly.
 - [tokio-udt](https://github.com/LeoDog896/tokio-udt)
   ([homepage](https://docs.rs/tokio_udt)) - No description provided.
 - [toml.dart](https://github.com/LeoDog896/toml.dart) - TOML parser and encoder

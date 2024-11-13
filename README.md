@@ -48,8 +48,8 @@ looking for my website? go to
 - [biotrack (3)](https://github.com/LeoDog896/biotrack)
   ([homepage](https://leodog896.github.io/biotrack/)) - store information on
   users in private networks
-- [deno-cava (3)](https://github.com/LeoDog896/deno-cava) - No description
-  provided.
+- [deno-cava (3)](https://github.com/LeoDog896/deno-cava) - cava CLI bindings to
+  Deno
 - [ferret_api (3)](https://github.com/LeoDog896/ferret_api)
   ([homepage](https://leodog896.github.io/ferret_api/)) - collection of ferret
   images
@@ -638,7 +638,7 @@ looking for my website? go to
 - [zed-gruvbox-ish (0)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
   of the vscode gruvbox-ish
 
-## Forks (368)
+## Forks (369)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1501,6 +1501,8 @@ looking for my website? go to
 - [www.surrealdb.com](https://github.com/LeoDog896/www.surrealdb.com)
   ([homepage](https://surrealdb.com)) - The website, and blog for SurrealDB,
   built using Ember.js
+- [xterm.js](https://github.com/LeoDog896/xterm.js)
+  ([homepage](https://xtermjs.org/)) - A terminal for the web
 - [xtermjs.org](https://github.com/LeoDog896/xtermjs.org)
   ([homepage](https://xtermjs.org)) - The website for xterm.js
 - [xxhash-rust](https://github.com/LeoDog896/xxhash-rust) - Rust implementation

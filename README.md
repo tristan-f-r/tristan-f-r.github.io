@@ -55,6 +55,8 @@ looking for my website? go to
   images
 - [gitpod-deno (3)](https://github.com/LeoDog896/gitpod-deno) - A simple script
   that adds support for deno in gitpod.
+- [godot-jigsaw (3)](https://github.com/LeoDog896/godot-jigsaw) - jigsaw example
+  in godot
 - [jsnow (3)](https://github.com/LeoDog896/jsnow)
   ([homepage](https://now.js.org)) - no clutter. just js, now.
 - [licraft (3)](https://github.com/LeoDog896/licraft) - lichess board
@@ -81,8 +83,6 @@ looking for my website? go to
 - [ferret_images (2)](https://github.com/LeoDog896/ferret_images)
   ([homepage](https://leodog896.github.io/ferret_api/business)) - collection of
   ferret images, in use with ferret_api
-- [godot-jigsaw (2)](https://github.com/LeoDog896/godot-jigsaw) - jigsaw example
-  in godot
 - [lyricly (2)](https://github.com/LeoDog896/lyricly) - song lyrics in the cli
 - [math (2)](https://github.com/LeoDog896/math) - No description provided.
 - [MCInstall (2)](https://github.com/LeoDog896/MCInstall) - MultiMC installation

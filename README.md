@@ -197,6 +197,8 @@ looking for my website? go to
   ([homepage](https://leodog896.com)) - My personal site
 - [wenv (1)](https://github.com/LeoDog896/wenv) - environment variable editor
   application for windows
+- [zed-gruvbox-ish (1)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
+  of the vscode gruvbox-ish
 - [airfoil (0)](https://github.com/LeoDog896/airfoil) - airfoil emulator !
 - [ansi-editor (0)](https://github.com/LeoDog896/ansi-editor) - web-based ANSI
   text code editor
@@ -635,8 +637,6 @@ looking for my website? go to
 - [yolov5-bound-check (0)](https://github.com/LeoDog896/yolov5-bound-check)
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
-- [zed-gruvbox-ish (0)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
-  of the vscode gruvbox-ish
 
 ## Forks (369)
 

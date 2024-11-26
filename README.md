@@ -198,7 +198,7 @@ looking for my website? go to
 - [wenv (1)](https://github.com/LeoDog896/wenv) - environment variable editor
   application for windows
 - [zed-gruvbox-ish (1)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
-  of the vscode gruvbox-ish
+  of the vscode gruvbox-ish theme
 - [airfoil (0)](https://github.com/LeoDog896/airfoil) - airfoil emulator !
 - [ansi-editor (0)](https://github.com/LeoDog896/ansi-editor) - web-based ANSI
   text code editor

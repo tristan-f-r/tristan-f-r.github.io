@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (299)
+## Projects (298)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -463,8 +463,6 @@ looking for my website? go to
 - [quizada (0)](https://github.com/LeoDog896/quizada) - No description provided.
 - [Quizvertor (0)](https://github.com/LeoDog896/Quizvertor) - Browser extension
   that turns Quizlet study sets into note sheets!
-- [r-webpage (0)](https://github.com/LeoDog896/r-webpage) - personal research
-  webpage
 - [random_color (0)](https://github.com/LeoDog896/random_color) - Deno package
   for making random colors -- port of davidmerfield/randomColor
 - [rava (0)](https://github.com/LeoDog896/rava) - Java in rust

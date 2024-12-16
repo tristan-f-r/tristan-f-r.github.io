@@ -636,7 +636,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (371)
+## Forks (372)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1461,6 +1461,8 @@ looking for my website? go to
 - [vite-plugin-webfont-dl](https://github.com/LeoDog896/vite-plugin-webfont-dl) -
   ⚡ Webfont Download Vite Plugin - Make your Vite site load faster
 - [voxel-rs](https://github.com/LeoDog896/voxel-rs) - Rust Voxel engine
+- [vscode-lean4](https://github.com/LeoDog896/vscode-lean4) - Visual Studio Code
+  extension for the Lean 4 proof assistant
 - [vscode_deno](https://github.com/LeoDog896/vscode_deno)
   ([homepage](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno)) -
   Visual Studio Code plugin for Deno

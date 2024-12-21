@@ -12,7 +12,7 @@ looking for my website? go to
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [awesome-minestom (51)](https://github.com/LeoDog896/awesome-minestom) - A
+- [awesome-minestom (52)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [npm-rank (34)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
@@ -1527,7 +1527,7 @@ looking for my website? go to
 - [scannable-old-fork (4)](https://github.com/LeoDog896/scannable-old-fork)
   ([homepage](https://leodog896.github.io/scannable)) - QR code generator for
   the web
-- [awesome-surrealdb (1)](https://github.com/LeoDog896/awesome-surrealdb) - A
+- [awesome-surrealdb (2)](https://github.com/LeoDog896/awesome-surrealdb) - A
   curated list of awesome SurrealDB resources, libraries, tools, and
   applications.
 - [dite-deno (1)](https://github.com/LeoDog896/dite-deno) - a little bit of a

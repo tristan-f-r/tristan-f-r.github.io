@@ -14,7 +14,7 @@ looking for my website? go to
 
 - [awesome-minestom (53)](https://github.com/LeoDog896/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
-- [npm-rank (34)](https://github.com/LeoDog896/npm-rank)
+- [npm-rank (35)](https://github.com/LeoDog896/npm-rank)
   ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
   npm packages
 - [deno-outdated (19)](https://github.com/LeoDog896/deno-outdated) - Find
@@ -639,7 +639,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (372)
+## Forks (373)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1019,6 +1019,9 @@ looking for my website? go to
 - [lczero.org](https://github.com/LeoDog896/lczero.org)
   ([homepage](https://leodog896.github.io/lczero.org/)) - A website (will be
   lczero.org)
+- [lean4](https://github.com/LeoDog896/lean4)
+  ([homepage](https://lean-lang.org)) - Lean 4 programming language and theorem
+  prover
 - [leptos](https://github.com/LeoDog896/leptos)
   ([homepage](https://leptos.dev)) - Build fast web applications with Rust.
 - [lhs-underwater-robotics](https://github.com/LeoDog896/lhs-underwater-robotics) -

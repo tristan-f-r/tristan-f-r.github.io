@@ -188,6 +188,8 @@ looking for my website? go to
 - [the-things-we-carry (1)](https://github.com/LeoDog896/the-things-we-carry)
   ([homepage](https://leodog896.github.io/the-things-we-carry)) - A game based
   off of the things they carried, for a school project.
+- [todays-horsle (1)](https://github.com/LeoDog896/todays-horsle) - today's
+  horsle
 - [treblecross-solver (1)](https://github.com/LeoDog896/treblecross-solver) - A
   treblecross solver written in Deno
 - [twind-colors (1)](https://github.com/LeoDog896/twind-colors)
@@ -587,8 +589,6 @@ looking for my website? go to
   time it is after X time
 - [tiptap-mathquill (0)](https://github.com/LeoDog896/tiptap-mathquill) - tiptap
   extension for editing math in MathQuill
-- [todays-horsle (0)](https://github.com/LeoDog896/todays-horsle) - today's
-  horsle
 - [tokiponasona.github.io (0)](https://github.com/LeoDog896/tokiponasona.github.io) -
   No description provided.
 - [tool-swing (0)](https://github.com/LeoDog896/tool-swing) - Swing around silly

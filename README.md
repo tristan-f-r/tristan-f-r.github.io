@@ -83,6 +83,8 @@ looking for my website? go to
 - [ferret_images (2)](https://github.com/LeoDog896/ferret_images)
   ([homepage](https://leodog896.github.io/ferret_api/business)) - collection of
   ferret images, in use with ferret_api
+- [jigsawable (2)](https://github.com/LeoDog896/jigsawable) - jigsaw game in
+  godot, demonstrating the `godot-jigsaw` repository example
 - [lyricly (2)](https://github.com/LeoDog896/lyricly) - song lyrics in the cli
 - [math (2)](https://github.com/LeoDog896/math) - No description provided.
 - [MCInstall (2)](https://github.com/LeoDog896/MCInstall) - MultiMC installation
@@ -145,8 +147,6 @@ looking for my website? go to
 - [git-cli-viewer (1)](https://github.com/LeoDog896/git-cli-viewer) - open git
   repos for browsing
 - [glop-nix (1)](https://github.com/LeoDog896/glop-nix) - glop for nix
-- [jigsawable (1)](https://github.com/LeoDog896/jigsawable) - jigsaw game in
-  godot, demonstrating the `godot-jigsaw` repository example
 - [kanban (1)](https://github.com/LeoDog896/kanban) - a kanban management system
 - [Llama-Zips (1)](https://github.com/LeoDog896/Llama-Zips) - A game with a
   llama and a grappling hook made in Godot

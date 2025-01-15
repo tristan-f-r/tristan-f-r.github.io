@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (300)
+## Projects (301)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -587,6 +587,8 @@ looking for my website? go to
 - [text-gradient (0)](https://github.com/LeoDog896/text-gradient) - copy silly
   little text gradients to your favorite WYSWIG editors
 - [thequeen (0)](https://github.com/LeoDog896/thequeen) - the queen was cool
+- [thing-that-pings-me-on-discord-every-day (0)](https://github.com/LeoDog896/thing-that-pings-me-on-discord-every-day) -
+  its a thing that pings me on discord every day
 - [time-from-now (0)](https://github.com/LeoDog896/time-from-now) - check what
   time it is after X time
 - [tiptap-mathquill (0)](https://github.com/LeoDog896/tiptap-mathquill) - tiptap

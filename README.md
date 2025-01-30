@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://LeoDog896.github.io](https://LeoDog896.github.io) instead.
 
-## Projects (301)
+## Projects (302)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -22,7 +22,7 @@ looking for my website? go to
 - [svelte-reparent (16)](https://github.com/LeoDog896/svelte-reparent)
   ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
   with ease in svelte
-- [maxwell (8)](https://github.com/LeoDog896/maxwell)
+- [maxwell (9)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
 - [svelte-mathquill (7)](https://github.com/LeoDog896/svelte-mathquill)
@@ -102,6 +102,9 @@ looking for my website? go to
   for local & session storage
 - [taxevasion.tk (2)](https://github.com/LeoDog896/taxevasion.tk)
   ([homepage](http://taxevasion.tk)) - how to commit tax evasion
+- [unsolved-lean (2)](https://github.com/LeoDog896/unsolved-lean)
+  ([homepage](https://leodog896.github.io/unsolved-lean/)) - catalogue of sorrys
+  or proof_wanted in established lean formalization projects.
 - [allergitaves (1)](https://github.com/LeoDog896/allergitaves)
   ([homepage](https://leodog896.github.io/allergitaves/)) - list of common
   allergy aliases and what they actually are

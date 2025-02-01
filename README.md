@@ -34,6 +34,9 @@ looking for my website? go to
 - [co-authored-by (5)](https://github.com/LeoDog896/co-authored-by)
   ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
   co-authored-by descriptions & emails for authors
+- [guess-the-color (5)](https://github.com/LeoDog896/guess-the-color)
+  ([homepage](https://leodog896.github.io/guess-the-color/)) - guess it. by
+  name. good luck
 - [svelte-monaco (5)](https://github.com/LeoDog896/svelte-monaco)
   ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
   integration
@@ -57,9 +60,6 @@ looking for my website? go to
   that adds support for deno in gitpod.
 - [godot-jigsaw (3)](https://github.com/LeoDog896/godot-jigsaw) - jigsaw example
   in godot
-- [guess-the-color (3)](https://github.com/LeoDog896/guess-the-color)
-  ([homepage](https://leodog896.github.io/guess-the-color/)) - guess it. by
-  name. good luck
 - [jsnow (3)](https://github.com/LeoDog896/jsnow)
   ([homepage](https://now.js.org)) - no clutter. just js, now.
 - [licraft (3)](https://github.com/LeoDog896/licraft) - lichess board

@@ -28,15 +28,15 @@ looking for my website? go to
 - [svelte-mathquill (7)](https://github.com/LeoDog896/svelte-mathquill)
   ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
+- [guess-the-color (6)](https://github.com/LeoDog896/guess-the-color)
+  ([homepage](https://leodog896.github.io/guess-the-color/)) - guess it. by
+  name. good luck
 - [svelte-mosaic (6)](https://github.com/LeoDog896/svelte-mosaic)
   ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
   window manager
 - [co-authored-by (5)](https://github.com/LeoDog896/co-authored-by)
   ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
   co-authored-by descriptions & emails for authors
-- [guess-the-color (5)](https://github.com/LeoDog896/guess-the-color)
-  ([homepage](https://leodog896.github.io/guess-the-color/)) - guess it. by
-  name. good luck
 - [svelte-monaco (5)](https://github.com/LeoDog896/svelte-monaco)
   ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
   integration

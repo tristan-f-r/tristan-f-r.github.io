@@ -154,6 +154,9 @@ looking for my website? go to
   repos for browsing
 - [glop-nix (1)](https://github.com/LeoDog896/glop-nix) - glop for nix
 - [kanban (1)](https://github.com/LeoDog896/kanban) - a kanban management system
+- [leodog896.github.io (1)](https://github.com/LeoDog896/leodog896.github.io)
+  ([homepage](https://leodog896.github.io/)) - auto-generated list of
+  repositories on my account, mainly for catalogue info
 - [Llama-Zips (1)](https://github.com/LeoDog896/Llama-Zips) - A game with a
   llama and a grappling hook made in Godot
 - [Logitech-Extreme-3d-Pro-Visualizer (1)](https://github.com/LeoDog896/Logitech-Extreme-3d-Pro-Visualizer)
@@ -373,9 +376,6 @@ looking for my website? go to
 - [length (0)](https://github.com/LeoDog896/length)
   ([homepage](https://leodog896.github.io/length/)) - get the length of a string
 - [LeoDog896 (0)](https://github.com/LeoDog896/LeoDog896) - readme files
-- [leodog896.github.io (0)](https://github.com/LeoDog896/leodog896.github.io)
-  ([homepage](https://leodog896.github.io/)) - auto-generated list of
-  repositories on my account, mainly for catalogue info
 - [less-rs (0)](https://github.com/LeoDog896/less-rs) - less in rust
 - [lets-hackmud (0)](https://github.com/LeoDog896/lets-hackmud) - a little (for
   self, maybe for others?) guide and tips for hackmud

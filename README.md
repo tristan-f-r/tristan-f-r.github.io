@@ -28,6 +28,9 @@ looking for my website? go to
 - [svelte-mathquill (7)](https://github.com/LeoDog896/svelte-mathquill)
   ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
+- [svelte-monaco (6)](https://github.com/LeoDog896/svelte-monaco)
+  ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
+  integration
 - [svelte-mosaic (6)](https://github.com/LeoDog896/svelte-mosaic)
   ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
   window manager
@@ -37,9 +40,6 @@ looking for my website? go to
 - [guess-the-color (5)](https://github.com/LeoDog896/guess-the-color)
   ([homepage](https://leodog896.github.io/guess-the-color/)) - guess it. by
   name. good luck
-- [svelte-monaco (5)](https://github.com/LeoDog896/svelte-monaco)
-  ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
-  integration
 - [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
   solving an irrelevant unsolved problem in combinatorial mathematics
 - [scannable (4)](https://github.com/LeoDog896/scannable)

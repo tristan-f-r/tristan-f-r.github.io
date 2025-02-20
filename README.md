@@ -34,14 +34,17 @@ looking for my website? go to
 - [svelte-mosaic (6)](https://github.com/LeoDog896/svelte-mosaic)
   ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
   window manager
+- [beggar-my-neighbour (5)](https://github.com/LeoDog896/beggar-my-neighbour) -
+  solving an irrelevant unsolved problem in combinatorial mathematics
 - [co-authored-by (5)](https://github.com/LeoDog896/co-authored-by)
   ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
   co-authored-by descriptions & emails for authors
 - [guess-the-color (5)](https://github.com/LeoDog896/guess-the-color)
   ([homepage](https://leodog896.github.io/guess-the-color/)) - guess it. by
   name. good luck
-- [beggar-my-neighbour (4)](https://github.com/LeoDog896/beggar-my-neighbour) -
-  solving an irrelevant unsolved problem in combinatorial mathematics
+- [ferret_api (4)](https://github.com/LeoDog896/ferret_api)
+  ([homepage](https://leodog896.github.io/ferret_api/)) - collection of ferret
+  images
 - [scannable (4)](https://github.com/LeoDog896/scannable)
   ([homepage](https://leodog896.github.io/scannable/)) - QR code generation for
   a modern web
@@ -53,9 +56,6 @@ looking for my website? go to
   users in private networks
 - [deno-cava (3)](https://github.com/LeoDog896/deno-cava) - cava CLI bindings to
   Deno
-- [ferret_api (3)](https://github.com/LeoDog896/ferret_api)
-  ([homepage](https://leodog896.github.io/ferret_api/)) - collection of ferret
-  images
 - [gitpod-deno (3)](https://github.com/LeoDog896/gitpod-deno) - A simple script
   that adds support for deno in gitpod.
 - [godot-jigsaw (3)](https://github.com/LeoDog896/godot-jigsaw) - jigsaw example
@@ -86,6 +86,9 @@ looking for my website? go to
 - [ferret_images (2)](https://github.com/LeoDog896/ferret_images)
   ([homepage](https://leodog896.github.io/ferret_api/business)) - collection of
   ferret images, in use with ferret_api
+- [game-solver (2)](https://github.com/LeoDog896/game-solver)
+  ([homepage](https://leodog896.github.io/game-solver/)) - Solve any sequential
+  game.
 - [jigsawable (2)](https://github.com/LeoDog896/jigsawable) - jigsaw game in
   godot, demonstrating the `godot-jigsaw` repository example
 - [lyricly (2)](https://github.com/LeoDog896/lyricly) - song lyrics in the cli
@@ -111,6 +114,8 @@ looking for my website? go to
 - [allergitaves (1)](https://github.com/LeoDog896/allergitaves)
   ([homepage](https://leodog896.github.io/allergitaves/)) - list of common
   allergy aliases and what they actually are
+- [asciipinski (1)](https://github.com/LeoDog896/asciipinski) - Make ascii
+  sierpiński triangles
 - [asl-caption (1)](https://github.com/LeoDog896/asl-caption)
   ([homepage](https://leodog896.github.io/asl-caption/)) - generate captions
   from videos containing ASL
@@ -147,9 +152,6 @@ looking for my website? go to
 - [eyeball (1)](https://github.com/LeoDog896/eyeball)
   ([homepage](https://leodog896.github.io/eyeball/)) - moving eyeball that
   follows the cursor
-- [game-solver (1)](https://github.com/LeoDog896/game-solver)
-  ([homepage](https://leodog896.github.io/game-solver/)) - Solve any sequential
-  game.
 - [git-cli-viewer (1)](https://github.com/LeoDog896/git-cli-viewer) - open git
   repos for browsing
 - [glop-nix (1)](https://github.com/LeoDog896/glop-nix) - glop for nix
@@ -217,8 +219,6 @@ looking for my website? go to
   ansi file. see a timeline. thats it
 - [arrowtype (0)](https://github.com/LeoDog896/arrowtype)
   ([homepage](https://leodog896.github.io/arrowtype/)) - arrow typing program
-- [asciipinski (0)](https://github.com/LeoDog896/asciipinski) - Make ascii
-  sierpiński triangles
 - [auth70-bodyguard-triage (0)](https://github.com/LeoDog896/auth70-bodyguard-triage) -
   triage repository for https://github.com/auth70/bodyguard/issues/1
 - [base-n-finder (0)](https://github.com/LeoDog896/base-n-finder) - find numbers

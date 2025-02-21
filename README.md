@@ -22,7 +22,7 @@ looking for my website? go to
 - [svelte-reparent (16)](https://github.com/LeoDog896/svelte-reparent)
   ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
   with ease in svelte
-- [maxwell (9)](https://github.com/LeoDog896/maxwell)
+- [maxwell (10)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
 - [svelte-mathquill (7)](https://github.com/LeoDog896/svelte-mathquill)

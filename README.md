@@ -22,7 +22,7 @@ looking for my website? go to
 - [svelte-reparent (16)](https://github.com/LeoDog896/svelte-reparent)
   ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
   with ease in svelte
-- [maxwell (10)](https://github.com/LeoDog896/maxwell)
+- [maxwell (11)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
 - [svelte-mathquill (7)](https://github.com/LeoDog896/svelte-mathquill)
@@ -111,6 +111,8 @@ looking for my website? go to
 - [unsolved-lean (2)](https://github.com/LeoDog896/unsolved-lean)
   ([homepage](https://leodog896.github.io/unsolved-lean/)) - catalogue of sorrys
   or proof_wanted in established lean formalization projects.
+- [zed-gruvbox-ish (2)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
+  of the vscode gruvbox-ish theme
 - [allergitaves (1)](https://github.com/LeoDog896/allergitaves)
   ([homepage](https://leodog896.github.io/allergitaves/)) - list of common
   allergy aliases and what they actually are
@@ -210,8 +212,6 @@ looking for my website? go to
   ([homepage](https://leodog896.com)) - My personal site
 - [wenv (1)](https://github.com/LeoDog896/wenv) - environment variable editor
   application for windows
-- [zed-gruvbox-ish (1)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
-  of the vscode gruvbox-ish theme
 - [airfoil (0)](https://github.com/LeoDog896/airfoil) - airfoil emulator !
 - [ansi-editor (0)](https://github.com/LeoDog896/ansi-editor) - web-based ANSI
   text code editor

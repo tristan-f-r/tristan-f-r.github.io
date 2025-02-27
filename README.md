@@ -25,7 +25,7 @@ looking for my website? go to
 - [maxwell (11)](https://github.com/LeoDog896/maxwell)
   ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
   maxwell fan website
-- [svelte-mathquill (7)](https://github.com/LeoDog896/svelte-mathquill)
+- [svelte-mathquill (8)](https://github.com/LeoDog896/svelte-mathquill)
   ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
 - [svelte-monaco (6)](https://github.com/LeoDog896/svelte-monaco)

@@ -28,14 +28,14 @@ looking for my website? go to
 - [svelte-mathquill (8)](https://github.com/LeoDog896/svelte-mathquill)
   ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
-- [beggar-my-neighbour (6)](https://github.com/LeoDog896/beggar-my-neighbour) -
-  solving an irrelevant unsolved problem in combinatorial mathematics
 - [svelte-monaco (6)](https://github.com/LeoDog896/svelte-monaco)
   ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
   integration
 - [svelte-mosaic (6)](https://github.com/LeoDog896/svelte-mosaic)
   ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
   window manager
+- [beggar-my-neighbour (5)](https://github.com/LeoDog896/beggar-my-neighbour) -
+  solving an irrelevant unsolved problem in combinatorial mathematics
 - [co-authored-by (5)](https://github.com/LeoDog896/co-authored-by)
   ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
   co-authored-by descriptions & emails for authors
@@ -78,9 +78,6 @@ looking for my website? go to
   auto-updating today's wordle
 - [type (3)](https://github.com/LeoDog896/type)
   ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
-- [unsolved-lean (3)](https://github.com/LeoDog896/unsolved-lean)
-  ([homepage](https://leodog896.github.io/unsolved-lean/)) - catalogue of sorrys
-  or proof_wanted in established lean formalization projects.
 - [cloud-url-resolver (2)](https://github.com/LeoDog896/cloud-url-resolver) -
   easily resolve protocol/port setups on any development platform
 - [conspirasea (2)](https://github.com/LeoDog896/conspirasea)
@@ -111,6 +108,9 @@ looking for my website? go to
   for local & session storage
 - [taxevasion.tk (2)](https://github.com/LeoDog896/taxevasion.tk)
   ([homepage](http://taxevasion.tk)) - how to commit tax evasion
+- [unsolved-lean (2)](https://github.com/LeoDog896/unsolved-lean)
+  ([homepage](https://leodog896.github.io/unsolved-lean/)) - catalogue of sorrys
+  or proof_wanted in established lean formalization projects.
 - [zed-gruvbox-ish (2)](https://github.com/LeoDog896/zed-gruvbox-ish) - zed port
   of the vscode gruvbox-ish theme
 - [allergitaves (1)](https://github.com/LeoDog896/allergitaves)
@@ -154,6 +154,9 @@ looking for my website? go to
 - [eyeball (1)](https://github.com/LeoDog896/eyeball)
   ([homepage](https://leodog896.github.io/eyeball/)) - moving eyeball that
   follows the cursor
+- [fuzz-directory (1)](https://github.com/LeoDog896/fuzz-directory)
+  ([homepage](https://leodog896.github.io/fuzz-directory/)) - view oss fuzz
+  projects
 - [git-cli-viewer (1)](https://github.com/LeoDog896/git-cli-viewer) - open git
   repos for browsing
 - [glop-nix (1)](https://github.com/LeoDog896/glop-nix) - glop for nix
@@ -307,9 +310,6 @@ looking for my website? go to
 - [fluid (0)](https://github.com/LeoDog896/fluid) - silly fluid simulation
 - [fullscreen (0)](https://github.com/LeoDog896/fullscreen) - display an image
   as max sized as possible (school blocked backgrounds, and thus 1984)
-- [fuzz-directory (0)](https://github.com/LeoDog896/fuzz-directory)
-  ([homepage](https://leodog896.github.io/fuzz-directory/)) - view oss fuzz
-  projects
 - [fuzzgression (0)](https://github.com/LeoDog896/fuzzgression) - common
   regression patterns to identify type of function
 - [game-of-crackers (0)](https://github.com/LeoDog896/game-of-crackers)

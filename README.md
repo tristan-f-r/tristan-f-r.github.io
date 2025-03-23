@@ -649,7 +649,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (375)
+## Forks (376)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1304,6 +1304,9 @@ looking for my website? go to
   ([homepage](https://npmjs.com/serve-handler)) - The foundation of `serve`
 - [servo](https://github.com/LeoDog896/servo) ([homepage](https://servo.org/)) -
   The Servo Browser Engine
+- [seymour](https://github.com/LeoDog896/seymour)
+  ([homepage](https://ivan-sergeyev.github.io/seymour/)) - This project is about
+  formally verifying Seymour's decomposition theorem for regular matroids.
 - [shakmaty](https://github.com/LeoDog896/shakmaty)
   ([homepage](https://docs.rs/shakmaty)) - A Rust library for chess and chess
   variant rules and operations

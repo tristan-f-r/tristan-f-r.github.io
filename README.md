@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://tristan-f-r.github.io](https://tristan-f-r.github.io) instead.
 
-## Projects (304)
+## Projects (302)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -15,44 +15,44 @@ looking for my website? go to
 - [awesome-minestom (53)](https://github.com/tristan-f-r/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [npm-rank (37)](https://github.com/tristan-f-r/npm-rank)
-  ([homepage](https://leodog896.github.io/npm-rank/PACKAGES.html)) - get popular
-  npm packages
+  ([homepage](https://tristan-f-r.github.io/npm-rank/PACKAGES.html)) - get
+  popular npm packages
 - [deno-outdated (19)](https://github.com/tristan-f-r/deno-outdated) - Find
   outdated dependencies in your deno project
 - [svelte-reparent (16)](https://github.com/tristan-f-r/svelte-reparent)
-  ([homepage](https://leodog896.github.io/svelte-reparent/)) - reparent elements
-  with ease in svelte
+  ([homepage](https://tristan-f-r.github.io/svelte-reparent/)) - reparent
+  elements with ease in svelte
 - [maxwell (11)](https://github.com/tristan-f-r/maxwell)
-  ([homepage](https://leodog896.github.io/maxwell)) - raw maxwell models and
+  ([homepage](https://tristan-f-r.github.io/maxwell/)) - raw maxwell models and
   maxwell fan website
 - [svelte-mathquill (8)](https://github.com/tristan-f-r/svelte-mathquill)
-  ([homepage](https://leodog896.github.io/svelte-mathquill/)) - MathQuill
+  ([homepage](https://tristan-f-r.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
 - [svelte-monaco (6)](https://github.com/tristan-f-r/svelte-monaco)
-  ([homepage](https://leodog896.github.io/svelte-monaco/)) - svelte + monaco
+  ([homepage](https://tristan-f-r.github.io/svelte-monaco/)) - svelte + monaco
   integration
 - [svelte-mosaic (6)](https://github.com/tristan-f-r/svelte-mosaic)
-  ([homepage](https://leodog896.github.io/svelte-mosaic/)) - svelte's tiling
+  ([homepage](https://tristan-f-r.github.io/svelte-mosaic/)) - svelte's tiling
   window manager
 - [beggar-my-neighbour (5)](https://github.com/tristan-f-r/beggar-my-neighbour) -
   solving an irrelevant unsolved problem in combinatorial mathematics
 - [co-authored-by (5)](https://github.com/tristan-f-r/co-authored-by)
-  ([homepage](https://leodog896.github.io/co-authored-by/)) - generate
+  ([homepage](https://tristan-f-r.github.io/co-authored-by/)) - generate
   co-authored-by descriptions & emails for authors
 - [guess-the-color (5)](https://github.com/tristan-f-r/guess-the-color)
-  ([homepage](https://leodog896.github.io/guess-the-color/)) - guess it. by
+  ([homepage](https://tristan-f-r.github.io/guess-the-color/)) - guess it. by
   name. good luck
 - [ferret_api (4)](https://github.com/tristan-f-r/ferret_api)
-  ([homepage](https://leodog896.github.io/ferret_api/)) - collection of ferret
+  ([homepage](https://tristan-f-r.github.io/ferret_api/)) - collection of ferret
   images
 - [scannable (4)](https://github.com/tristan-f-r/scannable)
-  ([homepage](https://leodog896.github.io/scannable/)) - QR code generation for
-  a modern web
+  ([homepage](https://tristan-f-r.github.io/scannable/)) - QR code generation
+  for a modern web
 - [stun-only-rtc (4)](https://github.com/tristan-f-r/stun-only-rtc)
-  ([homepage](https://leodog896.github.io/stun-only-rtc/)) - WebRTC server demo
-  with only a stun server
+  ([homepage](https://tristan-f-r.github.io/stun-only-rtc/)) - WebRTC server
+  demo with only a stun server
 - [biotrack (3)](https://github.com/tristan-f-r/biotrack)
-  ([homepage](https://leodog896.github.io/biotrack/)) - store information on
+  ([homepage](https://tristan-f-r.github.io/biotrack/)) - store information on
   users in private networks
 - [deno-cava (3)](https://github.com/tristan-f-r/deno-cava) - cava CLI bindings
   to Deno
@@ -69,26 +69,26 @@ looking for my website? go to
 - [sttcv (3)](https://github.com/tristan-f-r/sttcv) - Svelte tailwind component
   vite template
 - [svelte-text-path (3)](https://github.com/tristan-f-r/svelte-text-path)
-  ([homepage](https://leodog896.github.io/svelte-text-path/)) - Reactive
+  ([homepage](https://tristan-f-r.github.io/svelte-text-path/)) - Reactive
   auto-fitting text-path Svelte library.
 - [svelte-tilt (3)](https://github.com/tristan-f-r/svelte-tilt)
-  ([homepage](https://leodog896.github.io/svelte-tilt/)) - Tilt library for
+  ([homepage](https://tristan-f-r.github.io/svelte-tilt/)) - Tilt library for
   svelte
 - [todays-wordle (3)](https://github.com/tristan-f-r/todays-wordle) -
   auto-updating today's wordle
 - [type (3)](https://github.com/tristan-f-r/type)
-  ([homepage](https://leodog896.github.io/type/)) - ridiculously simple typer
+  ([homepage](https://tristan-f-r.github.io/type/)) - ridiculously simple typer
 - [cloud-url-resolver (2)](https://github.com/tristan-f-r/cloud-url-resolver) -
   easily resolve protocol/port setups on any development platform
 - [conspirasea (2)](https://github.com/tristan-f-r/conspirasea)
-  ([homepage](https://leodog896.github.io/conspirasea)) - make simple yarn-based
-  conspiracies
+  ([homepage](https://tristan-f-r.github.io/conspirasea/)) - make simple
+  yarn-based conspiracies
 - [ferret_images (2)](https://github.com/tristan-f-r/ferret_images)
-  ([homepage](https://leodog896.github.io/ferret_api/business)) - collection of
-  ferret images, in use with ferret_api
+  ([homepage](https://tristan-f-r.github.io/ferret_api/business)) - collection
+  of ferret images, in use with ferret_api
 - [game-solver (2)](https://github.com/tristan-f-r/game-solver)
-  ([homepage](https://leodog896.github.io/game-solver/)) - Solve any sequential
-  game.
+  ([homepage](https://tristan-f-r.github.io/game-solver/)) - Solve any
+  sequential game.
 - [jigsawable (2)](https://github.com/tristan-f-r/jigsawable) - jigsaw game in
   godot, demonstrating the `godot-jigsaw` repository example
 - [lyricly (2)](https://github.com/tristan-f-r/lyricly) - song lyrics in the cli
@@ -98,34 +98,32 @@ looking for my website? go to
 - [redos.deno (2)](https://github.com/tristan-f-r/redos.deno) - check for ReDoS
   vulnerabilities in code.
 - [rotator (2)](https://github.com/tristan-f-r/rotator)
-  ([homepage](https://leodog896.github.io/rotator/)) - reupload of source code
+  ([homepage](https://tristan-f-r.github.io/rotator/)) - reupload of source code
   from https://gitlab.com/jonot-cyber/rotate-game
 - [sim (2)](https://github.com/tristan-f-r/sim)
-  ([homepage](https://leodog896.github.io/sim/)) - implementation of sim (the
+  ([homepage](https://tristan-f-r.github.io/sim/)) - implementation of sim (the
   game)
 - [svelte-persistent (2)](https://github.com/tristan-f-r/svelte-persistent)
-  ([homepage](https://leodog896.github.io/svelte-persistent)) - Svelte writables
-  for local & session storage
-- [taxevasion.tk (2)](https://github.com/tristan-f-r/taxevasion.tk)
-  ([homepage](http://taxevasion.tk)) - how to commit tax evasion
+  ([homepage](https://tristan-f-r.github.io/svelte-persistent/)) - Svelte
+  writables for local & session storage
+- [tristan-f-r.github.io (2)](https://github.com/tristan-f-r/tristan-f-r.github.io)
+  ([homepage](https://tristan-f-r.github.io/)) - auto-generated list of
+  repositories on my account, mainly for catalogue info
 - [unsolved-lean (2)](https://github.com/tristan-f-r/unsolved-lean)
-  ([homepage](https://leodog896.github.io/unsolved-lean/)) - catalogue of sorrys
-  or proof_wanted in established lean formalization projects.
+  ([homepage](https://tristan-f-r.github.io/unsolved-lean/)) - catalogue of
+  sorrys or proof_wanted in established lean formalization projects.
 - [zed-gruvbox-ish (2)](https://github.com/tristan-f-r/zed-gruvbox-ish) - zed
   port of the vscode gruvbox-ish theme
-- [allergitaves (1)](https://github.com/tristan-f-r/allergitaves)
-  ([homepage](https://leodog896.github.io/allergitaves/)) - list of common
-  allergy aliases and what they actually are
 - [asciipinski (1)](https://github.com/tristan-f-r/asciipinski) - Make ascii
   sierpiński triangles
 - [asl-caption (1)](https://github.com/tristan-f-r/asl-caption)
   ([homepage](https://leodog896.github.io/asl-caption/)) - generate captions
   from videos containing ASL
 - [black (1)](https://github.com/tristan-f-r/black)
-  ([homepage](https://leodog896.github.io/black/)) - for dirty screens
+  ([homepage](https://tristan-f-r.github.io/black/)) - for dirty screens
 - [black-footed-ferret (1)](https://github.com/tristan-f-r/black-footed-ferret)
-  ([homepage](https://leodog896.github.io/black-footed-ferret/)) - a website to
-  raise awareness of the black footed ferret.
+  ([homepage](https://tristan-f-r.github.io/black-footed-ferret/)) - a website
+  to raise awareness of the black footed ferret.
 - [bluebooth (1)](https://github.com/tristan-f-r/bluebooth) - No description
   provided.
 - [bookmarklet-editor (1)](https://github.com/tristan-f-r/bookmarklet-editor) -
@@ -142,7 +140,7 @@ looking for my website? go to
   function to turn any arbitrary function into equidistant points from [a, b]
   with n points.
 - [doke (1)](https://github.com/tristan-f-r/doke)
-  ([homepage](https://leodog896.github.io/doke)) - code decoder
+  ([homepage](https://tristan-f-r.github.io/doke/)) - code decoder
 - [duckshow (1)](https://github.com/tristan-f-r/duckshow)
   ([homepage](https://leodog896.github.io/duckshow/)) - a slideshow for many
   animals
@@ -152,10 +150,10 @@ looking for my website? go to
 - [esbuild-plugin-deno-resolve (1)](https://github.com/tristan-f-r/esbuild-plugin-deno-resolve) -
   Plugin to resolve deno import maps and URLs
 - [eyeball (1)](https://github.com/tristan-f-r/eyeball)
-  ([homepage](https://leodog896.github.io/eyeball/)) - moving eyeball that
+  ([homepage](https://tristan-f-r.github.io/eyeball/)) - moving eyeball that
   follows the cursor
 - [fuzz-directory (1)](https://github.com/tristan-f-r/fuzz-directory)
-  ([homepage](https://leodog896.github.io/fuzz-directory/)) - view oss fuzz
+  ([homepage](https://tristan-f-r.github.io/fuzz-directory/)) - view oss fuzz
   projects
 - [git-cli-viewer (1)](https://github.com/tristan-f-r/git-cli-viewer) - open git
   repos for browsing
@@ -175,7 +173,7 @@ looking for my website? go to
 - [opennow (1)](https://github.com/tristan-f-r/opennow) - No description
   provided.
 - [pad-life (1)](https://github.com/tristan-f-r/pad-life)
-  ([homepage](https://leodog896.github.io/pad-life/)) - Alternative version of
+  ([homepage](https://tristan-f-r.github.io/pad-life/)) - Alternative version of
   game-of-life that is semi-controllable.
 - [parcel-resolver-svgmoji (1)](https://github.com/tristan-f-r/parcel-resolver-svgmoji) -
   simple emoji favicons in parcel
@@ -207,9 +205,6 @@ looking for my website? go to
   horsle
 - [treblecross-solver (1)](https://github.com/tristan-f-r/treblecross-solver) -
   A treblecross solver written in Deno
-- [tristan-f-r.github.io (1)](https://github.com/tristan-f-r/tristan-f-r.github.io)
-  ([homepage](https://leodog896.github.io/)) - auto-generated list of
-  repositories on my account, mainly for catalogue info
 - [twind-colors (1)](https://github.com/tristan-f-r/twind-colors)
   ([homepage](https://leodog896.github.io/twind-colors/)) - Online copyable
   cheatsheet/list of twind colors.

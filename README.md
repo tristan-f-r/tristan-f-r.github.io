@@ -45,6 +45,8 @@ looking for my website? go to
 - [ferret_api (4)](https://github.com/tristan-f-r/ferret_api)
   ([homepage](https://tristan-f-r.github.io/ferret_api/)) - collection of ferret
   images
+- [motion-canvas-3d (4)](https://github.com/tristan-f-r/motion-canvas-3d) -
+  motion-canvas 3d integration
 - [scannable (4)](https://github.com/tristan-f-r/scannable)
   ([homepage](https://tristan-f-r.github.io/scannable/)) - QR code generation
   for a modern web
@@ -64,8 +66,6 @@ looking for my website? go to
   ([homepage](https://now.js.org)) - no clutter. just js, now.
 - [licraft (3)](https://github.com/tristan-f-r/licraft) - lichess board
   implementation for minecraft.
-- [motion-canvas-3d (3)](https://github.com/tristan-f-r/motion-canvas-3d) -
-  motion-canvas 3d integration
 - [sttcv (3)](https://github.com/tristan-f-r/sttcv) - Svelte tailwind component
   vite template
 - [svelte-text-path (3)](https://github.com/tristan-f-r/svelte-text-path)

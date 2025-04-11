@@ -42,11 +42,11 @@ looking for my website? go to
 - [guess-the-color (5)](https://github.com/tristan-f-r/guess-the-color)
   ([homepage](https://tristan-f-r.github.io/guess-the-color/)) - guess it. by
   name. good luck
+- [motion-canvas-3d (5)](https://github.com/tristan-f-r/motion-canvas-3d) -
+  motion-canvas 3d integration
 - [ferret_api (4)](https://github.com/tristan-f-r/ferret_api)
   ([homepage](https://tristan-f-r.github.io/ferret_api/)) - collection of ferret
   images
-- [motion-canvas-3d (4)](https://github.com/tristan-f-r/motion-canvas-3d) -
-  motion-canvas 3d integration
 - [scannable (4)](https://github.com/tristan-f-r/scannable)
   ([homepage](https://tristan-f-r.github.io/scannable/)) - QR code generation
   for a modern web

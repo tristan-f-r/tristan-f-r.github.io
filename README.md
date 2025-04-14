@@ -654,7 +654,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (376)
+## Forks (378)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1076,6 +1076,8 @@ looking for my website? go to
   A community logo for JS
 - [logos](https://github.com/tristan-f-r/logos)
   ([homepage](https://logos.maciej.codes)) - Create ridiculously fast Lexers
+- [loogle](https://github.com/tristan-f-r/loogle)
+  ([homepage](https://loogle.lean-lang.org/)) - Mathlib search tool
 - [lume.land](https://github.com/tristan-f-r/lume.land)
   ([homepage](https://lume.land)) - The website of lume.land
 - [lz4_flex](https://github.com/tristan-f-r/lz4_flex) - Fastest pure Rust
@@ -1310,6 +1312,9 @@ looking for my website? go to
 - [safetensors](https://github.com/tristan-f-r/safetensors)
   ([homepage](https://huggingface.co/docs/safetensors)) - Simple, safe way to
   store and distribute tensors
+- [SciLean](https://github.com/tristan-f-r/SciLean)
+  ([homepage](https://lecopivo.github.io/scientific-computing-lean/)) -
+  Scientific computing in Lean 4
 - [serde_nbt](https://github.com/tristan-f-r/serde_nbt) - A Serde library for
   the serialization and deserialization of Minecraft's Named Binary Tag format.
 - [serve-handler](https://github.com/tristan-f-r/serve-handler)

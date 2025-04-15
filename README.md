@@ -28,7 +28,7 @@ looking for my website? go to
 - [svelte-mathquill (8)](https://github.com/tristan-f-r/svelte-mathquill)
   ([homepage](https://tristan-f-r.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
-- [svelte-monaco (7)](https://github.com/tristan-f-r/svelte-monaco)
+- [svelte-monaco (8)](https://github.com/tristan-f-r/svelte-monaco)
   ([homepage](https://tristan-f-r.github.io/svelte-monaco/)) - svelte + monaco
   integration
 - [svelte-mosaic (6)](https://github.com/tristan-f-r/svelte-mosaic)

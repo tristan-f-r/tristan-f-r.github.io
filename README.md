@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://tristan-f-r.github.io](https://tristan-f-r.github.io) instead.
 
-## Projects (302)
+## Projects (303)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -447,6 +447,9 @@ looking for my website? go to
 - [onion-or-not (0)](https://github.com/tristan-f-r/onion-or-not) - game about
   if an article title is by the onion or not
 - [oppen (0)](https://github.com/tristan-f-r/oppen) - open p2p
+- [orientation (0)](https://github.com/tristan-f-r/orientation)
+  ([homepage](https://tristan-f-r.github.io/orientation/)) - (live) see device
+  orientation
 - [p2player (0)](https://github.com/tristan-f-r/p2player) - peer to peer games
 - [p2signal (0)](https://github.com/tristan-f-r/p2signal) - compression for
   signaling data in webrtc

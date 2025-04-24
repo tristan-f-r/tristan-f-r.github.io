@@ -25,12 +25,12 @@ looking for my website? go to
 - [maxwell (11)](https://github.com/tristan-f-r/maxwell)
   ([homepage](https://tristan-f-r.github.io/maxwell/)) - raw maxwell models and
   maxwell fan website
+- [svelte-monaco (9)](https://github.com/tristan-f-r/svelte-monaco)
+  ([homepage](https://tristan-f-r.github.io/svelte-monaco/)) - svelte + monaco
+  integration
 - [svelte-mathquill (8)](https://github.com/tristan-f-r/svelte-mathquill)
   ([homepage](https://tristan-f-r.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
-- [svelte-monaco (8)](https://github.com/tristan-f-r/svelte-monaco)
-  ([homepage](https://tristan-f-r.github.io/svelte-monaco/)) - svelte + monaco
-  integration
 - [svelte-mosaic (6)](https://github.com/tristan-f-r/svelte-mosaic)
   ([homepage](https://tristan-f-r.github.io/svelte-mosaic/)) - svelte's tiling
   window manager

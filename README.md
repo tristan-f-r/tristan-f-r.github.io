@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://tristan-f-r.github.io](https://tristan-f-r.github.io) instead.
 
-## Projects (303)
+## Projects (305)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -307,6 +307,10 @@ looking for my website? go to
 - [flight (0)](https://github.com/tristan-f-r/flight) - deno pipability CLI
   helper
 - [fluid (0)](https://github.com/tristan-f-r/fluid) - silly fluid simulation
+- [fseq-rr (0)](https://github.com/tristan-f-r/fseq-rr) - executable round robin
+  fseq generator!
+- [fseq-rs (0)](https://github.com/tristan-f-r/fseq-rs) - No description
+  provided.
 - [fullscreen (0)](https://github.com/tristan-f-r/fullscreen) - display an image
   as max sized as possible (school blocked backgrounds, and thus 1984)
 - [fuzzgression (0)](https://github.com/tristan-f-r/fuzzgression) - common

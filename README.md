@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://tristan-f-r.github.io](https://tristan-f-r.github.io) instead.
 
-## Projects (305)
+## Projects (306)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -538,6 +538,8 @@ looking for my website? go to
   to message socket
 - [SpanishConjunctions (0)](https://github.com/tristan-f-r/SpanishConjunctions) -
   Spanish Conjuctions!
+- [specht (0)](https://github.com/tristan-f-r/specht) - a lean4 formalization of
+  Specht's theorem
 - [sphere-coordinates-ts (0)](https://github.com/tristan-f-r/sphere-coordinates-ts) -
   implementation of Jonathan Kogan's method for sphere coordinates in
   TypeScript - Deno / Node

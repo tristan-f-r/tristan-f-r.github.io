@@ -31,7 +31,7 @@ looking for my website? go to
 - [svelte-mathquill (8)](https://github.com/tristan-f-r/svelte-mathquill)
   ([homepage](https://tristan-f-r.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
-- [svelte-mosaic (6)](https://github.com/tristan-f-r/svelte-mosaic)
+- [svelte-mosaic (7)](https://github.com/tristan-f-r/svelte-mosaic)
   ([homepage](https://tristan-f-r.github.io/svelte-mosaic/)) - svelte's tiling
   window manager
 - [beggar-my-neighbour (5)](https://github.com/tristan-f-r/beggar-my-neighbour) -

@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://tristan-f-r.github.io](https://tristan-f-r.github.io) instead.
 
-## Projects (306)
+## Projects (305)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -31,7 +31,7 @@ looking for my website? go to
 - [svelte-mathquill (8)](https://github.com/tristan-f-r/svelte-mathquill)
   ([homepage](https://tristan-f-r.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
-- [svelte-mosaic (7)](https://github.com/tristan-f-r/svelte-mosaic)
+- [svelte-mosaic (8)](https://github.com/tristan-f-r/svelte-mosaic)
   ([homepage](https://tristan-f-r.github.io/svelte-mosaic/)) - svelte's tiling
   window manager
 - [beggar-my-neighbour (5)](https://github.com/tristan-f-r/beggar-my-neighbour) -
@@ -444,7 +444,6 @@ looking for my website? go to
   ([homepage](https://oceanfacts.herokuapp.com/)) - 🌊 Ocean Facts is a
   limitless and free JSON API for a large collection of interesting curated
   facts related to the field of oceanography.
-- [oeis (0)](https://github.com/tristan-f-r/oeis) - impl of some oeis sequences
 - [one-by-one (0)](https://github.com/tristan-f-r/one-by-one)
   ([homepage](https://leodog896.github.io/one-by-one/)) - one by one pixel
   generator

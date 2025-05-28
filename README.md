@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://tristan-f-r.github.io](https://tristan-f-r.github.io) instead.
 
-## Projects (305)
+## Projects (306)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -483,6 +483,8 @@ looking for my website? go to
   provided.
 - [Quizvertor (0)](https://github.com/tristan-f-r/Quizvertor) - Browser
   extension that turns Quizlet study sets into note sheets!
+- [random-graph (0)](https://github.com/tristan-f-r/random-graph) - No
+  description provided.
 - [random_color (0)](https://github.com/tristan-f-r/random_color) - Deno package
   for making random colors -- port of davidmerfield/randomColor
 - [rava (0)](https://github.com/tristan-f-r/rava) - Java in rust

@@ -131,8 +131,8 @@ looking for my website? go to
 - [build-themes (1)](https://github.com/tristan-f-r/build-themes) - a repo of
   hypixel build themes (easily sortable)
 - [chessground-anim (1)](https://github.com/tristan-f-r/chessground-anim)
-  ([homepage](https://leodog896.github.io/chessground-anim/)) - animate pgn with
-  chessground
+  ([homepage](https://tristan-f-r.github.io/chessground-anim/)) - animate pgn
+  with chessground
 - [co-authored-by-deno (1)](https://github.com/tristan-f-r/co-authored-by-deno)
   ([homepage](https://co-authored-by.deno.dev)) - deno deploy function for
   co-authored-by

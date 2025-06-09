@@ -664,7 +664,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (382)
+## Forks (383)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1180,6 +1180,7 @@ looking for my website? go to
 - [nom](https://github.com/tristan-f-r/nom) - Rust parser combinator framework
 - [NoteBlockAPI](https://github.com/tristan-f-r/NoteBlockAPI) - A simple API for
   note block music
+- [nothing](https://github.com/tristan-f-r/nothing) - nothing
 - [NPC](https://github.com/tristan-f-r/NPC) - Collection of NPC Types, Utils,
   and Libraries for use on Total War: Remastered
 - [nx](https://github.com/tristan-f-r/nx) ([homepage](https://nx.dev)) - Smart

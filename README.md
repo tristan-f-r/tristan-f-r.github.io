@@ -28,12 +28,12 @@ looking for my website? go to
 - [svelte-monaco (9)](https://github.com/tristan-f-r/svelte-monaco)
   ([homepage](https://tristan-f-r.github.io/svelte-monaco/)) - svelte + monaco
   integration
+- [svelte-mosaic (9)](https://github.com/tristan-f-r/svelte-mosaic)
+  ([homepage](https://tristan-f-r.github.io/svelte-mosaic/)) - svelte's tiling
+  window manager
 - [svelte-mathquill (8)](https://github.com/tristan-f-r/svelte-mathquill)
   ([homepage](https://tristan-f-r.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
-- [svelte-mosaic (8)](https://github.com/tristan-f-r/svelte-mosaic)
-  ([homepage](https://tristan-f-r.github.io/svelte-mosaic/)) - svelte's tiling
-  window manager
 - [beggar-my-neighbour (5)](https://github.com/tristan-f-r/beggar-my-neighbour) -
   solving an irrelevant unsolved problem in combinatorial mathematics
 - [co-authored-by (5)](https://github.com/tristan-f-r/co-authored-by)

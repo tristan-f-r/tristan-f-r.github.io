@@ -664,7 +664,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (383)
+## Forks (384)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1331,6 +1331,9 @@ looking for my website? go to
 - [SciLean](https://github.com/tristan-f-r/SciLean)
   ([homepage](https://lecopivo.github.io/scientific-computing-lean/)) -
   Scientific computing in Lean 4
+- [sequencelib](https://github.com/tristan-f-r/sequencelib)
+  ([homepage](https://provables.github.io/sequencelib/)) - A platform for
+  formalizing OEIS sequences in Lean 4
 - [serde_nbt](https://github.com/tristan-f-r/serde_nbt) - A Serde library for
   the serialization and deserialization of Minecraft's Named Binary Tag format.
 - [serve-handler](https://github.com/tristan-f-r/serve-handler)

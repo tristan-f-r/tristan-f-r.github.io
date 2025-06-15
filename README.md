@@ -664,7 +664,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (384)
+## Forks (386)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1102,6 +1102,9 @@ looking for my website? go to
 - [marked](https://github.com/tristan-f-r/marked)
   ([homepage](https://marked.js.org/)) - A markdown parser and compiler. Built
   for speed.
+- [mathlib4](https://github.com/tristan-f-r/mathlib4)
+  ([homepage](https://leanprover-community.github.io/mathlib4_docs)) - The math
+  library of Lean 4
 - [mathlified](https://github.com/tristan-f-r/mathlified)
   ([homepage](mdsvex-math-starter.vercel.app)) - Exploring mathematics in the
   digital age
@@ -1386,6 +1389,10 @@ looking for my website? go to
 - [spellforged.github.io](https://github.com/tristan-f-r/spellforged.github.io)
   ([homepage](https://leodog896.github.io/spellforged.github.io/)) - No
   description provided.
+- [Sphere-Packing-Lean](https://github.com/tristan-f-r/Sphere-Packing-Lean)
+  ([homepage](https://thefundamentaltheor3m.github.io/Sphere-Packing-Lean/)) - A
+  Lean formalisation of Maryna Viazovska's Fields Medal-winning solution to the
+  sphere packing problem in dimension 8.
 - [spras](https://github.com/tristan-f-r/spras) - Signaling Pathway
   Reconstruction Analysis Streamliner (SPRAS)
 - [sqlparser-rs](https://github.com/tristan-f-r/sqlparser-rs) - Extensible SQL

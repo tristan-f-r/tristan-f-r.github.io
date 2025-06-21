@@ -664,7 +664,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (387)
+## Forks (388)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1377,6 +1377,9 @@ looking for my website? go to
   ill help you with any question for slimefun
 - [smileydown](https://github.com/tristan-f-r/smileydown) - A compiled markdown
   language that uses emoticons.
+- [snakemake](https://github.com/tristan-f-r/snakemake)
+  ([homepage](https://snakemake.github.io)) - This is the development home of
+  the workflow management system Snakemake. For general information, see
 - [Snel](https://github.com/tristan-f-r/Snel)
   ([homepage](https://crewdevio.mod.land/projects/Snel)) - A Cybernetical
   framework for svelte applications in deno

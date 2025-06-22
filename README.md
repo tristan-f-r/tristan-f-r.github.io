@@ -7,14 +7,14 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://tristan-f-r.github.io](https://tristan-f-r.github.io) instead.
 
-## Projects (306)
+## Projects (307)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
 - [awesome-minestom (57)](https://github.com/tristan-f-r/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
-- [npm-rank (38)](https://github.com/tristan-f-r/npm-rank)
+- [npm-rank (39)](https://github.com/tristan-f-r/npm-rank)
   ([homepage](https://tristan-f-r.github.io/npm-rank/PACKAGES.html)) - get
   popular npm packages
 - [deno-outdated (19)](https://github.com/tristan-f-r/deno-outdated) - Find
@@ -114,6 +114,9 @@ looking for my website? go to
   sorrys or proof_wanted in established lean formalization projects.
 - [zed-gruvbox-ish (2)](https://github.com/tristan-f-r/zed-gruvbox-ish) - zed
   port of the vscode gruvbox-ish theme
+- [a-real-website (1)](https://github.com/tristan-f-r/a-real-website)
+  ([homepage](https://tristan-f-r.github.io/a-real-website/)) - forgot to
+  mention! i love lakes.. water.... the fish!
 - [asciipinski (1)](https://github.com/tristan-f-r/asciipinski) - Make ascii
   sierpiński triangles
 - [asl-caption (1)](https://github.com/tristan-f-r/asl-caption)

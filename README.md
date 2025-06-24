@@ -47,6 +47,8 @@ looking for my website? go to
 - [ferret_api (4)](https://github.com/tristan-f-r/ferret_api)
   ([homepage](https://tristan-f-r.github.io/ferret_api/)) - collection of ferret
   images
+- [godot-jigsaw (4)](https://github.com/tristan-f-r/godot-jigsaw) - jigsaw
+  example in godot
 - [scannable (4)](https://github.com/tristan-f-r/scannable)
   ([homepage](https://tristan-f-r.github.io/scannable/)) - QR code generation
   for a modern web
@@ -60,8 +62,6 @@ looking for my website? go to
   to Deno
 - [gitpod-deno (3)](https://github.com/tristan-f-r/gitpod-deno) - A simple
   script that adds support for deno in gitpod.
-- [godot-jigsaw (3)](https://github.com/tristan-f-r/godot-jigsaw) - jigsaw
-  example in godot
 - [jsnow (3)](https://github.com/tristan-f-r/jsnow)
   ([homepage](https://now.js.org)) - no clutter. just js, now.
 - [licraft (3)](https://github.com/tristan-f-r/licraft) - lichess board

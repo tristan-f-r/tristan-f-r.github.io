@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://tristan-f-r.github.io](https://tristan-f-r.github.io) instead.
 
-## Projects (307)
+## Projects (308)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -531,6 +531,8 @@ looking for my website? go to
 - [safetensors-viewer (0)](https://github.com/tristan-f-r/safetensors-viewer)
   ([homepage](https://leodog896.github.io/safetensors-viewer/)) - tiny web
   safetensors viewer
+- [setup-pixi-cache-false (0)](https://github.com/tristan-f-r/setup-pixi-cache-false) -
+  separate repo i can use to toy around with ci that doesnt take Time
 - [shrimp (0)](https://github.com/tristan-f-r/shrimp) - tiny home assistant
 - [siki (0)](https://github.com/tristan-f-r/siki) - simple wikipedia
   explanations (rust)

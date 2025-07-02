@@ -669,7 +669,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (388)
+## Forks (390)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -783,6 +783,8 @@ looking for my website? go to
   provided.
 - [colabtools](https://github.com/tristan-f-r/colabtools) - Python libraries for
   Google Colaboratory
+- [combinatorial-games-ci](https://github.com/tristan-f-r/combinatorial-games-ci) -
+  Combinatorial game library in Lean 4 - fork test for pages
 - [compute-engine](https://github.com/tristan-f-r/compute-engine)
   ([homepage](https://cortexjs.io)) - An engine for symbolic manipulation and
   numeric evaluation of math formulas expressed with MathJSON
@@ -982,6 +984,7 @@ looking for my website? go to
   provided.
 - [gruvbox-ish](https://github.com/tristan-f-r/gruvbox-ish) - Gruvbox ish theme
   for vscode
+- [halp](https://github.com/tristan-f-r/halp) - Hypergraph Algorithms Package
 - [hantick-discord-bot](https://github.com/tristan-f-r/hantick-discord-bot)
   ([homepage](https://discord.gg/invite/srZ5BzJaRH)) - The official Discord bot
   for the Jantick Technologies Discord Server. - Use this source code for your

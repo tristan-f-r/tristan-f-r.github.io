@@ -783,7 +783,8 @@ looking for my website? go to
   provided.
 - [colabtools](https://github.com/tristan-f-r/colabtools) - Python libraries for
   Google Colaboratory
-- [combinatorial-games-ci](https://github.com/tristan-f-r/combinatorial-games-ci) -
+- [combinatorial-games-ci](https://github.com/tristan-f-r/combinatorial-games-ci)
+  ([homepage](https://tristan-f-r.github.io/combinatorial-games-ci/)) -
   Combinatorial game library in Lean 4 - fork test for pages
 - [compute-engine](https://github.com/tristan-f-r/compute-engine)
   ([homepage](https://cortexjs.io)) - An engine for symbolic manipulation and

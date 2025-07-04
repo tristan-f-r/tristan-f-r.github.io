@@ -78,6 +78,9 @@ looking for my website? go to
   auto-updating today's wordle
 - [type (3)](https://github.com/tristan-f-r/type)
   ([homepage](https://tristan-f-r.github.io/type/)) - ridiculously simple typer
+- [a-real-website (2)](https://github.com/tristan-f-r/a-real-website)
+  ([homepage](https://tristan-f-r.github.io/a-real-website/)) - forgot to
+  mention! i love lakes.. water.... the fish!
 - [cloud-url-resolver (2)](https://github.com/tristan-f-r/cloud-url-resolver) -
   easily resolve protocol/port setups on any development platform
 - [conspirasea (2)](https://github.com/tristan-f-r/conspirasea)
@@ -114,9 +117,6 @@ looking for my website? go to
   sorrys or proof_wanted in established lean formalization projects.
 - [zed-gruvbox-ish (2)](https://github.com/tristan-f-r/zed-gruvbox-ish) - zed
   port of the vscode gruvbox-ish theme
-- [a-real-website (1)](https://github.com/tristan-f-r/a-real-website)
-  ([homepage](https://tristan-f-r.github.io/a-real-website/)) - forgot to
-  mention! i love lakes.. water.... the fish!
 - [asciipinski (1)](https://github.com/tristan-f-r/asciipinski) - Make ascii
   sierpiński triangles
 - [asl-caption (1)](https://github.com/tristan-f-r/asl-caption)

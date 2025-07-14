@@ -669,7 +669,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (390)
+## Forks (392)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -948,6 +948,9 @@ looking for my website? go to
 - [fontsource](https://github.com/tristan-f-r/fontsource)
   ([homepage](https://fontsource.org)) - Self-host Open Source fonts in neatly
   bundled NPM packages.
+- [formal-conjectures](https://github.com/tristan-f-r/formal-conjectures)
+  ([homepage](https://google-deepmind.github.io/formal-conjectures/)) - A
+  collection of formalized statements of conjectures in Lean.
 - [freetype-sys](https://github.com/tristan-f-r/freetype-sys) - Low level
   bindings for the FreeType font library
 - [fresh](https://github.com/tristan-f-r/fresh)
@@ -1292,6 +1295,9 @@ looking for my website? go to
   Portfolio
 - [repl-auth-node](https://github.com/tristan-f-r/repl-auth-node) - Nodejs
   client for Repl Auth functions!
+- [reservoir](https://github.com/tristan-f-r/reservoir)
+  ([homepage](https://reservoir.lean-lang.org)) - Package registry for
+  Lean/Lake.
 - [riscv-gnu-toolchain-docker](https://github.com/tristan-f-r/riscv-gnu-toolchain-docker)
   ([homepage](https://github.com/riscv/riscv-gnu-toolchain)) - GNU toolchain for
   RISC-V, including GCC Dockerize

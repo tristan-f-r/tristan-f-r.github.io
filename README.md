@@ -669,7 +669,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (392)
+## Forks (393)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -801,6 +801,8 @@ looking for my website? go to
   ability to use a controller to play Minecraft Java Edition
 - [CratesPlus](https://github.com/tristan-f-r/CratesPlus)
   ([homepage](https://crates.plus)) - A free and great crates plugin for Spigot!
+- [cslib](https://github.com/tristan-f-r/cslib)
+  ([homepage](https://cs-lean.github.io/)) - A Lean library for Computer Science
 - [curl](https://github.com/tristan-f-r/curl) ([homepage](https://curl.se/)) - A
   command line tool and library for transferring data with URL syntax,
   supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS,

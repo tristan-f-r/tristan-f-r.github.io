@@ -669,7 +669,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (393)
+## Forks (394)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1609,6 +1609,9 @@ looking for my website? go to
   to use for everyone. No exceptions.
 - [yolov8_onnx_nodejs](https://github.com/tristan-f-r/yolov8_onnx_nodejs) -
   YOLOv8 inference using Node.js
+- [zulip](https://github.com/tristan-f-r/zulip)
+  ([homepage](https://zulip.com)) - Zulip server and web application.
+  Open-source team chat that helps teams stay productive and focused.
 
 ## Archived (14)
 

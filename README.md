@@ -12,7 +12,7 @@ looking for my website? go to
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [awesome-minestom (57)](https://github.com/tristan-f-r/awesome-minestom) - A
+- [awesome-minestom (58)](https://github.com/tristan-f-r/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [npm-rank (39)](https://github.com/tristan-f-r/npm-rank)
   ([homepage](https://tristan-f-r.github.io/npm-rank/PACKAGES.html)) - get
@@ -669,7 +669,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (394)
+## Forks (395)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1534,6 +1534,8 @@ looking for my website? go to
   projects.
 - [ultra](https://github.com/tristan-f-r/ultra) - Cryptanalysis of the Enigma
   machine in Rust.
+- [UnitedMet](https://github.com/tristan-f-r/UnitedMet) - A Bayesian
+  probabilistic method to predict metabolic phenotypes from transcriptomic data
 - [utp-punch](https://github.com/tristan-f-r/utp-punch) - uTP (micro transport
   protocol) over UDP library with NAT hole punching
 - [vala-language-server](https://github.com/tristan-f-r/vala-language-server) -

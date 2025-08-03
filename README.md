@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://tristan-f-r.github.io](https://tristan-f-r.github.io) instead.
 
-## Projects (308)
+## Projects (309)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -607,6 +607,9 @@ looking for my website? go to
   basic sveltekit socket io messanger
 - [t-square-fractal (0)](https://github.com/tristan-f-r/t-square-fractal) - No
   description provided.
+- [test-only-ci-ci-ci-test-just-for-testing-ci-test (0)](https://github.com/tristan-f-r/test-only-ci-ci-ci-test-just-for-testing-ci-test) -
+  if it wasnt clear this is a test repository for me to spend even more github
+  actions credit
 - [text-gradient (0)](https://github.com/tristan-f-r/text-gradient) - copy silly
   little text gradients to your favorite WYSWIG editors
 - [thequeen (0)](https://github.com/tristan-f-r/thequeen) - the queen was cool

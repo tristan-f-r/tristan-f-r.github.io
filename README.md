@@ -22,12 +22,12 @@ looking for my website? go to
 - [svelte-reparent (16)](https://github.com/tristan-f-r/svelte-reparent)
   ([homepage](https://tristan-f-r.github.io/svelte-reparent/)) - reparent
   elements with ease in svelte
+- [svelte-monaco (12)](https://github.com/tristan-f-r/svelte-monaco)
+  ([homepage](https://tristan-f-r.github.io/svelte-monaco/)) - svelte + monaco
+  integration
 - [maxwell (11)](https://github.com/tristan-f-r/maxwell)
   ([homepage](https://tristan-f-r.github.io/maxwell/)) - raw maxwell models and
   maxwell fan website
-- [svelte-monaco (10)](https://github.com/tristan-f-r/svelte-monaco)
-  ([homepage](https://tristan-f-r.github.io/svelte-monaco/)) - svelte + monaco
-  integration
 - [svelte-mosaic (9)](https://github.com/tristan-f-r/svelte-mosaic)
   ([homepage](https://tristan-f-r.github.io/svelte-mosaic/)) - svelte's tiling
   window manager

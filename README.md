@@ -672,7 +672,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (395)
+## Forks (396)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -712,6 +712,8 @@ looking for my website? go to
   crates and Rust's async IO types
 - [atom](https://github.com/tristan-f-r/atom) ([homepage](https://atom.io)) -
   :atom: The hackable text editor
+- [auth-astro](https://github.com/tristan-f-r/auth-astro) - Community maintained
+  Astro integration of @auth/core
 - [awesome](https://github.com/tristan-f-r/awesome) - 😎 Awesome lists about all
   kinds of interesting topics
 - [awesome-1](https://github.com/tristan-f-r/awesome-1) - A collection of

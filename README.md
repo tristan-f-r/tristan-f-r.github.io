@@ -12,7 +12,7 @@ looking for my website? go to
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [awesome-minestom (58)](https://github.com/tristan-f-r/awesome-minestom) - A
+- [awesome-minestom (59)](https://github.com/tristan-f-r/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [npm-rank (40)](https://github.com/tristan-f-r/npm-rank)
   ([homepage](https://tristan-f-r.github.io/npm-rank/PACKAGES.html)) - get
@@ -44,14 +44,14 @@ looking for my website? go to
   name. good luck
 - [motion-canvas-3d (5)](https://github.com/tristan-f-r/motion-canvas-3d) -
   motion-canvas 3d integration
+- [scannable (5)](https://github.com/tristan-f-r/scannable)
+  ([homepage](https://tristan-f-r.github.io/scannable/)) - QR code generation
+  for a modern web
 - [ferret_api (4)](https://github.com/tristan-f-r/ferret_api)
   ([homepage](https://tristan-f-r.github.io/ferret_api/)) - collection of ferret
   images
 - [godot-jigsaw (4)](https://github.com/tristan-f-r/godot-jigsaw) - jigsaw
   example in godot
-- [scannable (4)](https://github.com/tristan-f-r/scannable)
-  ([homepage](https://tristan-f-r.github.io/scannable/)) - QR code generation
-  for a modern web
 - [stun-only-rtc (4)](https://github.com/tristan-f-r/stun-only-rtc)
   ([homepage](https://tristan-f-r.github.io/stun-only-rtc/)) - WebRTC server
   demo with only a stun server

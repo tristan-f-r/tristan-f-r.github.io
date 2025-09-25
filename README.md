@@ -679,6 +679,9 @@ looking for my website? go to
 - [awesome-python](https://github.com/tristan-f-r/awesome-python)
   ([homepage](https://awesome-python.com/)) - A curated list of awesome Python
   frameworks, libraries, software and resources
+- [awesome-surreal](https://github.com/tristan-f-r/awesome-surreal)
+  ([homepage](https://surrealdb.com)) - A curated list of SurrealDB resources,
+  tools, utilities, and applications.
 - [qwik](https://github.com/tristan-f-r/qwik)
   ([homepage](https://qwik.builder.io/)) - The HTML-first framework. Instant
   apps of any size with ~ 1kb JS
@@ -726,9 +729,6 @@ looking for my website? go to
   list of awesome READMEs
 - [awesome-remark](https://github.com/tristan-f-r/awesome-remark)
   ([homepage](https://remark.js.org)) - Curated list of awesome remark resources
-- [awesome-surreal](https://github.com/tristan-f-r/awesome-surreal)
-  ([homepage](https://surrealdb.com)) - A curated list of SurrealDB resources,
-  tools, utilities, and applications.
 - [babel](https://github.com/tristan-f-r/babel)
   ([homepage](https://babel.dev)) - 🐠 Babel is a compiler for writing next
   generation JavaScript.

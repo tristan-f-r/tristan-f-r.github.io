@@ -12,7 +12,7 @@ looking for my website? go to
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [awesome-minestom (59)](https://github.com/tristan-f-r/awesome-minestom) - A
+- [awesome-minestom (60)](https://github.com/tristan-f-r/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
 - [npm-rank (40)](https://github.com/tristan-f-r/npm-rank)
   ([homepage](https://tristan-f-r.github.io/npm-rank/PACKAGES.html)) - get

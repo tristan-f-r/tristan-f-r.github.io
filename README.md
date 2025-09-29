@@ -212,7 +212,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/twind-colors/)) - Online copyable
   cheatsheet/list of twind colors.
 - [webpage (1)](https://github.com/tristan-f-r/webpage)
-  ([homepage](https://leodog896.com)) - My personal site
+  ([homepage](https://tristanfr.com)) - My personal site
 - [wenv (1)](https://github.com/tristan-f-r/wenv) - environment variable editor
   application for windows
 - [airfoil (0)](https://github.com/tristan-f-r/airfoil) - airfoil emulator !

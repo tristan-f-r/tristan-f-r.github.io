@@ -672,7 +672,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (396)
+## Forks (397)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -962,6 +962,8 @@ looking for my website? go to
   bindings for the FreeType font library
 - [fresh](https://github.com/tristan-f-r/fresh)
   ([homepage](https://fresh.deno.dev)) - The next-gen web framework.
+- [game-theoryst](https://github.com/tristan-f-r/game-theoryst) - Package for
+  creating game theory diagrams in Typst
 - [gdscript-online.github.io](https://github.com/tristan-f-r/gdscript-online.github.io)
   ([homepage](https://gdscript-online.github.io/)) - Try out GDScript without
   installing Godot

@@ -184,7 +184,7 @@ looking for my website? go to
   ([homepage](https://www.npmjs.com/package/pigpio-debugger)) - simple CLI tool
   for messing with pigpio
 - [point-visualizer (1)](https://github.com/tristan-f-r/point-visualizer)
-  ([homepage](https://leodog896.github.io/point-visualizer/)) - webpage for
+  ([homepage](https://tristan-f-r.github.io/point-visualizer/)) - webpage for
   serializable visualization of points in 3D space
 - [primeish (1)](https://github.com/tristan-f-r/primeish) - various prime
   utilities in a CLI
@@ -434,7 +434,7 @@ looking for my website? go to
 - [multidimensional-dice-roll (0)](https://github.com/tristan-f-r/multidimensional-dice-roll) -
   Multidimensional dice rolling
 - [n-body (0)](https://github.com/tristan-f-r/n-body)
-  ([homepage](https://leodog896.github.io/n-body/)) - ridiculously rudimentary
+  ([homepage](https://tristan-f-r.github.io/n-body/)) - ridiculously rudimentary
   n-body simulation
 - [ngrokify (0)](https://github.com/tristan-f-r/ngrokify) - Ngrok UI with egui
 - [nim-sprague-grundy (0)](https://github.com/tristan-f-r/nim-sprague-grundy) -

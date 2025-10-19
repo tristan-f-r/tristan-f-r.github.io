@@ -39,6 +39,8 @@ looking for my website? go to
 - [co-authored-by (5)](https://github.com/tristan-f-r/co-authored-by)
   ([homepage](https://tristan-f-r.github.io/co-authored-by/)) - generate
   co-authored-by descriptions & emails for authors
+- [godot-jigsaw (5)](https://github.com/tristan-f-r/godot-jigsaw) - jigsaw
+  example in godot
 - [guess-the-color (5)](https://github.com/tristan-f-r/guess-the-color)
   ([homepage](https://tristan-f-r.github.io/guess-the-color/)) - guess it. by
   name. good luck
@@ -50,8 +52,6 @@ looking for my website? go to
 - [ferret_api (4)](https://github.com/tristan-f-r/ferret_api)
   ([homepage](https://tristan-f-r.github.io/ferret_api/)) - collection of ferret
   images
-- [godot-jigsaw (4)](https://github.com/tristan-f-r/godot-jigsaw) - jigsaw
-  example in godot
 - [stun-only-rtc (4)](https://github.com/tristan-f-r/stun-only-rtc)
   ([homepage](https://tristan-f-r.github.io/stun-only-rtc/)) - WebRTC server
   demo with only a stun server

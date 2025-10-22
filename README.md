@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://tristan-f-r.github.io](https://tristan-f-r.github.io) instead.
 
-## Projects (309)
+## Projects (310)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -461,6 +461,8 @@ looking for my website? go to
   signaling data in webrtc
 - [paint (0)](https://github.com/tristan-f-r/paint) - simple drawing website
   (for learning!)
+- [paper-paper (0)](https://github.com/tristan-f-r/paper-paper) - A CLI for
+  generating fake disease module data using PAPER.
 - [parcel-implicit-env-test (0)](https://github.com/tristan-f-r/parcel-implicit-env-test) -
   triage for https://github.com/parcel-bundler/parcel/issues/8470
 - [pata (0)](https://github.com/tristan-f-r/pata) - p2p chat app

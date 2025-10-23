@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://tristan-f-r.github.io](https://tristan-f-r.github.io) instead.
 
-## Projects (310)
+## Projects (311)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -268,6 +268,8 @@ looking for my website? go to
   animations with a simple UI
 - [cvss-calc (0)](https://github.com/tristan-f-r/cvss-calc) - a simple CVSS
   string calculator & parser in Deno/Node
+- [cytoscape4py (0)](https://github.com/tristan-f-r/cytoscape4py) - Cytoscape
+  file formats reverse engineered and implemented in Python.
 - [dangle (0)](https://github.com/tristan-f-r/dangle) - hangman in rust
 - [deep-email-scan (0)](https://github.com/tristan-f-r/deep-email-scan) - scan
   for exposed emails in a github profile.

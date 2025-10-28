@@ -22,7 +22,7 @@ looking for my website? go to
 - [svelte-reparent (16)](https://github.com/tristan-f-r/svelte-reparent)
   ([homepage](https://tristan-f-r.github.io/svelte-reparent/)) - reparent
   elements with ease in svelte
-- [svelte-monaco (14)](https://github.com/tristan-f-r/svelte-monaco)
+- [svelte-monaco (15)](https://github.com/tristan-f-r/svelte-monaco)
   ([homepage](https://tristan-f-r.github.io/svelte-monaco/)) - svelte + monaco
   integration
 - [maxwell (11)](https://github.com/tristan-f-r/maxwell)

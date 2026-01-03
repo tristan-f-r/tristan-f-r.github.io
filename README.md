@@ -676,7 +676,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (398)
+## Forks (399)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1358,6 +1358,9 @@ looking for my website? go to
 - [rutt](https://github.com/tristan-f-r/rutt)
   ([homepage](https://deno.land/x/rutt)) - 🛣️ A tiny and fast http request
   router designed for use with deno and deno deploy
+- [rzk](https://github.com/tristan-f-r/rzk)
+  ([homepage](https://rzk-lang.github.io/rzk/)) - An experimental proof
+  assistant based on a type theory for synthetic ∞-categories.
 - [safetensors](https://github.com/tristan-f-r/safetensors)
   ([homepage](https://huggingface.co/docs/safetensors)) - Simple, safe way to
   store and distribute tensors

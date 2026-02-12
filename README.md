@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://tristan-f-r.github.io](https://tristan-f-r.github.io) instead.
 
-## Projects (311)
+## Projects (312)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -468,6 +468,8 @@ looking for my website? go to
 - [parcel-implicit-env-test (0)](https://github.com/tristan-f-r/parcel-implicit-env-test) -
   triage for https://github.com/parcel-bundler/parcel/issues/8470
 - [pata (0)](https://github.com/tristan-f-r/pata) - p2p chat app
+- [paxtools (0)](https://github.com/tristan-f-r/paxtools) - Python wrapper for
+  Paxtools
 - [peerjs.com (0)](https://github.com/tristan-f-r/peerjs.com)
   ([homepage](https://peerjs.com)) - Repository of the PeerJS website
 - [perfect-toitent-number (0)](https://github.com/tristan-f-r/perfect-toitent-number) -

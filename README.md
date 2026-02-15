@@ -25,7 +25,7 @@ looking for my website? go to
 - [svelte-monaco (15)](https://github.com/tristan-f-r/svelte-monaco)
   ([homepage](https://tristan-f-r.github.io/svelte-monaco/)) - svelte + monaco
   integration
-- [maxwell (11)](https://github.com/tristan-f-r/maxwell)
+- [maxwell (12)](https://github.com/tristan-f-r/maxwell)
   ([homepage](https://tristan-f-r.github.io/maxwell/)) - raw maxwell models and
   maxwell fan website
 - [svelte-mosaic (11)](https://github.com/tristan-f-r/svelte-mosaic)

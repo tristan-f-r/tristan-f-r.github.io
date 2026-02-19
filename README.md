@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://tristan-f-r.github.io](https://tristan-f-r.github.io) instead.
 
-## Projects (312)
+## Projects (313)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -625,6 +625,7 @@ looking for my website? go to
   time it is after X time
 - [tiptap-mathquill (0)](https://github.com/tristan-f-r/tiptap-mathquill) -
   tiptap extension for editing math in MathQuill
+- [tlex (0)](https://github.com/tristan-f-r/tlex) - Naive typst lexer library
 - [tokiponasona.github.io (0)](https://github.com/tristan-f-r/tokiponasona.github.io) -
   No description provided.
 - [tool-swing (0)](https://github.com/tristan-f-r/tool-swing) - Swing around

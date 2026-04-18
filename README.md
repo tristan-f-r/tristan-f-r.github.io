@@ -679,7 +679,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (399)
+## Forks (400)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1042,6 +1042,8 @@ looking for my website? go to
   hyprland.org website
 - [iconv-lite](https://github.com/tristan-f-r/iconv-lite) - Convert character
   encodings in pure javascript.
+- [idris2-algebra](https://github.com/tristan-f-r/idris2-algebra) - Lawful
+  algebraic structures in Idris2
 - [image](https://github.com/tristan-f-r/image) - Encoding and decoding images
   in Rust
 - [insolitum](https://github.com/tristan-f-r/insolitum) - No description

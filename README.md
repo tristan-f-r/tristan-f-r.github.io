@@ -679,7 +679,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (400)
+## Forks (401)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -888,6 +888,9 @@ looking for my website? go to
   description provided.
 - [druid-todo](https://github.com/tristan-f-r/druid-todo) - No description
   provided.
+- [dsub](https://github.com/tristan-f-r/dsub) - Open-source command-line tool to
+  run batch computing tasks and workflows on backend services such as Google
+  Cloud.
 - [dts_minify](https://github.com/tristan-f-r/dts_minify) - Minifier for
   TypeScript declaration files (.d.ts)
 - [dugite](https://github.com/tristan-f-r/dugite) - Elegant bindings for working

@@ -679,7 +679,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (401)
+## Forks (402)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1393,6 +1393,9 @@ looking for my website? go to
 - [shapeshift](https://github.com/tristan-f-r/shapeshift)
   ([homepage](https://www.sapphirejs.dev)) - Blazing fast input validation and
   transformation ⚡
+- [shellcheck](https://github.com/tristan-f-r/shellcheck)
+  ([homepage](https://www.shellcheck.net)) - ShellCheck, a static analysis tool
+  for shell scripts
 - [shields](https://github.com/tristan-f-r/shields)
   ([homepage](https://shields.io)) - Concise, consistent, and legible badges in
   SVG and raster format

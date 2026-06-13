@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://tristan-f-r.github.io](https://tristan-f-r.github.io) instead.
 
-## Projects (313)
+## Projects (314)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -252,6 +252,8 @@ looking for my website? go to
 - [canvas-coordinates (0)](https://github.com/tristan-f-r/canvas-coordinates)
   ([homepage](https://leodog896.github.io/canvas-coordinates/)) - visual canvas
   coordinates demo
+- [chandrupatla-algorithm-appendix (0)](https://github.com/tristan-f-r/chandrupatla-algorithm-appendix) -
+  No description provided.
 - [Chat (0)](https://github.com/tristan-f-r/Chat) - Just another Chat plugin
 - [chessground-triage-click-positioning (0)](https://github.com/tristan-f-r/chessground-triage-click-positioning) -
   triage for chessground for silly positioning issue

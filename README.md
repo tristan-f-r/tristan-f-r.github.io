@@ -681,7 +681,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (403)
+## Forks (404)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -901,6 +901,9 @@ looking for my website? go to
   ([homepage](http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/)) -
   ROBOTIS Dynamixel SDK (Protocol1.0/2.0)
 - [Egg](https://github.com/tristan-f-r/Egg) - egg
+- [egglog-demo](https://github.com/tristan-f-r/egglog-demo)
+  ([homepage](https://egraphs-good.github.io/egglog-demo/)) - Interactive demo
+  website for Egglog
 - [ego](https://github.com/tristan-f-r/ego)
   ([homepage](https://verse-lab.github.io/ego/ego/index.html)) - EGraphs in
   OCaml

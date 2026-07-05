@@ -76,6 +76,9 @@ looking for my website? go to
   svelte
 - [todays-wordle (3)](https://github.com/tristan-f-r/todays-wordle) -
   auto-updating today's wordle
+- [tristan-f-r.github.io (3)](https://github.com/tristan-f-r/tristan-f-r.github.io)
+  ([homepage](https://tristan-f-r.github.io/)) - auto-generated list of
+  repositories on my account, mainly for catalogue info
 - [type (3)](https://github.com/tristan-f-r/type)
   ([homepage](https://tristan-f-r.github.io/type/)) - ridiculously simple typer
 - [a-real-website (2)](https://github.com/tristan-f-r/a-real-website)
@@ -109,9 +112,6 @@ looking for my website? go to
 - [svelte-persistent (2)](https://github.com/tristan-f-r/svelte-persistent)
   ([homepage](https://tristan-f-r.github.io/svelte-persistent/)) - Svelte
   writables for local & session storage
-- [tristan-f-r.github.io (2)](https://github.com/tristan-f-r/tristan-f-r.github.io)
-  ([homepage](https://tristan-f-r.github.io/)) - auto-generated list of
-  repositories on my account, mainly for catalogue info
 - [unsolved-lean (2)](https://github.com/tristan-f-r/unsolved-lean)
   ([homepage](https://tristan-f-r.github.io/unsolved-lean/)) - catalogue of
   sorrys or proof_wanted in established lean formalization projects.

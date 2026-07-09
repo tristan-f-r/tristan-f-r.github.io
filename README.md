@@ -95,8 +95,6 @@ looking for my website? go to
 - [game-solver (2)](https://github.com/tristan-f-r/game-solver)
   ([homepage](https://tristan-f-r.github.io/game-solver/)) - Solve any
   sequential game.
-- [jigsawable (2)](https://github.com/tristan-f-r/jigsawable) - jigsaw game in
-  godot, demonstrating the `godot-jigsaw` repository example
 - [lyricly (2)](https://github.com/tristan-f-r/lyricly) - song lyrics in the cli
 - [math (2)](https://github.com/tristan-f-r/math) - No description provided.
 - [MCInstall (2)](https://github.com/tristan-f-r/MCInstall) - MultiMC
@@ -161,6 +159,8 @@ looking for my website? go to
 - [git-cli-viewer (1)](https://github.com/tristan-f-r/git-cli-viewer) - open git
   repos for browsing
 - [glop-nix (1)](https://github.com/tristan-f-r/glop-nix) - glop for nix
+- [jigsawable (1)](https://github.com/tristan-f-r/jigsawable) - jigsaw game in
+  godot, demonstrating the `godot-jigsaw` repository example
 - [kanban (1)](https://github.com/tristan-f-r/kanban) - a kanban management
   system
 - [Llama-Zips (1)](https://github.com/tristan-f-r/Llama-Zips) - A game with a

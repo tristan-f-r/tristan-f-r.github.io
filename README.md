@@ -681,7 +681,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (408)
+## Forks (410)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -705,6 +705,9 @@ looking for my website? go to
   Ace code editor
 - [actix-storage](https://github.com/tristan-f-r/actix-storage) - General key
   value storage for actix-web with switchable backends(redis, sled, hashmaps)
+- [agda-categories](https://github.com/tristan-f-r/agda-categories)
+  ([homepage](https://agda.github.io/agda-categories)) - A new Categories
+  library for Agda
 - [ahtml](https://github.com/tristan-f-r/ahtml) - html generation for ada (don't
   worry about it)
 - [AlchemistNPC](https://github.com/tristan-f-r/AlchemistNPC) - No description
@@ -888,6 +891,8 @@ looking for my website? go to
   platform written in Rust.
 - [Draconic-Evolution](https://github.com/tristan-f-r/Draconic-Evolution) - No
   description provided.
+- [drracket](https://github.com/tristan-f-r/drracket)
+  ([homepage](http://www.racket-lang.org/)) - DrRacket, IDE for Racket
 - [druid-todo](https://github.com/tristan-f-r/druid-todo) - No description
   provided.
 - [dsub](https://github.com/tristan-f-r/dsub) - Open-source command-line tool to

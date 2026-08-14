@@ -681,7 +681,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (410)
+## Forks (411)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1147,6 +1147,8 @@ looking for my website? go to
   ([homepage](https://deno.land/manual)) - Deno's documentation
 - [MarathonRust](https://github.com/tristan-f-r/MarathonRust) - No description
   provided.
+- [marcel](https://github.com/tristan-f-r/marcel) - Find the mime type of files,
+  examining file, filename and declared type
 - [marked](https://github.com/tristan-f-r/marked)
   ([homepage](https://marked.js.org/)) - A markdown parser and compiler. Built
   for speed.

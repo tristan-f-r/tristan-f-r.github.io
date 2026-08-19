@@ -14,7 +14,7 @@ looking for my website? go to
 
 - [awesome-minestom (72)](https://github.com/tristan-f-r/awesome-minestom) - A
   curated list of awesome Minestom libraries, resources, projects, and servers.
-- [npm-rank (48)](https://github.com/tristan-f-r/npm-rank)
+- [npm-rank (49)](https://github.com/tristan-f-r/npm-rank)
   ([homepage](https://tristan-f-r.github.io/npm-rank/PACKAGES.html)) - get
   popular npm packages
 - [deno-outdated (19)](https://github.com/tristan-f-r/deno-outdated) - Find
@@ -681,7 +681,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (411)
+## Forks (412)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1345,6 +1345,9 @@ looking for my website? go to
 - [reservoir](https://github.com/tristan-f-r/reservoir)
   ([homepage](https://reservoir.lean-lang.org)) - Package registry for
   Lean/Lake.
+- [rhyme](https://github.com/tristan-f-r/rhyme)
+  ([homepage](https://rhyme-lang.github.io)) - Rhyme is an Expressive
+  Data-Centric Query Language
 - [riscv-gnu-toolchain-docker](https://github.com/tristan-f-r/riscv-gnu-toolchain-docker)
   ([homepage](https://github.com/riscv/riscv-gnu-toolchain)) - GNU toolchain for
   RISC-V, including GCC Dockerize

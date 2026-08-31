@@ -681,7 +681,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (412)
+## Forks (414)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1263,6 +1263,7 @@ looking for my website? go to
   game server management panel built with PHP, React, and Go. Designed with
   security in mind, Pterodactyl runs all game servers in isolated Docker
   containers while exposing a beautiful and intuitive UI to end users.
+- [papers](https://github.com/tristan-f-r/papers) - No description provided.
 - [parcel](https://github.com/tristan-f-r/parcel)
   ([homepage](https://parceljs.org)) - The zero configuration build tool for the
   web. 📦🚀
@@ -1399,6 +1400,8 @@ looking for my website? go to
 - [safetensors](https://github.com/tristan-f-r/safetensors)
   ([homepage](https://huggingface.co/docs/safetensors)) - Simple, safe way to
   store and distribute tensors
+- [scholia](https://github.com/tristan-f-r/scholia)
+  ([homepage](https://qlever.scholia.wiki/)) - Wikidata-based scholarly profiles
 - [SciLean](https://github.com/tristan-f-r/SciLean)
   ([homepage](https://lecopivo.github.io/scientific-computing-lean/)) -
   Scientific computing in Lean 4

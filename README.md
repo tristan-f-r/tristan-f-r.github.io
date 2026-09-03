@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://tristan-f-r.github.io](https://tristan-f-r.github.io) instead.
 
-## Projects (314)
+## Projects (315)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -660,6 +660,8 @@ looking for my website? go to
 - [url-safe-base64-playground (0)](https://github.com/tristan-f-r/url-safe-base64-playground)
   ([homepage](https://leodog896.github.io/url-safe-base64-playground/)) - quick
   encode/decode for the npm library url-safe-base64
+- [url-to-wikidata (0)](https://github.com/tristan-f-r/url-to-wikidata) -
+  Converts URLs to wikidata entries.
 - [usdo (0)](https://github.com/tristan-f-r/usdo) - a history manager using JSON
   diffs
 - [vigenere_cipher (0)](https://github.com/tristan-f-r/vigenere_cipher) -
@@ -681,7 +683,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (414)
+## Forks (415)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1400,6 +1402,10 @@ looking for my website? go to
 - [safetensors](https://github.com/tristan-f-r/safetensors)
   ([homepage](https://huggingface.co/docs/safetensors)) - Simple, safe way to
   store and distribute tensors
+- [scholarly](https://github.com/tristan-f-r/scholarly)
+  ([homepage](https://scholarly.readthedocs.io/)) - Retrieve author and
+  publication information from Google Scholar in a friendly, Pythonic way
+  without having to worry about CAPTCHAs!
 - [scholia](https://github.com/tristan-f-r/scholia)
   ([homepage](https://qlever.scholia.wiki/)) - Wikidata-based scholarly profiles
 - [SciLean](https://github.com/tristan-f-r/SciLean)

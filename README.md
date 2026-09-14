@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://tristan-f-r.github.io](https://tristan-f-r.github.io) instead.
 
-## Projects (315)
+## Projects (316)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -406,6 +406,9 @@ looking for my website? go to
   the terminal
 - [logic-gate (0)](https://github.com/tristan-f-r/logic-gate) - computer logic
   gate simulator
+- [long-image (0)](https://github.com/tristan-f-r/long-image)
+  ([homepage](https://tristan-f-r.github.io/long-image/)) - displays an image
+  long
 - [mac-identifier (0)](https://github.com/tristan-f-r/mac-identifier) - find and
   identify mac addresses && outliers
 - [making-qr (0)](https://github.com/tristan-f-r/making-qr) - a little guide on

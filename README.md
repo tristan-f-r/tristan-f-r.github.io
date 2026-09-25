@@ -34,13 +34,13 @@ looking for my website? go to
 - [svelte-mathquill (8)](https://github.com/tristan-f-r/svelte-mathquill)
   ([homepage](https://tristan-f-r.github.io/svelte-mathquill/)) - MathQuill
   wrapper for Svelte
+- [godot-jigsaw (6)](https://github.com/tristan-f-r/godot-jigsaw) - jigsaw
+  example in godot
 - [beggar-my-neighbour (5)](https://github.com/tristan-f-r/beggar-my-neighbour) -
   solving an irrelevant unsolved problem in combinatorial mathematics
 - [co-authored-by (5)](https://github.com/tristan-f-r/co-authored-by)
   ([homepage](https://tristan-f-r.github.io/co-authored-by/)) - generate
   co-authored-by descriptions & emails for authors
-- [godot-jigsaw (5)](https://github.com/tristan-f-r/godot-jigsaw) - jigsaw
-  example in godot
 - [guess-the-color (5)](https://github.com/tristan-f-r/guess-the-color)
   ([homepage](https://tristan-f-r.github.io/guess-the-color/)) - guess it. by
   name. good luck
@@ -92,6 +92,8 @@ looking for my website? go to
 - [game-solver (2)](https://github.com/tristan-f-r/game-solver)
   ([homepage](https://tristan-f-r.github.io/game-solver/)) - Solve any
   sequential game.
+- [jigsawable (2)](https://github.com/tristan-f-r/jigsawable) - jigsaw game in
+  godot, demonstrating the `godot-jigsaw` repository example
 - [lyricly (2)](https://github.com/tristan-f-r/lyricly) - song lyrics in the cli
 - [math (2)](https://github.com/tristan-f-r/math) - No description provided.
 - [MCInstall (2)](https://github.com/tristan-f-r/MCInstall) - MultiMC
@@ -159,8 +161,6 @@ looking for my website? go to
 - [git-cli-viewer (1)](https://github.com/tristan-f-r/git-cli-viewer) - open git
   repos for browsing
 - [glop-nix (1)](https://github.com/tristan-f-r/glop-nix) - glop for nix
-- [jigsawable (1)](https://github.com/tristan-f-r/jigsawable) - jigsaw game in
-  godot, demonstrating the `godot-jigsaw` repository example
 - [kanban (1)](https://github.com/tristan-f-r/kanban) - a kanban management
   system
 - [Llama-Zips (1)](https://github.com/tristan-f-r/Llama-Zips) - A game with a

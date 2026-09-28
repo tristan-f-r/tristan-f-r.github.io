@@ -66,6 +66,9 @@ looking for my website? go to
   ([homepage](https://now.js.org)) - no clutter. just js, now.
 - [licraft (3)](https://github.com/tristan-f-r/licraft) - lichess board
   implementation for minecraft.
+- [rotator (3)](https://github.com/tristan-f-r/rotator)
+  ([homepage](https://tristan-f-r.github.io/rotator/)) - reupload of source code
+  from https://gitlab.com/jonot-cyber/rotate-game
 - [sttcv (3)](https://github.com/tristan-f-r/sttcv) - Svelte tailwind component
   vite template
 - [svelte-text-path (3)](https://github.com/tristan-f-r/svelte-text-path)
@@ -100,9 +103,6 @@ looking for my website? go to
   installation script for linux.
 - [redos.deno (2)](https://github.com/tristan-f-r/redos.deno) - check for ReDoS
   vulnerabilities in code.
-- [rotator (2)](https://github.com/tristan-f-r/rotator)
-  ([homepage](https://tristan-f-r.github.io/rotator/)) - reupload of source code
-  from https://gitlab.com/jonot-cyber/rotate-game
 - [sim (2)](https://github.com/tristan-f-r/sim)
   ([homepage](https://tristan-f-r.github.io/sim/)) - implementation of sim (the
   game)

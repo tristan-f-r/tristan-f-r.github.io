@@ -686,7 +686,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (415)
+## Forks (416)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1351,6 +1351,7 @@ looking for my website? go to
 - [reservoir](https://github.com/tristan-f-r/reservoir)
   ([homepage](https://reservoir.lean-lang.org)) - Package registry for
   Lean/Lake.
+- [resvg](https://github.com/tristan-f-r/resvg) - An SVG rendering library.
 - [rhyme](https://github.com/tristan-f-r/rhyme)
   ([homepage](https://rhyme-lang.github.io)) - Rhyme is an Expressive
   Data-Centric Query Language

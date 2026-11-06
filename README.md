@@ -686,7 +686,7 @@ looking for my website? go to
   ([homepage](https://leodog896.github.io/yolov5-bound-check/)) - check yolov5
   bounding box on an image
 
-## Forks (416)
+## Forks (417)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -1319,6 +1319,10 @@ looking for my website? go to
   of MultiMC)
 - [prismlauncher.github.io](https://github.com/tristan-f-r/prismlauncher.github.io)
   ([homepage](https://prismlauncher.org)) - The Prism Launcher website.
+- [Prodigy](https://github.com/tristan-f-r/Prodigy) - A tool that analyses
+  probabilistic programs, allows for automatic invariance checking and handles
+  inference all based on Generatingfunctionology: personal commit checkout and
+  fixes before claude contributions
 - [pylibsrtp](https://github.com/tristan-f-r/pylibsrtp) - Python bindings for
   libsrtp
 - [python-playsounds](https://github.com/tristan-f-r/python-playsounds) - No
